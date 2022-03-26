@@ -392,6 +392,73 @@ https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LOCAL NOW ADRENALINE RUSH" tvg-logo=" "  group-title="LOCAL-NOW",LOCAL NOW ADRENALINE RUSH (US)
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="INSIGHT TV (US)" tvg-logo=" "  group-title="AMAGI-TV",INSIGHT TV (US)
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YOUNG HOLLYWOOD (US)" tvg-logo=" "  group-title="AMAGI-TV",YOUNG HOLLYWOOD (US)
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YAHOO FINANCE (US)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh9MB1CZd991750JrUs4YG_1RmHWQGVZFHJmI_pqrtD0p4zXJElbIYt56BaJ4c1RHDw43oBD1iy1oe29nYZzRL0j6A0GAdA1XKCG8_QG7bL64aNResleD44xv_CBQD-8UWV6XN8NlyhsxUm8nP5pu_gZ6gKLco5DLSjUkUZyF49Z-qmZztsytGIo_hJ"  group-title="AMAGI-TV",YAHOO FINANCE (US)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AWTY (US)" tvg-logo=" "  group-title="AMAGI-TV",AWTY (US)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HNCFREE (US)" tvg-logo=" "  group-title="AMAGI-TV",HNCFREE (US)
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VENNTV (US)" tvg-logo=" "  group-title="AMAGI-TV",VENNTV (US)
+https://venntv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TENNIS CHANNEL (US)" tvg-logo=" /"  group-title="AMAGI-TV",TENNIS CHANNEL (US)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITE (DE)" tvg-logo=" "  group-title="AMAGI-TV",XITE (DE)
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CLUBBING TV (US)" tvg-logo=" "   group-title="AMAGI-TV",CLUBBINGTV (US)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CRACKLE (US)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjm3Nj9qgZS9tCp_LL18dz0dODwaNJRZiWcAqSnwR7caZry3k_4gAoJ-uhQfB-6Db_dI0rMfKoPDDE9uLJZMDjS7wUYJz4v3RWwsKl7K9GXdWu8rGbctfqWq6Z9HLty4gHgxVx5CYyeanifoxfhSKNBQcIvUfe_YZ3sQNdkPhZQGwk5brOv1u7L7oHh"  group-title="AMAGI-TV",CRACKLE (US)
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MYTIME (US)" tvg-logo=" "  group-title="AMAGI-TV",MYTIME (US)
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MOVIESPHEREUK (US)" tvg-logo=" "  group-title="AMAGI-TV",MOVIESPHEREUK (US)
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AMMORUNTIME (US)" tvg-logo=" "  group-title="AMAGI-TV",AMMORUNTIME (US)
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SPORTSGRID (US)" tvg-logo=" "  group-title="AMAGI-TV",SPORTSGRID (US)
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LOVE NATURE (US)" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2018/09/love_nature_logo_white_rgb.png"  group-title="AMAGI-TV",LOVE NATURE (US)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LEGO (US)" tvg-logo=" "  group-title="AMAGI-TV",LEGO (US)
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="SMITH SONIANA CHANNEL (US)" tvg-logo=" "  group-title="AMAGI-TV",SMIT SONIANA CHANNEL (US)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AMMO (US)" tvg-logo=" "  group-title="AMAGI-TV",AMMO (US)
+https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CMC (US)" tvg-logo=" "  group-title="AMAGI-TV",CMC (US)
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PAC12 (US)" tvg-logo=" "  group-title="AMAGI-TV",PAC12 (US)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BRAT TV (US)" tvg-logo=" "  group-title="AMAGI-TV",BRAT TV (US)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TASTE MADE (US)" tvg-logo=" "  group-title="AMAGI-TV",TASTE MADE (US)
+https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
