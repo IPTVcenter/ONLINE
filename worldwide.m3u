@@ -901,8 +901,8 @@ http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="STAR GOLD" tvg-logo=" "  group-title="STREAM",STAR GOLD (IN)
 http://103.72.179.30:1935/HindiMovies/STAR_GOLD.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM", (IN)
-
+#EXTINF:-1 tvg-id="SONY MAX" tvg-logo=" "  group-title="STREAM",SONY MAX (IN)
+http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8#
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM", (IN)
 
