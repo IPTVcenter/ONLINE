@@ -464,8 +464,61 @@ http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NRB TV" tvg-logo=" "  group-title="TULIX-TV",NRB TV (US)
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="92 NEWS" tvg-logo="https://pbs.twimg.com/profile_images/940547058267717632/W0AAWT1v_400x400.jpg"  group-title="VISIONIP-TV",92 NEWS (UK)
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPOT LIGHT" tvg-logo=" "   group-title="VISIONIP-TV",SPOT LIGHT (UK)
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="GOOD NEWS TV" tvg-logo=" "  group-title="VISIONIP-TV",GOOD NEWS TV (UK)
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-goodnewstv-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="BRITISH MUSLIM TV" tvg-logo=" "  group-title="VISIONIP-TV",BRITISH MUSLIM TV (UK)
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MTV" tvg-logo=" "  group-title="PLUTO-TV",MTV (US)
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo=" "  group-title="PLUTO-TV",CNN (UK)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png"  group-title="PLUTO-TV",NICK (UK)
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF:-1 tvg-id="NICK TOTALLY TURTLES" tvg-logo=" "  group-title="PLUTO-TV",NICK TOTALLY TURTLES (UK)
+https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
+#EXTINF:-1 tvg-id="NICK JR DORA TV" tvg-logo=" "  group-title="PLUTO-TV",NICK JR DORA TV (UK)
+https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo=" "  group-title="PLUTO-TV",NICK JR (UK)
+https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
 
+#EXTINF:-1 tvg-id="MADNI TV (UK)" tvg-logo=" "  group-title="NET-TV",MADNI TV (UK)
+https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/madnitvenglish/madnienglish_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="BKIDS HD (ID)" tvg-logo=" "   group-title="NET-TV",BKIDS HD (ID)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#EXTINF:-1 tvg-id="ALJAZEERA (USA)" tvg-logo=" "   group-title="NET-TV",ALJAZEERA (US)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="GAY TV (UK)" tvg-logo=" "  group-title="ADULT",GAY TV (UK)
+http://play.iptvxxx.net/gay.m3u8
+#EXTINF:-1 tvg-id="ARIRANG (ASIA)" tvg-logo=" "  group-title="NET-TV",ARIRANG (ASIA)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+EXTINF:-1 tvg-id="PARLIAMENT TV (NZ)" tvg-logo=" "  group-title="NET-TV",PARLIAMENT TV (NZ)
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="SAAZO AWAZ" tvg-logo=" "   group-title="NET-TV",SAAZO AWAZ (PK)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
+#EXTINF:-1 tvg-id="CARE WORLD" tvg-logo="http://www.careworldtv.com/wp-content/themes/ipt_careworld/images/logo.jpg"   group-title="NET-TV",CARE WORLD (IN)
+https://video.fjrh1-1.fna.fbcdn.net/v/t42.1790-2/263831824_1432060057208802_1299930053134895267_n.mp4?_nc_cat=101&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjMwMCwicmxhIjo1NDgsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_ohc=h-VzhrgVrQ4AX9QbAqx&rl=300&vabr=165&_nc_ht=video.fjrh1-1.fna&edm=AItmks8EAAAA&oh=03909bfa0c5614e10232105e15f2d338&oe=61B16FC0
+#EXTINF:-1 tvg-id="RUNWAY TV" tvg-logo="http://www.runwaylive.com/wp-content/uploads/2016/06/runway-tv-bug-1.jpg"   group-title="NET-TV",RUNWAY TV (UK)
+https://vse-as-all25.secdn.net/runway-origin/live/runway/chunklist.m3u8
+#EXTINF:-1 tvg-id="JOO MUSIC" tvg-logo="https://www.joomusic.info/assets/images/logo.png"   group-title="NET-TV",JOO MUSIC (IN)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INH 24" tvg-logo="https://www.inhnews.in/images/logos/logo.png"  group-title="WMNCDN-TV",INH 24 (IN)
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="BANSAL NEWS (IN)" tvg-logo=" "  group-title="WMNCDN-TV",BANSAL NEWS (IN)
+https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="SHUBHSANDESH TV (IN)" tvg-logo=" "  group-title="WMNCDN-TV",SHUBHSANDESH TV (IN)
+http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-id="IND 24 (IN)" tvg-logo=" "  group-title="WMNCDN-TV",IND 24 (IN)
+https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="JANTA TV (IN)" tvg-logo=" "  group-title="WMNCDN-TV",JANTA TV (IN)
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="DISHA TV (IN)" tvg-logo="https://dishatv.com/img/logo.png"  group-title="WMNCDN-TV",DISHA TV (IN)
+http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
 
 
 
