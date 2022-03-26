@@ -839,31 +839,210 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="PLAY",B4U MUSIC (IN)
+http://14.199.164.20:4001/play/a0wk/index.m3u8
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/kxs2pmLg.png"  group-title="PLAY",B4U MOVIES (IN)
+http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:-1 tvg-id="BOX CINEMA" tvg-logo=" "  group-title="PLAY",BOX CINEMA (IN)
+http://14.199.164.20:4001/play/a0su/index.m3u8
+#EXTINF:-1 tvg-id="DISHUM TV" tvg-logo=" "  group-title="PLAY",DISHUM TV (IN)
+http://14.199.164.20:4001/play/a0pe/index.m3u8
+#EXTINF:-1 tvg-id="E24" tvg-logo=" "  group-title="PLAY",E24 (IN)
+http://14.199.164.20:4001/play/a0pc/index.m3u8
+#EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" "  group-title="PLAY",FOOD FOOD (IN)
+http://14.199.164.20:4001/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-id="MUSIC INDIA" tvg-logo=" "  group-title="PLAY",MUSIC INDIA (IN)
+http://14.199.164.20:4001/play/a0mt/index.m3u8
+#EXTINF:-1 tvg-id="MASTIII" tvg-logo=" "  group-title="PLAY",MASTIII (IN)
+http://14.199.164.20:4001/play/a0my/index.m3u8
+#EXTINF:-1 tvg-id="TEHZEEB TV" tvg-logo=" "  group-title="PLAY",TEHZEEB TV (IN)
+http://14.199.164.20:4001/play/a0p5/index.m3u8
+#EXTINF:-1 tvg-id="SHRI NAVGRAH CHANNEL" tvg-logo=" "  group-title="PLAY",SHRI NAVGRAH CHANNEL (IN)
+http://14.199.164.20:4001/play/a0sm/index.m3u8
+#EXTINF:-1 tvg-id="SARV DHARM SANGAM" tvg-logo=" "  group-title="PLAY",SARV DHARM SANGAM (IN)
+http://14.199.164.20:4001/play/a0nn/index.m3u8
+#EXTINF:-1 tvg-id="DHINCHAAK" tvg-logo=" "  group-title="PLAY",DHINCHAAK (IN)
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 tvg-id="M TUNES"  tvg-logo=" " group-title="PLAY",M TUNES (IN)
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:-1 tvg-id="9XM JALWA" tvg-logo=" "  group-title="PLAY",9XM JALWA (IN)
+http://14.199.164.20:4001/play/a0nc/index.m3u8
+
+
+#EXTINF:-1 tvg-id="AVA FAMILY" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/avafamily-vipotv-min.png"   group-title="STREAM",AVA FAMILY (IR)
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVA SERIES" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/ava-series-vipotv.png"  group-title="STREAM",AVA SERIES (IR)
+http://51.210.199.4/hls/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="BT SPORTS 1" tvg-logo=" "  group-title="PLAY",BT SPORTS 1 (UK)
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 tvg-id="BT SPORTS 2" tvg-logo=" "  group-title="PLAY",BT SPORTS 2 (UK)
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/channel_list/1170x658withlog_1953200347.png"  group-title="PLAY",ZEE ACTION (IN)
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv-uk.jpg"  group-title="PLAY",ZEE TV (UK)
+http://93.152.174.144:4000/play/zee/index.m3u8
+ 
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DdrIzhgL.png"  group-title="STREAM",COLORS (IN)
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="SONY SAB" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/8GJdgZXd.png"  group-title="STREAM",SONY SAB (IN)
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/SET_India_Logo.gif"  group-title="STREAM",SONY (IN)
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/star-new1-plus.jpg"  group-title="STREAM",STAR PLUS (IN)
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MN2n6jtV.png"  group-title="STREAM",STAR BHARAT (IN)
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" "  group-title="DIRECT-TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" "  group-title="DIRECT-TV",STAR BHARAT HD (IN)
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" "  group-title="DIRECT-TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="DIRECT-TV",ZEE TV (UK)
+http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="DIRECT-TV",ZEE TV HD (IN)
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="DIRECT-TV",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="DIRECT-TV",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8 
+#EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo=" "  group-title="DIRECT-TV",SAHARA ONE (IN)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8 
+#EXTINF:-1 tvg-id="UTV HD" tvg-logo=" "  group-title="DIRECT-TV",UTV HD (IN)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" "  group-title="DIRECT-TV",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" "  group-title="DIRECT-TV",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD 2" tvg-logo=" "  group-title="DIRECT-TV",STAR GOLD 2 (IN)
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" "  group-title="DIRECT-TV",ZEE CINEMA HD (IN)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo=" "  group-title="DIRECT-TV",ZEE CLASSIC (IN)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo=" "  group-title="DIRECT-TV",ZEE ACTION (IN)
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo=" "  group-title="DIRECT-TV",ZEE ANMOL CINEMA (IN)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="SONY MAX 2"  group-title="DIRECT-TV",SONY MAX 2 (IN)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="DIRECT-TV",B4U MOVIES (IN)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="E24" tvg-logo=" "  group-title="DIRECT-TV",E24 (IN)
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="DIRECT-TV",B4U MUSIC (IN)
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZOOM" tvg-logo=" "  group-title="DIRECT-TV",ZOOM (IN)
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-logo=" "  group-title="DIRECT-TV",MTV (IN)
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTV BEATS HD" tvg-logo=" "  group-title="DIRECT-TV",MTV BEATS HD (IN)
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="DIRECT-TV",B4U MOVIES (UK)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="UTV ACTION" tvg-logo=" "  group-title="DIRECT-TV",UTV ACTION (IN)
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+
+
+#EXTINF:-1 tvg-id="STAR MOVIES HD (IN)" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png"  group-title="LOCKLE",STAR MOVIES HD (IN)
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="COLORS HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"   group-title="LOCKLE",COLORS HD (IN)
+http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="LOCKLE",STAR PLUS HD (IN)
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/d3ZNcauZ.png"  group-title="LOCKLE",STAR WORLD HD (IN)
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Lad3I4Yq.png"  group-title="LOCKLE",SONY MAX HD (IN)
+http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-id="SONY HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gZcwSo7Q.png"  group-title="LOCKLE",SONY HD (IN)
+http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="GEO HD (PK)" tvg-logo=" "  group-title="LOCKLE",GEO HD (PK)
+http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="HUM HD (PK)" tvg-logo=" "  group-title="LOCKLE",HUM HD (PK)
+http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-id="URDU 1 (PK)" tvg-logo=" "  group-title="LOCKLE",URDU 1 (PK)
+http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="GEO SUPER (PK)" tvg-logo=" "  group-title="LOCKLE",GEO SUPER (PK)
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png"   group-title="LOCKLE",ZEE TV HD (IN)
+http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"   group-title="LOCKLE",ZEE CINEMA HD (IN)
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="24 NEW HD (PK)" tvg-logo=" "  group-title="LOCKLE",24 NEWS HD (PK)
+http://221.120.204.4/24-NEWS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="HUM NEWS (PK)" tvg-logo=" "  group-title="LOCKLE",HUM NEWS (PK)
+http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="GTV NEWS (PK)" tvg-logo=" "  group-title="LOCKLE",GTV NEWS (PK)
+http://221.120.204.4/GTV-NEWS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="LAHORE RANG (PK)" tvg-logo=" "  group-title="LOCKLE",LAHORE RANG (PK)
+http://221.120.204.4/LAHORE-RANG-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="PTV SPORTS (PK)" tvg-logo=" "  group-title="LOCKLE",PTV SPORTS (PK)
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="HORNBILL TV (IN)" tvg-logo=" "  group-title="DIGITAL-TV",HORNBILL TV (IN)
+http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
+#EXTINF:-1 tvg-id="CNN (US)" tvg-logo=" "  group-title="DIGITAL-TV",CNN (US)
+http://218.202.220.2:5000/nn_live.ts?id=CNN
+#EXTINF:-1 tvg-id="HD FASHION (US)" tvg-logo=" "  group-title="DIGITAL-TV",HD FASHION (US)
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="ONE GOLF (PK)"  tvg-logo=" "   group-title="DIGITAL-TV",ONE GOLF (PK)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="PEACE TV (UK)" tvg-logo=" "  group-title="DIGITAL-TV",PEACE TV (UK)
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="BEACHY (UK)" tvg-logo=" "  group-title="DIGITAL-TV",BEACHY (UK)
+http://30a-tv.com/beachy.m3u8
+#EXTINF:-1 tvg-id="SAFE TV (US)" tvg-logo=" "  group-title="ONLINE-TV",SAFE TV (US)
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="FTF" tvg-logo=" "  group-title="CDN-TV",FTF (US)
+https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="SMASH 7 NEWS" tvg-logo=" "  group-title="SMASH-IPTV",SMASH 7NEWS (MT)
+http://a3.smashmalta.com:82/live/smash/smash/29.ts
+#EXTINF:-1 tvg-id="SMASH FOOD" tvg-logo=" "  group-title="SMASH-IPTV",SMASH FOOD (MT)
+http://a3.smashmalta.com:82/live/smash/smash/15.ts
+#EXTINF:-1 tvg-id="SMASH EXPLORE" tvg-logo=" "  group-title="SMASH-IPTV",SMASH EXPLORE (MT)
+http://a3.smashmalta.com:82/live/smash/smash/23.ts
+#EXTINF:-1 tvg-id="SMASH MUSIC" tvg-logo=" "  group-title="SMASH-IPTV",SMASH MUSIC (MT)
+http://a3.smashmalta.com:82/live/smash/smash/8.ts
+ 
+#EXTINF:-1 tvg-id="FRANCE 24" tvg-logo=" "  group-title="MY-NET",FRANCE 24 (IN)
+http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/47.m3u8
+#EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo=" "  group-title="MY-NET",SAHARA ONE (IN)
+http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/54.ts
+#EXTINF:-1 tvg-id="CNA" tvg-logo=" "  group-title="MY-NET",CNA (ASIA)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/57
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo=" "  group-title="MY-NET",ALJAZEERA (UK)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/60
+#EXTINF:-1 tvg-id="NHK WORLD" tvg-logo=" "  group-title="MY-NET",NHK WORLD (JP)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/62
+#EXTINF:-1 tvg-id="DW" tvg-logo=" "  group-title="MY-NET",DW (US)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/64
+#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wdPs8bpF.png"  group-title="MY-NET",ZEE NEWS (IN)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/68
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vanSrQll.png"  group-title="MY-NET",B4U MOVIES (IN)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/69
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="MY-NET",B4U MUSIC (IN)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/70
+#EXTINF:-1 tvg-id="CGTN" tvg-logo=" "  group-title="MY-NET",CGTN (ASIA)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/71
+#EXTINF:-1 tvg-id="CGTN DOCUMENTARY" tvg-logo=" "  group-title="MY-NET",CGTN DOCUMENTARY (ASIA)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/72
+#EXTINF:-1 tvg-id="ARIRANG WORLD" tvg-logo=" "  group-title="MY-NET",ARIRANG WORLD (ASIA)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/82
+#EXTINF:-1 tvg-id="ZING" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1x8qAt8z.png"  group-title="MY-NET",ZING (IN)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
+#EXTINF:-1 tvg-id="TRT WORLD" tvg-logo=" "  group-title="MY-NET",TRT WORLD (ASIA)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/84
+#EXTINF:-1 tvg-id="RT" tvg-logo=" "  group-title="MY-NET",RT (US)
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/56
 
 
 
