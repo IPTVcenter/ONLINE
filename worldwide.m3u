@@ -63,7 +63,7 @@ https://itvoign.multitvsolution.com/idvo/enterr10movies.m3u8
 #EXTINF:-1 tvg-id="DD RETRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/DD_Retro.png/220px-DD_Retro.png"  group-title="MULTI-TV",DD RETRO (IN)
 https://idvd.multitvsolution.com/idvo/ddretro.m3u8
 
-logo="https://a.jsrdn.com/hls/22814/mma-junkie/logo_20200521_193041.png"  group-title="DISTRO-TV",MMA JUNKIE (US)
+#EXTINF:-1 tvg-id="MMA JUNKIE"  tvg-logo="https://a.jsrdn.com/hls/22814/mma-junkie/logo_20200521_193041.png"  group-title="DISTRO-TV",MMA JUNKIE (US)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 #EXTINF:-1 tvg-id="REELZ" tvg-logo="https://s13686.pcdn.co/wp-content/themes/reelz2/assets/images/reelz-header-logo-7780989e3b.png"    group-title="DISTRO-TV",REELZ (US)
 https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
@@ -346,8 +346,6 @@ http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/chunklist.m3u8
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:-1 tvg-id="NEWS NET (US)" tvg-logo=" "  group-title="ONLINE-TV",NEWS NET (US)
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
-#EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-logo=" "  group-title="ONLINE-TV",ANJAN TV (IN)
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 tvg-id="CITY NEWS HD" tvg-logo=" "  group-title="ONLINE-TV",CITY NEWS HD (PK)
 http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/chunklist.m3u8
 
@@ -764,8 +762,9 @@ https://m-c06-j2apps.s.llnwi.net/hls/8051.Sanskriti24X7.in.m3u8
 https://m-c28-j2apps.s.llnwi.net/hls/8045.AnaadiTV.in.m3u8
 #EXTINF:-1 tvg-id="HIFF MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",HIFF MOVIES (IN)
 https://m-c28-j2apps.s.llnwi.net/hls/8044.HiffMovies.in.m3u8
-#EXTINF:-1 tvg-id="SS TV (IN)" tvg-logo=" "  group-title="MX-TV",SS TV (IN)
-https://m-c04-j2apps.s.llnwi.net/hls/8039.SSTV.in.m3u8
+#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+
+
 #EXTINF:-1 tvg-id="PRIME TV (IN)" tvg-logo=" "  group-title="MX-TV",PRIME TV (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/8040.PrimeTV.in.m3u8
 #EXTINF:-1 tvg-id="PT NEWS (IN)" tvg-logo=" "  group-title="MX-TV",PT NEWS (IN)
@@ -794,18 +793,12 @@ https://m-c28-j2apps.s.llnwi.net/hls/8019.PeaceMusic.in.m3u8
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX (VN)" tvg-logo=" "  group-title="FPT-PLAY",CINEMAX (VN)
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS 3 (VN)" tvg-logo=" "  group-title="FPT-PLAY",FOX SPORTS 3 (VN)
-https://livecdn.fptplay.net/hda2/foxsports3_hls.smil/master.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS (VN)" tvg-logo=" "  group-title="FPT-PLAY",FOX SPORTS (VN)
-https://livecdn.fptplay.net/hda2/foxsports_hls.smil/master.m3u8
 #EXTINF:-1 tvg-id="HBO (VN)" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Symbol.jpg"  group-title="FPT-PLAY",HBO (VN)
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET (VN)" tvg-logo="https://asset.ctv.ca/image-service/version/c:MWY4OWM5OWItZjI0MS00:MTJlMjZi/image.png"  group-title="FPT-PLAY",ANIMAL PLANET (VN)
 https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (VN)" tvg-logo=" "  group-title="FPT-PLAY",NAT GEO WILD (VN)
 https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS 2 (VN)" tvg-logo=" "  group-title="FPT-PLAY",FOX SPORTS 2 (VN)
-https://vips-livecdn.fptplay.net/hda3/foxsports2_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="BBC CBEEBIES (VN)" tvg-logo=" "  group-title="FPT-PLAY",BBC CBEEBIES (VN)
 https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BABY FIRST (VN)" tvg-logo=" "  group-title="FPT-PLAY",BABY FIRST (VN)
