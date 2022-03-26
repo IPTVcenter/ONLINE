@@ -96,10 +96,7 @@ https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 #EXTINF:-1 tvg-id="MOVIE FONE TV" tvg-logo="https://d2j1wkp1bavyfs.cloudfront.net/legacy/assets/made-in-hollywood-head-v2.jpg"  group-title="STIRR-TV",MOVIE FONE TV (US)
 https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
-#EXTINF:-1 tvg-id="MST3K" tvg-logo="https://i0.wp.c
-
-
-
+#EXTINF:-1 tvg-id="MST3K" tvg-logo="https://i0.wp.com/mst3klive.com/wp-content/uploads/2021/06/timetravelmst3klogo-comp.png"  group-title="STIRR-TV",MST3K (US)
 https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
 #EXTINF:-1 tvg-id="THE FILM DETECTIVE" tvg-logo="https://static.wixstatic.com/media/2d47fc_b4717dec1ba147f6b29a115f4e72a5c9~mv2_d_2411_1447_s_2.png"   group-title="STIRR-TV",THE FILM DETECTIVE (US)
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
@@ -172,7 +169,7 @@ https://atmadarshantv.shemaroo.com/hls18/atmadarshan/index.m3u8?hdnts=st=1638878
 https://cdn.live.shemaroome.com/nimbaktv/selnimbaktv/playlist.m3u8?hdnts=st=1638878778~exp=1638889578~acl=*~data=testdata~hmac=d7ca767bf54bf90ebe0af2efd1b3a980222234ba86a8de74e22c88ac8279d789
 #EXTINF:-1 tvg-id="TNI AWAAZ (IN)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/TNI-Awaaz/61127fc9a609d2097c00004f/medium_16_9.jpg"   group-title="SHEMAROO-ME",TNI AWAAZ (IN)
 https://tniawaaz.shemaroo.com/hls11/tniawaaz/index.m3u8?hdnts=st=1638879593~exp=1638890393~acl=*~data=testdata~hmac=6dd71a9845f0b4aaa96be54fa502c32b81666c5c51b7aec2fde8bbd61b60bd3d
-#EXTINF:-1 tvg-id="PASHUPATINATH (IN)"  tvg-logo="https://daex9l847wg3n.cloudfront.
+#EXTINF:-1 tvg-id="PASHUPATINATH (IN)"  tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shree-Pashupatinath-Temple,-Mandsaur,-Madhya-Pradesh/60407220a609d245da000001/medium_16_9.jpg"   group-title="SHEMAROO-ME",PASHUPATINATH (IN)
 https://cdn.live.shemaroome.com/pashupatinath/Stream1/playlist.m3u8?hdnts=st=1638879929~exp=1638890729~acl=*~data=testdata~hmac=243bb74801253e52155e4ad0ec51e7bb7b2f76b30d52fac1d4ed48c470ae0578
 
 #EXTINF:-1 tvg-id="TRT WORLD" tvg-logo="http://www.trtworld.com/images/share-1000x500.png"  group-title="WATCHO",TRT WORLD (ASIA)
@@ -1091,13 +1088,6 @@ http://45.86.190.64:25461/C2PrkHnGqnDxFjcz/6qwZ87HNZMkJMegd/34507?play_token=PzH
 http://45.86.190.64:25461/C2PrkHnGqnDxFjcz/6qwZ87HNZMkJMegd/34122?play_token=9BhMu0U8MS&token=TURYAhZYEAwSB1QDCgBRAlFSB1UPXFBXVFZXAlEPUFxQVAlSAQgEUFRGTxBLF0AGVA9uD1IbCQUFAlYHShsTFlMUbwoBEggUAVBSCw5QAEEZQEUPW1wRDAAFUA1UCVdUAFAcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="IPTV",COLORS (UK)
 http://45.86.190.64:25461/C2PrkHnGqnDxFjcz/6qwZ87HNZMkJMegd/34123?play_token=HScOvztiQS&token=TURYAhZYEAwSU1cAXlIFAAMAVAMFCQYBBFZSBwUNVVIBBAQCAVYFBVVGTxBLF0AGVA9uD1IbCQUFAlYGShsTFlMUbwoBEggUAVBSCw5QAEEZQEUPW1wRDAAFUA1UCVZQBFQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="AND PICTURES" tvg-logo=" "  group-title="IPTV",AND PICTURES (IN)
-http://62.210.123.12:25461/Ys7pVhTWrk/chpEaVJYm3/8130?play_token=i439ccmv1O&token=TURYAhZYEAwSAgcCXlNQUVMEVwcAAFIDCAsGUVUMAgMHX1QGVwMBAwVGTxBLF0AGVA9uD1IbCQ4AAFQZREwVAEQ5WQdHChAHB1FTBQxVEE8XFlgLUxsJBwcHXAdRCVNRDkoSEwxUEAwSVVELCEEeQVAaRQNEV1JablcBQw9aA0cMCEUPCRwQWV47B1dVAlwHF1gTVhQVEV9CQ0YPCEwKCRpEUgoRQlNCVUZZEA9SBEEZQFIJQ1dHREgRXhcvd0RJFANIFwBeQV9fCkEIGhdBQRlAWBVpS1ZFRUEBVAtcFEcMRABBSRJfV0g7AF1WDVcAQQteCEUbCRQAEUgXC1YIDEIJQjwVWVYUCkZRBwpRBUFI
-
-
-
-
-
 
 
 
