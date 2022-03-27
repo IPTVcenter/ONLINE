@@ -878,9 +878,15 @@ http://live.flixhub.net/hls/bindass.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+#EXTINF:-1 tvg-id="EXTASY HD" tvg-logo=" "  group-title="ALWAYSDATA-NET",EXTASY HD (US)
+http://ott3.alwaysdata.net/live/av.php?id=1
+#EXTINF:-1 tvg-id="PRIVATE HD" tvg-logo=" "  group-title="ALWAYSDATA-NET",PRIVATE HD (US)
+http://ott3.alwaysdata.net/live/ss.php?id=9
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
+##EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
+#EXTINFF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 
 
 
