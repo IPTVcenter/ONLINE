@@ -847,22 +847,14 @@ http://longstream-03.ajaah.com/PlayBoxTV/SaharaOne/playlist.m3u8
 https://live.durbinlive.com/hls/select2.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="CHANNEL V" tvg-logo=" "  group-title="TV-FLIX",CHANNEL V (CH)
 http://iptv.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS" tvg-logo=" "  group-title="TV-FLIX",STAR SPORTS (CH)
 http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-logo=" "  group-title="TV-FLIX",DISCOVERY (CH)
 http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo=" "  group-title="TV-FLIX",ANIMAL PLANET (CH)
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
 
 
 
