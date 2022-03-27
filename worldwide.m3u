@@ -832,7 +832,7 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 
 #EXTINF:-1 tvg-id="SAHARA FLIMY" tvg-logo=" "  group-title="PLAYBOX-TV",SAHARA FLIMY (IN)
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-#EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo=" "  group-title="PLAYBOX-TV",SAHARA ONE (IN)
+#EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/SaharaOne2010.png"  group-title="PLAYBOX-TV",SAHARA ONE (IN)
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaOne/playlist.m3u8
 #EXTINF:-1 tvg-id="MASTIII" tvg-logo=" "  group-title="PLAYBOX-TV",MASTIII (IN)
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
