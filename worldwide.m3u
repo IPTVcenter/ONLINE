@@ -839,6 +839,8 @@ http://longstream-03.ajaah.com/PlayBoxTV/SaharaOne/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
 
@@ -872,14 +874,33 @@ http://live.flixhub.net/hls/movies-now.m3u8
 http://live.flixhub.net/hls/starmovies.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS SELECT 2 HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",STSR SPORTS SELECT 2 HD (IN)
 http://live.flixhub.net/hls/select2.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",CARTOON NETWORK (IN)
+http://live.flixhub.net/hls/cn.m3u8
+#EXTINF:-1 tvg-id="POGO" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",POGO (IN)
+http://live.flixhub.net/hls/pogo.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",DISCOVERY KIDS (IN)
+http://live.flixhub.net/hls/dis-kid.m3u8
+#EXTINF:-1 tvg-id="COLORS CINEPLEX" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",COLORS CINEPLEX (IN)
+http://live.flixhub.net/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-id="AND PICTURES" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",AND PICTURES (IN)
+http://live.flixhub.net/hls/andpictures.m3u8
+#EXTINF:-1 tvg-id="UTV ACTION" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",UTV ACTION (IN)
+http://live.flixhub.net/hls/utvaction.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD 2" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",STAR GOLD 2 (IN)
+http://live.flixhub.net/hls/stargold2hd.m3u8
+#EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",SONY MAX HD (IN)
+http://live.flixhub.net/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",COLORS HD (IN)
+http://live.flixhub.net/hls/colore-tv-hd.m3u8
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",SONY HD (IN)
+http://live.flixhub.net/hls/sonyen.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",STAR PLUS HD (IN)
+http://live.flixhub.net/hls/starplus.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",ZEE TV HD (IN)
+http://live.flixhub.net/hls/zeetv.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
@@ -1129,7 +1150,7 @@ http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo=" "  group-title="DIRECT-TV",ZEE ANMOL CINEMA (IN)
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="SONY MAX 2"  group-title="DIRECT-TV",SONY MAX 2 (IN)
+#EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo=" "  group-title="DIRECT-TV",SONY MAX 2 (IN)
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="DIRECT-TV",B4U MOVIES (IN)
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
@@ -1149,7 +1170,8 @@ http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:-1 tvg-id="STAR USTAV" tvg-logo=" "  group-title="DIRECT-TV",STAR USTAV (IN)
 http://144.217.70.181:9587/hin2/STARUTSAV/index.m3u8
-
+#EXTINF:-1 tvg-id="POGO" tvg-logo=" "  group-title="DIRECT-TV",POGO (IN)
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
 
 
 
