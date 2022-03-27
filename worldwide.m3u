@@ -834,6 +834,26 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo=" "  group-title="PLAYBOX-TV",SAHARA ONE (IN)
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaOne/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
+
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="CHANNEL V" tvg-logo=" "  group-title="TV-FLIX",CHANNEL V (CH)
 http://iptv.tvfix.org/hls/channelv.m3u8
@@ -841,6 +861,37 @@ http://iptv.tvfix.org/hls/channelv.m3u8
 http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-logo=" "  group-title="TV-FLIX",DISCOVERY (CH)
 http://iptv.tvfix.org/hls/discovery.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BINDASS" tvg-logo=" "  group-title="FLIIXHUB-NET",BINDASS (IN)
+http://live.flixhub.net/hls/bindass.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+
+
+
+
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="ZEE5",ZEE TV (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeetv
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+
+
+
+
 
 
 
@@ -908,11 +959,18 @@ http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8#
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM", (IN)
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM", (IN)
 
-#EXTINF-1 tvg-id=" " tvg-logo=" "  group-title="STREAM", (IN)
+
+
+#EXTINF-1 tvg-id=" " tvg-logo=" "  group-title="TV-LIVE", (IN)
+http://103.149.130.122:8089/36/index.m3u8
+#EXTINF-1 tvg-id=" " tvg-logo=" "  group-title="TV-LIVE", (IN)
+#EXTINF-1 tvg-id=" " tvg-logo=" "  group-title="TV-LIVE", (IN)
 
 
 
