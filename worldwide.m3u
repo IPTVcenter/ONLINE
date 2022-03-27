@@ -841,8 +841,10 @@ http://longstream-03.ajaah.com/PlayBoxTV/SaharaOne/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
 
+
+#EXTINF:-1 tvg-id="STAR SPORTS SELECT 2" tvg-logo=" "  group-title="DURBIN-LIVE",STAR SPORTS SELECT 2 (IN)
+https://live.durbinlive.com/hls/select2.m3u8
 
 
 
