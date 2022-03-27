@@ -1086,9 +1086,9 @@ http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MN2n6jtV.png"  group-title="STREAM",STAR BHARAT (IN)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD" tvg-logo=" "  group-title="STREAM",STAR GOLD (IN)
+#EXTINF:-1 tvg-id="STAR GOLD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/3sY6yXFP.png "  group-title="STREAM",STAR GOLD (IN)
 http://103.72.179.30:1935/HindiMovies/STAR_GOLD.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-id="SONY MAX" tvg-logo=" "  group-title="STREAM",SONY MAX (IN)
+#EXTINF:-1 tvg-id="SONY MAX" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/O3SqMe3e.png"  group-title="STREAM",SONY MAX (IN)
 http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8#
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM", (IN)
