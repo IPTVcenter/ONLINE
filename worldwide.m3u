@@ -1030,6 +1030,10 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UTV ACTION" tvg-logo=" "  group-title="DIRECT-TV",UTV ACTION (IN)
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+#EXTINF:-1 tvg-id="STAR USTAV" tvg-logo=" "  group-title="DIRECT-TV",STAR USTAV (IN)
+http://144.217.70.181:9587/hin2/STARUTSAV/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="STAR MOVIES HD (IN)" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png"  group-title="LOCKLE",STAR MOVIES HD (IN)
