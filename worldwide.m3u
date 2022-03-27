@@ -938,7 +938,7 @@ https://nayeem-parvez.gq/zeex.php?c=0-9-zeecinema
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo=" "  group-title="ZEE5",ZEE ANMOL CINEMA (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeeanmolcinema
-#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo=" "  group-title="ZEE5",ZEE CLASSIC (IN)
+#EXTINF:-1 tvg-id="ZEE BOLLYWOOD" tvg-logo=" "  group-title="ZEE5",ZEE BOLLYWOOD (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeeclassic
 #EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo=" "  group-title="ZEE5",ZEE ACTION (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeeaction
@@ -974,7 +974,54 @@ https://nayeem-parvez.gq/zeex.php?c=0-9-wion
 https://nayeem-parvez.gq/zeex.php?c=0-9-ddindia
 #EXTINF:-1 tvg-id="DD NEWS" tvg-logo=" "  group-title="ZEE5",DD NEWS (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-ddnews
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo=" "  group-title="ZEE5",ZEE CLASSIC (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-176
+#EXTINF:-1 ch-id="& EXPLORE HD" tvg-logo=" "  group-title="ZEE5",& EXPLORE HD (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-209
+#EXTINF:-1 ch-id="RENGONI (IN)" tvg-logo=" "  group-title="ZEE5",RENGONI (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-322
+#EXTINF:-1 ch-id="DD 1 HD (IN)" tvg-logo=" "  group-title="ZEE5",DD 1 HD (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-250
+#EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo=" "  group-title="ZEE5",ZEE ZEST HD (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-348
+#EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="ZEE5",&FLIX HD (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-channel_2105335046
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title="ZEE5",9XM (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-131
+#EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo=" "  group-title="ZEE5",9X JALWA (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-133
+#EXTINF:-1 ch-id="E24 (IN)" tvg-logo=" "  group-title="ZEE5",E24 (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-207
+#EXTINF:-1 ch-id="9X JHAKAAS (IN)" tvg-logo=" "  group-title="ZEE5",9X JHAKAAS (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-134
+#EXTINF:-1 ch-id="GTN (IN)" tvg-logo=" "  group-title="ZEE5",GTN (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-255
+#EXTINF:-1 ch-id="DIVYA TV (IN)" tvg-logo=" "  group-title="ZEE5",DIVYA TV (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-divyatv
+#EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo=" "  group-title="ZEE5",PRATIDIN TIME (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-413
+#EXTINF:-1 ch-id="PRAG NEWS (IN)" tvg-logo=" "  group-title="ZEE5",PRAG NEWS (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-310
+#EXTINF:-1 ch-id="REPUBLIC BHARAT (IN)" tvg-logo=" "  group-title="ZEE5",REPUBLIC BHARAT (IN
+https://nayeem-parvez.gq/zeex.php?c=0-9-162
+#EXTINF:-1 ch-id="SADHNA PLUS NEWS (IN)" tvg-logo=" "  group-title="ZEE5",SADHNA PLUS NEWS (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-313
+#EXTINF:-1 ch-id="SADHNA TV (IN)" tvg-logo=" "  group-title="ZEE5",SADHNA TV (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-284
+#EXTINF:-1 ch-id="AFRICA NEWS (IN)" tvg-logo=" "  group-title="ZEE5",AFRICA NEWS (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-390
+#EXTINF:-1 ch-id="AB STAR NEWS (IN)" tvg-logo=" "  group-title="ZEE5",AB STAR NEWS (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-387
+#EXTINF:-1 ch-id="BHARAT SAMACHAR (IN)" tvg-logo=" "  group-title="ZEE5",BHARAT SAMACHAR (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-354
+#EXTINF:-1 ch-id="AWAKENING (IN)" tvg-logo=" "  group-title="ZEE5",AWAKENING (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-316
+#EXTINF:-1 ch-id="C NEWS BHARAT (IN)" tvg-logo=" "  group-title="ZEE5",C NEWS BHARAT (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-385
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
