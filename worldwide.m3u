@@ -858,17 +858,35 @@ http://iptv.tvfix.org/hls/lovenature4k.m3u8
 
 
 
-#EXTINF:-1 tvg-id="BINDASS" tvg-logo=" "  group-title="FLIIXHUB-NET",BINDASS (IN)
+#EXTINF:-1 tvg-id="BINDASS" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",BINDASS (IN)
 http://live.flixhub.net/hls/bindass.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",SONY TEN 3 (IN)
+http://live.flixhub.net/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",DISCOVERY SCIENCE (IN)
+http://live.flixhub.net/hls/dis-science.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",STAR GOLD HD (IN)
+http://live.flixhub.net/hls/stargold.m3u8
+#EXTINF:-1 tvg-id="MOVIES NOW HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",MOVIES NOW HD (IN)
+http://live.flixhub.net/hls/movies-now.m3u8
+#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",STAR MOVIES HD (IN)
+http://live.flixhub.net/hls/starmovies.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS SELECT 2 HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",STSR SPORTS SELECT 2 HD (IN)
+http://live.flixhub.net/hls/select2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
+
+
+
 
 #EXTINF:-1 tvg-id="EXTASY HD" tvg-logo=" "  group-title="ALWAYSDATA-NET",EXTASY HD (US)
 http://ott3.alwaysdata.net/live/av.php?id=1
@@ -885,9 +903,66 @@ http://ott3.alwaysdata.net/live/ss.php?id=9
 
 #EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="ZEE5",ZEE TV (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeetv
+#EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo=" "  group-title="ZEE5",AND PICTURES HD (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo=" "  group-title="ZEE5",AND PICTURES (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-pictures
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="ZEE5",AND TV HD (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-tvhd_0
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="ZEE5",ZEE TV HD (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeetvhd
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" "  group-title="ZEE5",ZEE CINEMA (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeecinema
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" "  group-title="ZEE5",ZEE CINEMA HD (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo=" "  group-title="ZEE5",ZEE ANMOL CINEMA (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeeanmolcinema
+#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo=" "  group-title="ZEE5",ZEE CLASSIC (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeeclassic
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo=" "  group-title="ZEE5",ZEE ACTION (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeeaction
+#EXTINF:-1 tvg-id="ZEE ANMOL" tvg-logo=" "  group-title="ZEE5",ZEE ANMOL (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeeanmol
+#EXTINF:-1 tvg-id="BIG MAGIC" tvg-logo=" "  group-title="ZEE5",BIG MAGIC (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-bigmagic_1786965389
+#EXTINF:-1 tvg-id="ZING" tvg-logo=" "  group-title="ZEE5",ZING (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zing
+#EXTINF:-1 tvg-id="ZEE CAFE HD" tvg-logo=" "  group-title="ZEE5",ZEE CAFE HD (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeecafehd
+#EXTINF:-1 tvg-id="DD KISAN" tvg-logo=" "  group-title="ZEE5",DD KISAN (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-ddkisan
+#EXTINF:-1 tvg-id="ZEE SALAAM" tvg-logo=" "  group-title="ZEE5",ZEE SALAAM (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeesalaam
+#EXTINF:-1 tvg-id="DD URDU" tvg-logo=" "  group-title="ZEE5",DD URDU (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-ddurdu
+#EXTINF:-1 tvg-id="DD GIRNAR" tvg-logo=" "  group-title="ZEE5",DD GIRNAR (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-ddgirnar
+#EXTINF:-1 tvg-id="DD BHARATI" tvg-logo=" "  group-title="ZEE5",DD BHARATI (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-ddbharati
+#EXTINF:-1 tvg-id="AAJ TAK" tvg-logo=" "  group-title="ZEE5",AAJ TAK (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-aajtak
+#EXTINF:-1 tvg-id="ZEE BUSINESS" tvg-logo=" "  group-title="ZEE5",ZEE BUSINESS (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeebusiness
+#EXTINF:-1 tvg-id="INDIA TODAY" tvg-logo=" "  group-title="ZEE5",INDIA TODAY (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-indiatoday
+#EXTINF:-1 tvg-id="ZEE HINDUSTAN" tvg-logo=" "  group-title="ZEE5",ZEE HINDUSTAN (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeehindustan
+#EXTINF:-1 tvg-id="WION" tvg-logo=" "  group-title="ZEE5",WION (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-wion
+#EXTINF:-1 tvg-id="DD INDIA" tvg-logo=" "  group-title="ZEE5",DD INDIA (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-ddindia
+#EXTINF:-1 tvg-id="DD NEWS" tvg-logo=" "  group-title="ZEE5",DD NEWS (IN)
+https://nayeem-parvez.gq/zeex.php?c=0-9-ddnews
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
+
+
 
 
 
