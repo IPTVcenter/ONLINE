@@ -1099,10 +1099,17 @@ http://pl1cdn.plusx.tv:8880/361/mono.m3u8?token=pirek23@gmail.comziomek222222
 #EXTINF:-1 tvg-id="PRIVATE HD" tvg-logo=" "  group-title="PLUSX-TV",PRIVATE HD (US)
 http://pl1cdn.plusx.tv:8880/356/mono.m3u8?token=pirek23@gmail.comziomek222222
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="PLUSX-TV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="PLUSX-TV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="PLUSX-TV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="PLUSX-TV", (US)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="PLUSX-TV", (US)
+
+
+#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo=" "  group-title="NOWHDTIME+VPN",SONY TEN 3 (IN)
+https://fs.nowhdtime.com.bd/SonyTen3/index.m3u8?token=7d7e3752a49c2c96bfffc5952bb64642a9091d42-26156e3a9de3f304415d9425778d3ebf-1648470728-1648459928
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NOWHDTIME+VPN", (IN)
+
+
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN",CARTOON NETWORK (IN)
+http://tvcdn1.nagordola.live/roarzone/79/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIyIDEwOjA0OjUxIEFNJmhhc2hfdmFsdWU9NlVxMEFkWlpKa290UDVyV3ZuY2dsQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
 
 
 
