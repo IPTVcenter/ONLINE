@@ -1187,12 +1187,46 @@ https://fs.nowhdtime.com.bd/SonyTVHD/index.m3u8?token=6e5978f1b7e2204122bd033678
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN",CARTOON NETWORK (IN)
 http://tvcdn1.nagordola.live/roarzone/79/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIyIDEwOjA0OjUxIEFNJmhhc2hfdmFsdWU9NlVxMEFkWlpKa290UDVyV3ZuY2dsQT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1262,10 +1296,9 @@ http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8#
 
 
 
-#EXTINF-1 tvg-id=" " tvg-logo=" "  group-title="TV-LIVE", (IN)
-http://103.149.130.122:8089/36/index.m3u8
-#EXTINF-1 tvg-id=" " tvg-logo=" "  group-title="TV-LIVE", (IN)
-#EXTINF-1 tvg-id=" " tvg-logo=" "  group-title="TV-LIVE", (IN)
+#EXTINF-1 tvg-id=" " tvg-logo=" "  group-title="", (IN)
+#EXTINF-1 tvg-id=" " tvg-logo=" "  group-title="", (IN)
+#EXTINF-1 tvg-id=" " tvg-logo=" "  group-title="", (IN)
 
 
 
