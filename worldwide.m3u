@@ -901,6 +901,8 @@ http://live.flixhub.net/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",SONY TEN 1 (IN)
 http://live.flixhub.net/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 
@@ -914,8 +916,20 @@ http://ott3.alwaysdata.net/live/ss.php?id=9
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
-##EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
-#EXTINFF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
+
+
+#EXTINF:-1 tvg-id="CHANNEL 24" tvg-logo=" "  group-title="PITVLIVE1",CHANNEL 24 (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo=" "  group-title="PITVLIVE1",NEO NEWS HD (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV" tvg-logo=" "  group-title="PITVLIVE1",ATV (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PLAY" tvg-logo=" "  group-title="PITVLIVE1",PLAY (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AAJ ENT." tvg-logo=" "  group-title="PITVLIVE1",AAJ WNT. (PK)
+https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PITVLIVE1", (PK)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PITVLIVE1", (PK)
 
 
 
@@ -1058,9 +1072,6 @@ https://nayeem-parvez.gq/zeex.php?c=0-9-channel_1565694979
 https://nayeem-parvez.gq/zeex.php?c=0-9-channel_1144658965
 #EXTINF:-1 ch-id="REPUBLIC TV (IN)" tvg-logo=" "  group-title="ZEE5",REPUBLIC TV (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-channel_1422341819
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="ZEE5", (IN)
@@ -1101,9 +1112,28 @@ http://pl1cdn.plusx.tv:8880/356/mono.m3u8?token=pirek23@gmail.comziomek222222
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="PLUSX-TV", (US)
 
 
-#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo=" "  group-title="NOWHDTIME+VPN",SONY TEN 3 (IN)
+#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo=" "  group-title="NOWHDTIME",SONY TEN 3 (IN)
 https://fs.nowhdtime.com.bd/SonyTen3/index.m3u8?token=7d7e3752a49c2c96bfffc5952bb64642a9091d42-26156e3a9de3f304415d9425778d3ebf-1648470728-1648459928
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NOWHDTIME+VPN", (IN)
+#EXTINF:-1 tvg-id="SONY SIX HD" tvg-logo=" "  group-title="NOWHDTIME",SONY SIX HD (IN)
+https://fs.nowhdtime.com.bd/SonySix/index.m3u8?token=8274034635a4235bbd78e2460c59a20cdace8dde-7269e4363744f2f26d56a54460bede4a-1648470488-1648459688
+#EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo=" "  group-title="NOWHDTIME",SONY MAX HD (IN)
+https://fs.nowhdtime.com.bd/SonyMaxHD/index.m3u8?token=903adb4f664df60291ea5da08805012377ccba21-797a64a13ac9e0da2961fe86783a1d06-1648462443-1648451643
+#EXTINF:-1 tvg-id="SONY SIX HD" tvg-logo=" "  group-title="NOWHDTIME",SONY SIX HD (IN)
+https://fs.nowhdtime.com.bd/SonySix/index.m3u8?token=bbb71af50afb2af1afa9a56acff6d5e53b54df02-64f148356eae7f92638e5f8395833840-1648470554-1648459754
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo=" "  group-title="NOWHDTIME",SONY TEN 2 HD (IN)
+https://fs.nowhdtime.com.bd/SonyTen2/index.m3u8?token=66c1902f44448224549804ab0bc2b1951a81ddce-ee664b6ac0c30f77aa34b3bf7c2273be-1648470600-1648459800
+#EXTINF:-1 tvg-id="" tvg-logo="SONY TEN 1 HD"  group-title="NOWHDTIME",SONY TEN 1 HD (IN)
+https://fs.nowhdtime.com.bd/SonyTen1/index.m3u8?token=157300a8d80e01df6c870ff0d6efcd0a5d32f131-c9fd69758c25f7397222135b4032ab54-1648470673-1648459873
+#EXTINF:-1 tvg-id="" tvg-logo="SONY TEN 3 HD  group-title="NOWHDTIME",SONY TEN 3 HD (IN)
+https://fs.nowhdtime.com.bd/SonyTen3/index.m3u8?token=7d7e3752a49c2c96bfffc5952bb64642a9091d42-26156e3a9de3f304415d9425778d3ebf-1648470728-1648459928
+#EXTINF:-1 tvg-id="" tvg-logo="SONY HD"  group-title="NOWHDTIME",SONY HD (IN)
+https://fs.nowhdtime.com.bd/SonyTVHD/index.m3u8?token=6e5978f1b7e2204122bd033678a7edaa15d93cfc-9db41ee039aaa485246a6e8bc6742085-1648462517-1648451717
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NOWHDTIME", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NOWHDTIME", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NOWHDTIME", (IN)
+
+
+
 
 
 
