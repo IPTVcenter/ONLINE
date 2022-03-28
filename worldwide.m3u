@@ -303,7 +303,7 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 https://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERNG (AU)" tvg-logo=" "  group-title="ONLINE-TV",BLOOMERANG (AU)
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:-1 tvg-id="HOT GUYS FUCK (US)" tvg-logo=" "  group-title="ADULT",HOT GUYS FUCK (US)
+#EXTINF:-1 tvg-id="HOT GUYS FUCK (US)" tvg-logo=" "  group-title="ONLINE-TV",HOT GUYS FUCK (US)
 http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyZmpudbZToppM8lXmOdVPQ/ts
 #EXTINF:-1 tvg-id="NEWSCASTS (US)" tvg-logo="  "  group-title="ONLINE-TV",NEWSCASTS (US)
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
@@ -448,9 +448,9 @@ https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DUNY NEWS" tvg-logo=" "  group-title="ONLINE-TV",DUNY NEWS (PK)
 https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="AST TV 1" tvg-logo="https://file.lives-score.com/images/channelimg/15716.jpg"  group-title="ADULT",AST TV 1 (CY)
+#EXTINF:-1 tvg-id="AST TV 1" tvg-logo="https://file.lives-score.com/images/channelimg/15716.jpg"  group-title="AST-TV",AST TV 1 (CY)
 http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 tvg-id="AST TV 2" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="ADULT",AST TV 2 (CY)
+#EXTINF:-1 tvg-id="AST TV 2" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="AST-TV",AST TV 2 (CY)
 http://www.ast.tv/stream/2/cellular.m3u8
  
 #EXTINF:-1 tvg-id="AMAZING DISCOVERIES TV"   tvg-logo=" " group-title="TULIX-TV",AMAZING DISCOVERIES TV (CA)
@@ -490,8 +490,6 @@ https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/madnitvenglish
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1 tvg-id="ALJAZEERA (USA)" tvg-logo=" "   group-title="NET-TV",ALJAZEERA (US)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="GAY TV (UK)" tvg-logo=" "  group-title="ADULT",GAY TV (UK)
-http://play.iptvxxx.net/gay.m3u8
 #EXTINF:-1 tvg-id="ARIRANG (ASIA)" tvg-logo=" "  group-title="NET-TV",ARIRANG (ASIA)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 EXTINF:-1 tvg-id="PARLIAMENT TV (NZ)" tvg-logo=" "  group-title="NET-TV",PARLIAMENT TV (NZ)
@@ -787,7 +785,9 @@ https://m-c07-j2apps.s.llnwi.net/hls/8023.AANNNews.in.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/8022.VipNews.in.m3u8
 #EXTINF:-1 tvg-id="PEACE MUSIC (IN)" tvg-logo=" "  group-title="MX-TV",PEACE MUSIC (IN)
 https://m-c28-j2apps.s.llnwi.net/hls/8019.PeaceMusic.in.m3u8
- 
+#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+
+
 
 #EXTINF:-1 tvg-id="DISCOVERY (VN)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (VN)
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
@@ -839,13 +839,12 @@ http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 #EXTINF:-1 tvg-id="E24" tvg-logo=" "  group-title="PLAYBOX-TV",E24 (IN)
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
-
-
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
 
 
-#EXTINF:-1 tvg-id="STAR SPORTS SELECT 2" tvg-logo=" "  group-title="DURBIN-LIVE",STAR SPORTS SELECT 2 (IN)
-https://live.durbinlive.com/hls/select2.m3u8
+#EXTINF:-1 tvg-id="GAY TV (UK)" tvg-logo=" "  group-title="IPTVXXX-NET",GAY TV (UK)
+http://play.iptvxxx.net/gay.m3u8
+
 
 
 #EXTINF:-1 tvg-id="CHANNEL V" tvg-logo=" "  group-title="TV-FLIX",CHANNEL V (CH)
@@ -901,7 +900,6 @@ http://live.flixhub.net/hls/zeetv.m3u8
 http://live.flixhub.net/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",SONY TEN 1 (IN)
 http://live.flixhub.net/hls/sonyten1.m3u8
-
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
@@ -1104,15 +1102,7 @@ http://pl1cdn.plusx.tv:8880/356/mono.m3u8?token=pirek23@gmail.comziomek222222
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="PLUSX-TV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="PLUSX-TV", (US)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="PLUSX-TV", (US)
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="PLUSX-TV", (US)
-
-
-
-
-
 
 
 
