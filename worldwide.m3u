@@ -760,9 +760,8 @@ https://m-c06-j2apps.s.llnwi.net/hls/8051.Sanskriti24X7.in.m3u8
 https://m-c28-j2apps.s.llnwi.net/hls/8045.AnaadiTV.in.m3u8
 #EXTINF:-1 tvg-id="HIFF MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",HIFF MOVIES (IN)
 https://m-c28-j2apps.s.llnwi.net/hls/8044.HiffMovies.in.m3u8
-#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
-
-
+#EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-logo=" "  group-title="MX-TV",ANJAN TV (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
 #EXTINF:-1 tvg-id="PRIME TV (IN)" tvg-logo=" "  group-title="MX-TV",PRIME TV (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/8040.PrimeTV.in.m3u8
 #EXTINF:-1 tvg-id="PT NEWS (IN)" tvg-logo=" "  group-title="MX-TV",PT NEWS (IN)
