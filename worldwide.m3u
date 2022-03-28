@@ -841,8 +841,19 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
 
 
-#EXTINF:-1 tvg-id="GAY TV (UK)" tvg-logo=" "  group-title="IPTVXXX-NET",GAY TV (UK)
+#EXTINF:-1 tvg-id="GAY" tvg-logo=" "  group-title="IPTVXXX-NET",GAY (UK)
 http://play.iptvxxx.net/gay.m3u8
+#EXTINF:-1 tvg-id="GANGBANG" tvg-logo=" "  group-title="IPTVXXX-NET",GANGBANG (UK)
+http://play.iptvxxx.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="LIVE CAMS" tvg-logo=" "  group-title="IPTVXXX-NET",LIVE CAMS (UK)
+http://play.iptvxxx.net/livecams.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
+
+
 
 
 
@@ -899,9 +910,52 @@ http://live.flixhub.net/hls/zeetv.m3u8
 http://live.flixhub.net/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",SONY TEN 1 (IN)
 http://live.flixhub.net/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",NAT GEO WILD HD (IN)
+http://live.flixhub.net/hls/wild.m3u8
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",SONY PIX HD (IN)
+http://live.flixhub.net/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",SONY BBC EARTH HD (IN)
+http://live.flixhub.net/hls/bbcearth.m3u8
+#EXTINF:-1 tvg-id="MN+ HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",MN+ HD (IN)
+http://live.flixhub.net/hls/mn+.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",ANIMAL PLANET HD (IN)
+http://live.flixhub.net/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",DISCOVERY HD (IN)
+http://live.flixhub.net/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",NAT GEO HD (IN)
+http://live.flixhub.net/hls/ngohd.m3u8
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",TLC HD (IN)
+http://live.flixhub.net/hls/tlc.m3u8
+#EXTINF:-1 tvg-id="STAR WORLD HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",STAR WORLD HD (IN)
+http://live.flixhub.net/hls/star-worldhd.m3u8
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",ALJAZEERA (IN)
+http://live.flixhub.net/hls/aljazeera.m3u8
+#EXTINF:-1 tvg-id="MNX HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",MNX HD (IN)
+http://live.flixhub.net/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",MOVIES (IN)
+http://live.flixhub.net/hls/dhin.m3u8
+#EXTINF:-1 tvg-id="9XM" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",9XM (IN)
+http://live.flixhub.net/hls/9xm.m3u8
+#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",BBC WORLD NEWS (IN)
+http://live.flixhub.net/hls/bbcworld.m3u8
+#EXTINF:-1 tvg-id="SONY SIX HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",SONY SIX HD (IN)
+http://live.flixhub.net/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS SELECT 1 HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",STAR SPORTS SELECT 1 HD (IN)
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",STAT SPORTS 1 HD (IN)
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS 2 HD" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",STAR SPORTS 2 HD (IN)
+http://live.flixhub.net/hls/starsports2.m3u8
+#EXTINF:-1 tvg-id="STAT SPORTS SELECT 2" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",STAR SPORTS SELECT 2 (IN)
+http://live.flixhub.net/hls/select2.m3u8
+#EXTINF:-1 tvg-id="TEN SPORTS" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",TEN SPORTS (PK)
+http://live.flixhub.net/hls/ten.m3u8
+#EXTINF:-1 tvg-id="PTV SPORTS" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",PTV SPORTS (PK)
+http://live.flixhub.net/hls/ptv.m3u8
+#EXTINF:-1 tvg-id="NICK" tvg-logo=" "  group-title="FLIIXHUB-NET+VPN",NICK (IN)
+http://live.flixhub.net/hls/nick.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
-
-
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
 
