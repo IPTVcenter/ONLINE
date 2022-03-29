@@ -787,7 +787,6 @@ https://m-c28-j2apps.s.llnwi.net/hls/8019.PeaceMusic.in.m3u8
 #EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
 
 
-
 #EXTINF:-1 tvg-id="DISCOVERY (VN)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (VN)
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX (VN)" tvg-logo=" "  group-title="FPT-PLAY",CINEMAX (VN)
@@ -847,15 +846,10 @@ http://play.iptvxxx.net/gay.m3u8
 http://play.iptvxxx.net/gangbang.m3u8
 #EXTINF:-1 tvg-id="LIVE CAMS" tvg-logo=" "  group-title="IPTVXXX-NET",LIVE CAMS (UK)
 http://play.iptvxxx.net/livecams.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
-
-
-
-
 
 #EXTINF:-1 tvg-id="CHANNEL V" tvg-logo=" "  group-title="TV-FLIX",CHANNEL V (CH)
 http://iptv.tvfix.org/hls/channelv.m3u8
@@ -867,101 +861,6 @@ http://iptv.tvfix.org/hls/discovery.m3u8
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
 
 
-
-#EXTINF:-1 tvg-id="BINDASS" tvg-logo=" "  group-title="FLIXHUB-NET",BINDASS (IN)
-http://103.166.253.222/hls/bindass.m3u8
-#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo=" "  group-title="FLIIXHUB-NET",SONY TEN 3 (IN)
-http://103.166.253.222/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo=" "  group-title="FLIIXHUB-NET",DISCOVERY SCIENCE (IN)
-http://103.166.253.222/hls/dis-science.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" "  group-title="FLIIXHUB-NET",STAR GOLD HD (IN)
-http://103.166.253.222/hls/stargold.m3u8
-#EXTINF:-1 tvg-id="MOVIES NOW HD" tvg-logo=" "  group-title="FLIIXHUB-NET",MOVIES NOW HD (IN)
-http://103.166.253.222/hls/movies-now.m3u8
-#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo=" "  group-title="FLIIXHUB-NET",STAR MOVIES HD (IN)
-http://103.166.253.222/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="STAR SPORTS SELECT 2 HD" tvg-logo=" "  group-title="FLIIXHUB-NET",STSR SPORTS SELECT 2 HD (IN)
-http://103.166.253.222/hls/select2.m3u8
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" "  group-title="FLIIXHUB-NET",CARTOON NETWORK (IN)
-http://103.166.253.222/hls/cn.m3u8
-#EXTINF:-1 tvg-id="POGO" tvg-logo=" "  group-title="FLIIXHUB-NET",POGO (IN)
-http://103.166.253.222/hls/pogo.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo=" "  group-title="FLIIXHUB-NET",DISCOVERY KIDS (IN)
-http://103.166.253.222/hls/dis-kid.m3u8
-#EXTINF:-1 tvg-id="COLORS CINEPLEX" tvg-logo=" "  group-title="FLIIXHUB-NET",COLORS CINEPLEX (IN)
-http://103.166.253.222/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-id="AND PICTURES" tvg-logo=" "  group-title="FLIIXHUB-NET",AND PICTURES (IN)
-http://103.166.253.222/hls/andpictures.m3u8
-#EXTINF:-1 tvg-id="UTV ACTION" tvg-logo=" "  group-title="FLIIXHUB-NET",UTV ACTION (IN)
-http://103.166.253.222/hls/utvaction.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD 2" tvg-logo=" "  group-title="FLIIXHUB-NET",STAR GOLD 2 (IN)
-http://103.166.253.222/hls/stargold2hd.m3u8
-#EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo=" "  group-title="FLIIXHUB-NET",SONY MAX HD (IN)
-http://103.166.253.222/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="FLIIXHUB-NET",COLORS HD (IN)
-http://103.166.253.222/hls/colore-tv-hd.m3u8
-#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="FLIIXHUB-NET",SONY HD (IN)
-http://103.166.253.222/hls/sonyen.m3u8
-#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" "  group-title="FLIIXHUB-NET",STAR PLUS HD (IN)
-http://103.166.253.222/hls/starplus.m3u8
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="FLIIXHUB-NET",ZEE TV HD (IN)
-http://103.166.253.222/hls/zeetv.m3u8
-#EXTINF:-1 tvg-id="SONY TEN 2" tvg-logo=" "  group-title="FLIIXHUB-NET",SONY TEN 2 (IN)
-http://103.166.253.222/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-id="SONY TEN 1" tvg-logo=" "  group-title="FLIIXHUB-NET",SONY TEN 1 (IN)
-http://103.166.253.222/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" "  group-title="FLIIXHUB-NET",NAT GEO WILD HD (IN)
-http://103.166.253.222/hls/wild.m3u8
-#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo=" "  group-title="FLIIXHUB-NET",SONY PIX HD (IN)
-http://103.166.253.222/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo=" "  group-title="FLIIXHUB-NET",SONY BBC EARTH HD (IN)
-http://103.166.253.222/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-id="MN+ HD" tvg-logo=" "  group-title="FLIIXHUB-NET",MN+ HD (IN)
-http://103.166.253.222/hls/mn+.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo=" "  group-title="FLIIXHUB-NET",ANIMAL PLANET HD (IN)
-http://103.166.253.222/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-logo=" "  group-title="FLIIXHUB-NET",DISCOVERY HD (IN)
-http://103.166.253.222/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo=" "  group-title="FLIIXHUB-NET",NAT GEO HD (IN)
-http://103.166.253.222/hls/ngohd.m3u8
-#EXTINF:-1 tvg-id="TLC HD" tvg-logo=" "  group-title="FLIIXHUB-NET",TLC HD (IN)
-http://103.166.253.222/hls/tlc.m3u8
-#EXTINF:-1 tvg-id="STAR WORLD HD" tvg-logo=" "  group-title="FLIIXHUB-NET",STAR WORLD HD (IN)
-http://103.166.253.222/hls/star-worldhd.m3u8
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo=" "  group-title="FLIIXHUB-NET",ALJAZEERA (IN)
-http://103.166.253.222/hls/aljazeera.m3u8
-#EXTINF:-1 tvg-id="MNX HD" tvg-logo=" "  group-title="FLIIXHUB-NET",MNX HD (IN)
-http://103.166.253.222/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo=" "  group-title="FLIIXHUB-NET",MOVIES (IN)
-http://103.166.253.222/hls/dhin.m3u8
-#EXTINF:-1 tvg-id="9XM" tvg-logo=" "  group-title="FLIIXHUB-NET",9XM (IN)
-http://103.166.253.222/hls/9xm.m3u8
-#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-logo=" "  group-title="FLIIXHUB-NET",BBC WORLD NEWS (IN)
-http://103.166.253.222/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-id="SONY SIX HD" tvg-logo=" "  group-title="FLIIXHUB-NET",SONY SIX HD (IN)
-http://103.166.253.222/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="STAR SPORTS SELECT 1 HD" tvg-logo=" "  group-title="FLIIXHUB-NET",STAR SPORTS SELECT 1 HD (IN)
-http://103.166.253.222/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-logo=" "  group-title="FLIIXHUB-NET",STAT SPORTS 1 HD (IN)
-http://103.166.253.222/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-id="STAR SPORTS 2 HD" tvg-logo=" "  group-title="FLIIXHUB-NET",STAR SPORTS 2 HD (IN)
-http://103.166.253.222/hls/starsports2.m3u8
-#EXTINF:-1 tvg-id="STAT SPORTS SELECT 2" tvg-logo=" "  group-title="FLIIXHUB-NET",STAR SPORTS SELECT 2 (IN)
-http://103.166.253.222/hls/select2.m3u8
-#EXTINF:-1 tvg-id="TEN SPORTS" tvg-logo=" "  group-title="FLIIXHUB-NET",TEN SPORTS (PK)
-http://103.166.253.222/hls/ten.m3u8
-#EXTINF:-1 tvg-id="PTV SPORTS" tvg-logo=" "  group-title="FLIIXHUB-NET",PTV SPORTS (PK)
-http://103.166.253.222/hls/ptv.m3u8
-#EXTINF:-1 tvg-id="NICK" tvg-logo=" "  group-title="FLIXHUB-NET",NICK (IN)
-http://103.166.253.222/hls/nick.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="FLIIXHUB-NET+VPN", (IN)
-
-
-
-
 #EXTINF:-1 tvg-id="EXTASY HD" tvg-logo=" "  group-title="ALWAYSDATA-NET",EXTASY HD (US)
 http://ott3.alwaysdata.net/live/av.php?id=1
 #EXTINF:-1 tvg-id="PRIVATE HD" tvg-logo=" "  group-title="ALWAYSDATA-NET",PRIVATE HD (US)
@@ -971,20 +870,17 @@ http://ott3.alwaysdata.net/live/ss.php?id=9
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 
 
-#EXTINF:-1 tvg-id="CHANNEL 24" tvg-logo=" "  group-title="PITVLIVE1",CHANNEL 24 (PK)
+#EXTINF:-1 tvg-id="CHANNEL 24" tvg-logo=" "  group-title="STREAM-ONE",CHANNEL 24 (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo=" "  group-title="PITVLIVE1",NEO NEWS HD (PK)
+#EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo=" "  group-title="STREAM-ONE",NEO NEWS HD (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV" tvg-logo=" "  group-title="PITVLIVE1",ATV (PK)
+#EXTINF:-1 tvg-id="ATV" tvg-logo=" "  group-title="STREAM-ONE",ATV (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PLAY" tvg-logo=" "  group-title="PITVLIVE1",PLAY (PK)
+#EXTINF:-1 tvg-id="PLAY" tvg-logo=" "  group-title="STREAM-ONE",PLAY (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AAJ ENT." tvg-logo=" "  group-title="PITVLIVE1",AAJ WNT. (PK)
+#EXTINF:-1 tvg-id="AAJ ENT." tvg-logo=" "  group-title="STREAM-ONE",AAJ WNT. (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PITVLIVE1", (PK)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PITVLIVE1", (PK)
-
-
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM-ONE", (PK)
 
 
 #EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="ZEE5",ZEE TV (IN)
@@ -1049,7 +945,7 @@ https://nayeem-parvez.gq/zeex.php?c=0-9-322
 https://nayeem-parvez.gq/zeex.php?c=0-9-250
 #EXTINF:-1 ch-id="ZEE ZEST HD (IN)" tvg-logo=" "  group-title="ZEE5",ZEE ZEST HD (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-348
-#EXTINF:-1 ch-id="&FLIX HD (IN)" tvg-logo=" "  group-title="ZEE5",&FLIX HD (IN)
+#EXTINF:-1 ch-id="AND FLIX HD (IN)" tvg-logo=" "  group-title="ZEE5",AND FLIX HD (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-channel_2105335046
 #EXTINF:-1 ch-id="9XM (IN)" tvg-logo=" "  group-title="ZEE5",9XM (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-131
@@ -1183,13 +1079,13 @@ https://fs.nowhdtime.com.bd/SonyTen3/index.m3u8?token=7d7e3752a49c2c96bfffc5952b
 https://fs.nowhdtime.com.bd/SonyTVHD/index.m3u8?token=6e5978f1b7e2204122bd033678a7edaa15d93cfc-9db41ee039aaa485246a6e8bc6742085-1648462517-1648451717
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NOWHDTIME", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NOWHDTIME", (IN)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NOWHDTIME", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NOWHDTIME", (I
 
 
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN",CARTOON NETWORK (IN)
 http://tvcdn1.nagordola.live/roarzone/79/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIyIDEwOjA0OjUxIEFNJmhhc2hfdmFsdWU9NlVxMEFkWlpKa290UDVyV3ZuY2dsQT09JnZhbGlkbWludXRlcz02MCZpZD01
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
@@ -1211,10 +1107,7 @@ http://tvcdn1.nagordola.live/roarzone/79/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="NAGORDOLA-LIVE+VPN", (IN)
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo=" "
 
 
 
