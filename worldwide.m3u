@@ -851,13 +851,13 @@ http://play.iptvxxx.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
 
-#EXTINF:-1 tvg-id="CHANNEL V" tvg-logo=" "  group-title="TV-FLIX",CHANNEL V (CH)
+#EXTINF:-1 tvg-id="CHANNEL V" tvg-logo=" "  group-title="TV-FIX",CHANNEL V (CH)
 http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="STAR SPORTS" tvg-logo=" "  group-title="TV-FLIX",STAR SPORTS (CH)
+#EXTINF:-1 tvg-id="STAR SPORTS" tvg-logo=" "  group-title="TV-FIX",STAR SPORTS (CH)
 http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo=" "  group-title="TV-FLIX",DISCOVERY (CH)
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo=" "  group-title="TV-FIX",DISCOVERY (CH)
 http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo=" "  group-title="TV-FLIX",ANIMAL PLANET (CH)
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo=" "  group-title="TV-FIX",ANIMAL PLANET (CH)
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
 
 
