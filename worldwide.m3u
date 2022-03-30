@@ -630,7 +630,14 @@ https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="YAHOO (UK)" tvg-logo=" "  group-title="NET-TV",YAHOO (UK)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
- 
+#EXTINF:-1 tvg-id="ZEE BUSINESS" tvg-logo=" "  group-title="NET-TV",ZEE BUSINESS (IN)
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDg2NDYwMDF9.6v0KM0-CQEi2EKdBDuoBptrraZ8Sn8jEFAY70bW3bRQ
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="GUBBARE" tvg-logo="https://www.epicon.in/img/gubbare-logo.png"  group-title="EPIC-ON",GUBBARE (IN)
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-id="ISHARA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Og3UVpn9.png"  group-title="EPIC-ON",ISHARA (IN)
@@ -867,6 +874,8 @@ http://ott3.alwaysdata.net/live/av.php?id=1
 http://ott3.alwaysdata.net/live/ss.php?id=9
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 
 
