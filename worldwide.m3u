@@ -231,11 +231,6 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 #EXTINF:-1 tvg-id="RTV" tvg-logo=" "  group-title="MANGOMOLO-TV",RTV (ME)
 http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist.m3u8
  
-#EXTINF:-1 tvv-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/263px-CNN.svg.png"  group-title="TURNER-LIVE",CNN (US)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HLN" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/HLN.png"  group-title="TURNER-LIVE",HLN (US)
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-
 #EXTINF:-1 tvg-id="ABC 7" tvg-logo=" "  group-title="SYNCBAK-TV",ABC 7 (US)
 http://prod2-dai2-playlistserver.aws.syncbak.com/playlist/17716049/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxNzcxNjA0OSIsIm1kNSI6IjVlYTdlY2VhNmEyNGZhZTI3MzI0Y2NmYjU3MmIxMGIzIiwiaWF0IjoxNTY5MzQxMjc2LCJpc3MiOiJTeW5jYmFrIChURykifQ.Wa-2nheneuWFxJ0kzCgGP7WDNzGGN7EOMIVWQWULeNM
 #EXTINF:-1 tvg-id="CBS 7" tvg-logo=" "  group-title="SYNCBAK-TV",CBS 7 (US)
@@ -603,7 +598,6 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="POPSTAR! TV (IN)" tvg-logo="http://www.video.popstaronline.com/wp-content/uploads/2021/09/logo-new.png"   group-title="NET-TV",POPSTSR! TV (US)
 https://d3fmzhzockgffb.cloudfront.net/v1/master/ec9207ed6819582289cfdc7569d8065cc8aca126/DSP_5bc3d53d98f8159d11f1092c_li-1/playlist.m3u8?ads.us_privacy=1YNN&ads.url=https%3A%2F%2Fwww.video.popstaronline.com%2F&ads.w=280&ads.h=158&ads.cb=13352163516419940&ads.ip=2401:4900:3dc4:1509:4313:8c5e:9363:5a7c&ads.ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%208.0.0%3B%20en-US%3B%20Infinix%20X573%20Build%2FOPR1.170623.032%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4
-
 #EXTINF:-1 tvg-id="ARRE (IN)" tvg-logo=" "  group-title="NET-TV",ARRE (IN)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
 #EXTINF:-1 tvg-id="INDIA AHEAD (IN)" tvg-logo=" "  group-title="NET-TV",INDIA AHEAD (IN)
@@ -630,8 +624,6 @@ https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="YAHOO (UK)" tvg-logo=" "  group-title="NET-TV",YAHOO (UK)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="ZEE BUSINESS" tvg-logo=" "  group-title="NET-TV",ZEE BUSINESS (IN)
-https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDg2NDYwMDF9.6v0KM0-CQEi2EKdBDuoBptrraZ8Sn8jEFAY70bW3bRQ
 
 
 #EXTINF:-1 tvg-id="GUBBARE" tvg-logo="https://www.epicon.in/img/gubbare-logo.png"  group-title="EPIC-ON",GUBBARE (IN)
@@ -892,10 +884,6 @@ https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM-ONE", (PK)
 
 
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="PLAY",B4U MUSIC (IN)
-http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/kxs2pmLg.png"  group-title="PLAY",B4U MOVIES (IN)
-http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 tvg-id="BOX CINEMA" tvg-logo=" "  group-title="PLAY",BOX CINEMA (IN)
 http://14.199.164.20:4001/play/a0su/index.m3u8
 #EXTINF:-1 tvg-id="DISHUM TV" tvg-logo=" "  group-title="PLAY",DISHUM TV (IN)
