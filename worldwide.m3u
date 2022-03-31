@@ -634,10 +634,6 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDg2NDYwMDF9.6v0KM0-CQEi2EKdBDuoBptrraZ8Sn8jEFAY70bW3bRQ
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="GUBBARE" tvg-logo="https://www.epicon.in/img/gubbare-logo.png"  group-title="EPIC-ON",GUBBARE (IN)
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-id="ISHARA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Og3UVpn9.png"  group-title="EPIC-ON",ISHARA (IN)
@@ -856,6 +852,8 @@ http://play.iptvxxx.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
+
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
 
 #EXTINF:-1 tvg-id="CHANNEL V" tvg-logo=" "  group-title="TV-FIX",CHANNEL V (CH)
@@ -879,6 +877,8 @@ http://ott3.alwaysdata.net/live/ss.php?id=9
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 
 
+
+
 #EXTINF:-1 tvg-id="CHANNEL 24" tvg-logo=" "  group-title="STREAM-ONE",CHANNEL 24 (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo=" "  group-title="STREAM-ONE",NEO NEWS HD (PK)
@@ -892,30 +892,7 @@ https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM-ONE", (PK)
 
 
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/channel_list/1170x658withlogo_200095097.png"  group-title="ZEE5",ZEE TV (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeetv
-#EXTINF:-1 tvg-id="AND PICTURES" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/channel_list/1170x658withlog_1269578414.png"  group-title="ZEE5",AND PICTURES (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-tvpictures
-#EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png"  group-title="ZEE5",AND PICTURES (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-pictureshd
-#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png"  group-title="ZEE5",AND TV HD (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-tvhd_0
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png"  group-title="ZEE5",ZEE TV HD (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeetvhd
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/2019/04/03/774765-zee-cinema.jpg"  group-title="ZEE5",ZEE CINEMA (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeecinema
-#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" "  group-title="ZEE5",ZEE CINEMA HD (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeecinemahd
-#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo=" "  group-title="ZEE5",ZEE ANMOL CINEMA (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeeanmolcinema
-#EXTINF:-1 tvg-id="ZEE BOLLYWOOD" tvg-logo=" "  group-title="ZEE5",ZEE BOLLYWOOD (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeeclassic
-#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo=" "  group-title="ZEE5",ZEE ACTION (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeeaction
-#EXTINF:-1 tvg-id="ZEE ANMOL" tvg-logo=" "  group-title="ZEE5",ZEE ANMOL (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeeanmol
-#EXTINF:-1 tvg-id="BIG MAGIC" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog_2022520414.png"  group-title="ZEE5",BIG MAGIC (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-bigmagic_17EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="PLAY",B4U MUSIC (IN)
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="PLAY",B4U MUSIC (IN)
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/kxs2pmLg.png"  group-title="PLAY",B4U MOVIES (IN)
 http://14.199.164.20:4001/play/a0wj/index.m3u8
