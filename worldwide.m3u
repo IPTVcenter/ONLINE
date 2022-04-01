@@ -231,9 +231,9 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 #EXTINF:-1 tvg-id="RTV" tvg-logo=" "  group-title="MANGOMOLO-TV",RTV (ME)
 http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="ABC 7" tvg-logo=" "  group-title="SYNCBAK-TV",ABC 7 (US)
+#EXTINF:-1 tvg-id="ABC 7" tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/wabc/images/logos/default_800x450.jpg"  group-title="SYNCBAK-TV",ABC 7 (US)
 http://prod2-dai2-playlistserver.aws.syncbak.com/playlist/17716049/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxNzcxNjA0OSIsIm1kNSI6IjVlYTdlY2VhNmEyNGZhZTI3MzI0Y2NmYjU3MmIxMGIzIiwiaWF0IjoxNTY5MzQxMjc2LCJpc3MiOiJTeW5jYmFrIChURykifQ.Wa-2nheneuWFxJ0kzCgGP7WDNzGGN7EOMIVWQWULeNM
-#EXTINF:-1 tvg-id="CBS 7" tvg-logo=" "  group-title="SYNCBAK-TV",CBS 7 (US)
+#EXTINF:-1 tvg-id="CBS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/CBS_7_Logo_3D.png/1200px-CBS_7_Logo_3D.png"  group-title="SYNCBAK-TV",CBS 7 (US)
 http://dai2-playlistserver.aws.syncbak.com/playlist/13736492/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNzM2NDkyLCJtZDUiOiI0MmE1YjYzOTE1NmY3MDc1ODhiMjI5MzU4Y2QxYzMxNSIsImlhdCI6MTUwNDcyNzU3MCwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.UfPIgsOM95dpS9ylf6OThcwAqqq5UDgYlq8J31DVq2Y
 #EXTINF:-1 tvg-id="ABC 9" tvg-logo="https://pbs.twimg.com/profile_images/712268646173777920/ChN0FsPt_400x400.jpg"  group-title="SYNCBAK-TV",ABC 9 (US)
 http://dai2-playlistserver.aws.syncbak.com/playlist/13457161/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE4MDIxMDQ5MzUsImlzcyI6IldMUyIsIm1kNSI6ImUyYmMxZmJiZTBhODk3MTFiYWY0ZTFhZmNkNGJjYzI1IiwibWlkIjoiMTM0NTcxNjEifQ.THRv2lITl_tb4SeyFerusnIZisV7IFLNIlyO28aY6AM
