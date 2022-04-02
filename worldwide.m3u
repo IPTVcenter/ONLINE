@@ -741,8 +741,8 @@ https://m-c010-j2apps.s.llnwi.net/hls/8065.DevamTV.in.m3u8
 https://m-c049-j2apps.s.llnwi.net/hls/8059.NDTVGoodTimes.in.m3u8
 #EXTINF:-1 tvg-id="DD ARUNPRABHA (IN)" tvg-logo=" "  group-title="MX-TV",DD ARUNPRABHA (IN)
 https://m-c037-j2apps.s.llnwi.net/hls/8059.DArunprabha.in.m3u8
-#EXTINF:-1 tvg-id="GREEN CHILLIES (IN)" tvg-logo=" "  group-title="MX-TV",GREEN CHILLIES (IN)
-https://m-c04-j2apps.s.llnwi.net/hls/8054.GreenChillies.in.m3u8
+#EXTINF:-1 tvg-id="HAR KHABAR (IN)" tvg-logo=" "  group-title="MX-TV",HAR KHABAR (IN)
+https://m-c09-j2apps.s.llnwi.net/hls/8074.HarKhabar.in.m3u8
 #EXTINF:-1 tvg-id="DD URDU (IN)" tvg-logo=" "  group-title="MX-TV",DD URDU (IN)
 https://m-c037-j2apps.s.llnwi.net/hls/8058.DDUrdu.in.m3u8
 #EXTINF:-1 tvg-id="FASHION TV (IN)" tvg-logo=" "  group-title="MX-TV",FASHION TV (IN)
@@ -777,8 +777,9 @@ https://m-c09-j2apps.s.llnwi.net/hls/8024.LoveworldIndia.in.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/8023.AANNNews.in.m3u8
 #EXTINF:-1 tvg-id="VIP NEWS (IN)" tvg-logo=" "  group-title="MX-TV",VIP NEWS (IN)
 https://m-c07-j2apps.s.llnwi.net/hls/8022.VipNews.in.m3u8
-#EXTINF:-1 tvg-id="PEACE MUSIC (IN)" tvg-logo=" "  group-title="MX-TV",PEACE MUSIC (IN)
-https://m-c28-j2apps.s.llnwi.net/hls/8019.PeaceMusic.in.m3u8
+#EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
+
+
 #EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
 
 
