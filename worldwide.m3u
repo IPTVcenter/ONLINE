@@ -300,17 +300,15 @@ https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="GB NEWS (UK)" tvg-logo=" "  group-title="ONLINE-TV",GB NEWS (UK)
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="CBSN (US)" tvg-logo=" "  group-title="ONLINE-TV",CBSN (US)
-https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-id="HISTORY (US)" tvg-logo=" "  group-title="ONLINE-TV",HISTORY (US)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ET (US)" tvg-logo=" "  group-title="ONLINE-TV",ET (US)
+#EXTINF:-1 tvg-id="ET (US)" tvg-logo="https://image.xumo.com/v1/channels/channel/99991670/300x300.png"  group-title="ONLINE-TV",ET (US)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="SUBRANG (US)" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2018/01/For-TV.jpg"  group-title="ONLINE-TV",SUBRANG (US)
 https://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERNG (AU)" tvg-logo=" "  group-title="ONLINE-TV",BLOOMERANG (AU)
+#EXTINF:-1 tvg-id="BLOOMBERNG (AU)" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/bloomberg-logo-blue-background.png"  group-title="ONLINE-TV",BLOOMERANG (AU)
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:-1 tvg-id="HOT GUYS FUCK (US)" tvg-logo=" "  group-title="ONLINE-TV",HOT GUYS FUCK (US)
+#EXTINF:-1 tvg-id="HOT GUYS FUCK (US)" tvg-logo="https://cdn.blrd.me/sites-assets/hgf/assets/images/logo.png"  group-title="ONLINE-TV",HOT GUYS FUCK (US)
 http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyZmpudbZToppM8lXmOdVPQ/ts
 #EXTINF:-1 tvg-id="NEWSCASTS (US)" tvg-logo="  "  group-title="ONLINE-TV",NEWSCASTS (US)
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
@@ -387,7 +385,7 @@ https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playl
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1 tvg-id="MHONE NEWS (IN)" tvg-logo="http://mhone.in/wp-content/uploads/2021/12/MH-ONE-LOGO.png"  group-title="SMART-STREAM",MHONE NEWS (IN)
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
-#EXTINF:-1 tvg-id="PRATIDIN TIME (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi8XNpuN_apVdK22yJKPOVmrAqDTvfGktGOKSw6ml8dYGMGxCywp6BbvbVWYXbxwmqFgAWHLMsx72JsHtFT2agWhm-pLV6LmEPBn01XOB0Yhfbx8S-WlT8pmpWuiFOJ-hL6JOZIKjsaT7LkGRCm7B0AZPQRwpRA2wsVsLP7qDFOjFidgOxdcPkAFuET1w=s200"  group-title="SMART-STREAM",PRATIDIN TIME (IN)
+#EXTINF:-1 tvg-id="PRATIDIN TIME (IN)" tvg-logo="https://gumlet.assettype.com/pratidintime/2021-12/9b4eadf2-dd1f-4c79-b5c5-ce0e0ef00610/PT_footer_logo.png"  group-title="SMART-STREAM",PRATIDIN TIME (IN)
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/News_Live.png"  group-title="SMART-STREAM",NEWS LIVE (IN)
 https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/playlist.m3u8
@@ -657,9 +655,9 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 #EXTINF:-1 tvg-id="FIRANGI (IN)" tvg-logo="https://1.bp.blogspot.com/-afq8mSGUMdc/Ub78RIyBLrI/AAAAAAAAHdo/7rEiji_EeoM/w640/firangi.jpg"  group-title="MX-TV",FIRANGI (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
-#EXTINF:-1 tvg-id="BIXFLIX MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",BIXFLIX MOVIES (IN)
+#EXTINF:-1 tvg-id="BIXFLIX MOVIES (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg"  group-title="MX-TV",BIXFLIX MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 tvg-id="BOX CINEMA (IN)" tvg-logo=" "  group-title="MX-TV",BOX CINEMA (IN)
+#EXTINF:-1 tvg-id="BOX CINEMA (IN)" tvg-logo="http://boxcinemedia.com/assets/img/logo.png"  group-title="MX-TV",BOX CINEMA (IN)
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 #EXTINF:-1 tvg-id="MANOTANJAN MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",MANORANJAN MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
