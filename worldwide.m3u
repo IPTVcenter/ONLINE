@@ -58,7 +58,7 @@ https://itvoign.multitvsolution.com/idvo/ddnortheast.m3u8
 https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-1 tvg-id="MAHA MOVIE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dgk8ZJp1.png"   group-title="MULTI-TV",MAHA MOVIE (IN)
 https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
-#EXTINF:-1 tvg-id="ENTERR 10 MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Enterr10-Movies.jpg"  group-title="MULTI-TV",ENTERR 10 MOVIES (IN)
+#EXTINF:-1 tvg-id="DANGAL 2" tvg-logo="https://static.theprint.in/wp-content/uploads/2022/04/unnamed_12022040112180620220401122710.jpg"  group-title="MULTI-TV",DANGAL 2 (IN)
 https://itvoign.multitvsolution.com/idvo/enterr10movies.m3u8
 #EXTINF:-1 tvg-id="DD RETRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/DD_Retro.png/220px-DD_Retro.png"  group-title="MULTI-TV",DD RETRO (IN)
 https://idvd.multitvsolution.com/idvo/ddretro.m3u8
@@ -106,13 +106,13 @@ https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 http://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 #EXTINF:-1 tvg-id="BUZZER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/NewBUZZRLogo2021.png"  group-title="STIRR-TV",BUZZER (US)
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
-#EXTINF:-1 tvg-id="OUTSIDE" tvg-logo="  "  group-title="STIRR-TV",OUTSIDE (US)
+#EXTINF:-1 tvg-id="OUTSIDE" tvg-logo="https://www.outsidetv.com/img/otv/hls_header.png"  group-title="STIRR-TV",OUTSIDE (US)
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
-#EXTINF:-1 tvg-id="CHARGE!" tvg-logo=" "  group-title="STIRR-TV",CHARGE! (US)
+#EXTINF:-1 tvg-id="CHARGE!" tvg-logo="https://watchcharge.s3.amazonaws.com/uploads/2020/03/Charge_White.png"  group-title="STIRR-TV",CHARGE! (US)
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 tvg-id="FUTURISM" tvg-logo=" "  group-title="STIRR-TV",FUTURISM (US)
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
-#EXTINF:-1 tvg-id="PEOPLE" tvg-logo="  "  group-title="STIRR-TV",PEOPLE (US)
+#EXTINF:-1 tvg-id="PEOPLE" tvg-logo=" "  group-title="STIRR-TV",PEOPLE (US)
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 #EXTINF:-1 tvg-id="THE ASYLUM" tvg-logo="  "  group-title="STIRR-TV",THE ASYLUM (US)
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
@@ -130,7 +130,21 @@ https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 http://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
 #EXTINF:-1 tvg-id="THE BOB ROSS CHANNEL" tvg-logo="  "  group-title="STIRR-TV",THE BOB ROSS CHANNEL (US)
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
- 
+#EXTINF:-1 tvg-id="MASTIII" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png"  group-title="STIRR-TV",MASTIII (IN)
+https://dai.google.com/linear/hls/pb/event/BTxxr_w7RNKurbEciwKXOw/stream/fb23cee0-e419-4e54-a3a4-a20d7a769626:SIN/master.m3u8
+#EXTINF:-1 tvg-id="AFRICA NEWS" tvg-logo="https://a.jsrdn.com/hls/22886/africanews/logo_20220330_174322_69.jpg"  group-title="STIRR-TV",AFRICA NEWS (AF)
+https://dai.google.com/linear/hls/pb/event/fdnfhuQ-TEy7d8NKQTPCYw/stream/e66efd46-591f-4f76-846b-e9c4304686ae:SIN/master.m3u8
+#EXTINF:-1 tvg-id="ARRE tvg-logo="https://a.jsrdn.com/hls/22982/arre/logo_20210827_071720_68.png"  group-title="STIRR-TV",ARRE (IN)
+https://dai.google.com/linear/hls/pb/event/VnLiVBiIT0GxM5xMvm0pCg/stream/14421164-774c-4acc-a138-e19b6cb6e3c2:SIN/master.m3u8
+#EXTINF:-1 tvg-id="SA" tvg-logo="https://a.jsrdn.com/hls/23010/south-asia-global/logo_20220302_194746_68.png"  group-title="STIRR-TV",SA (US)
+https://dai.google.com/linear/hls/pb/event/oL3pVkK3Rayxkh3Uohs0rA/stream/25a331f1-44fe-4c24-bedd-bdebdc0e4984:SIN2/master.m3u
+#EXTINF:-1 tvg-id="BLESS TV" tvg-logo="https://a.jsrdn.com/hls/23015/bless-tv/logo_20220126_191353_68.png"  group-title="STIRR-TV",BLESS TV (US)
+https://dai.google.com/linear/hls/pb/event/AV_Y-GRfRVOQ4HZSqMI6kw/stream/0a73189f-8ba8-441c-a87b-ab9a802c38f2:SIN2/master.m3u
+
+
+
+
+
 #EXTINF:-1 tvg-id="SO YUMMY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhrCs_fI1UnQ45pdMAu36CCDDzYmcATQRECqW3xct6mhrr9pZSm1bnMVviwJE4WdYeJGAq19U9cPcNyx-AdtWUESHJ_mW2PHjP3Jp__CiaMyfjABOvHdFgVuf9HYKf-RktBCe9eFIZwqTA6kahu8fw_F_-aLruFeZDa4Ut1U09hy5V_UddLI6moCzyuZA=s200"  group-title="XUMO-TV",SO YUMMY (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 #EXTINF:-1 tvg-id="REELZ" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiV3Mi_Td9sEimGpX_dbSyPGemj80eBdOe9cWw0UxcGn3AHJJwxQR3Mb4X77CMOyf5OjHIZSmLjbLYPpUzCuCgbCh4Mck2N9v4z5PCSPfeS5D_DPwoH-l9bgMHOC7GpF3tP9UHMDU4PdoFLI_T5_ukaJeNjBCAK43Q5tY0JHwgVQFiwE4o1s04GbePlCw=s200"  group-title="XUMO-TV",REELZ (US)
@@ -591,6 +605,10 @@ https://yuppsportsind.akamaized.net/121120/zingus/playlist.m3u8
 https://yuppsportsind.akamaized.net/121120/andtvhdus/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png "  group-title="AKAMAI-TV",ZEE TV HD (US)
 https://yuppsportsind.akamaized.net/121120/zeetvhdus/playlist.m3u8
+#EXTINF:-1 tvg-id="PEOPLE TV (US)" tvg-logo="https://image.roku.com/developer_channels/prod/a4e9c44a7164ad5e06bcd026aea372fdfe6c6aa6d636e9c82c32962668d5c08d.png"  group-title="NET-TV",PEOPLE TV (US)
+https://peopletv-oando.akamaized.net/midroll/amagi_hls_data_peopletvA-peopletvoando/CDN/playlist.m3u8?deviceid=f7cf553f-fb83-4953-bef2-06d2e1f6bd93
+
+
 
 #EXTINF:-1 tvg-id="LOCAL NOW SPORTS (UK)" tvg-logo=" "  group-title="NET-TV",LOCAL NOW SPORTS (UK)
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
