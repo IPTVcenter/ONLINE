@@ -128,20 +128,6 @@ https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 http://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
 #EXTINF:-1 tvg-id="THE BOB ROSS CHANNEL" tvg-logo="  "  group-title="STIRR-TV",THE BOB ROSS CHANNEL (US)
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-#EXTINF:-1 tvg-id="MASTIII" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png"  group-title="STIRR-TV",MASTIII (IN)
-https://dai.google.com/linear/hls/pb/event/BTxxr_w7RNKurbEciwKXOw/stream/fb23cee0-e419-4e54-a3a4-a20d7a769626:SIN/master.m3u8
-#EXTINF:-1 tvg-id="AFRICA NEWS" tvg-logo="https://a.jsrdn.com/hls/22886/africanews/logo_20220330_174322_69.jpg"  group-title="STIRR-TV",AFRICA NEWS (AF)
-https://dai.google.com/linear/hls/pb/event/fdnfhuQ-TEy7d8NKQTPCYw/stream/e66efd46-591f-4f76-846b-e9c4304686ae:SIN/master.m3u8
-#EXTINF:-1 tvg-id="ARRE tvg-logo="https://a.jsrdn.com/hls/22982/arre/logo_20210827_071720_68.png"  group-title="STIRR-TV",ARRE (IN)
-https://dai.google.com/linear/hls/pb/event/VnLiVBiIT0GxM5xMvm0pCg/stream/14421164-774c-4acc-a138-e19b6cb6e3c2:SIN/master.m3u8
-#EXTINF:-1 tvg-id="SA" tvg-logo="https://a.jsrdn.com/hls/23010/south-asia-global/logo_20220302_194746_68.png"  group-title="STIRR-TV",SA (US)
-https://dai.google.com/linear/hls/pb/event/oL3pVkK3Rayxkh3Uohs0rA/stream/25a331f1-44fe-4c24-bedd-bdebdc0e4984:SIN2/master.m3u
-#EXTINF:-1 tvg-id="BLESS TV" tvg-logo="https://a.jsrdn.com/hls/23015/bless-tv/logo_20220126_191353_68.png"  group-title="STIRR-TV",BLESS TV (US)
-https://dai.google.com/linear/hls/pb/event/AV_Y-GRfRVOQ4HZSqMI6kw/stream/0a73189f-8ba8-441c-a87b-ab9a802c38f2:SIN2/master.m3u
-#EXTINF:-1 tvg-id="HARE KRSNA" tvg-logo="https://a.jsrdn.com/hls/22994/hare-krsna/thumbh_20211123_183253.jpg"  group-title="STIRR-TV",KRSNA (IN)
-https://dai.google.com/linear/hls/pb/event/9QsqfhAjSamrM3M22e59jw/stream/9648a2cc-966c-410f-845e-54be44e9b67d:SIN2/master.m3u8
-#EXTINF:-1 tvg-id="FODE TV" tvg-logo="https://a.jsrdn.com/hls/22964/fido-tv/logo_20210622_200418_68.png"  group-title="STIRR-TV",FODE TV (US)
-https://dai.google.com/linear/hls/pb/event/qd8D8TtbQ-2fFw5-1sZiWQ/stream/8206e235-4e0f-45c0-ad3e-95c9554870d7:SIN2/master.m3u8
 
 #EXTINF:-1 tvg-id="SO YUMMY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhrCs_fI1UnQ45pdMAu36CCDDzYmcATQRECqW3xct6mhrr9pZSm1bnMVviwJE4WdYeJGAq19U9cPcNyx-AdtWUESHJ_mW2PHjP3Jp__CiaMyfjABOvHdFgVuf9HYKf-RktBCe9eFIZwqTA6kahu8fw_F_-aLruFeZDa4Ut1U09hy5V_UddLI6moCzyuZA=s200"  group-title="XUMO-TV",SO YUMMY (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
