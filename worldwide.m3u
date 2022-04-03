@@ -140,10 +140,10 @@ https://dai.google.com/linear/hls/pb/event/VnLiVBiIT0GxM5xMvm0pCg/stream/1442116
 https://dai.google.com/linear/hls/pb/event/oL3pVkK3Rayxkh3Uohs0rA/stream/25a331f1-44fe-4c24-bedd-bdebdc0e4984:SIN2/master.m3u
 #EXTINF:-1 tvg-id="BLESS TV" tvg-logo="https://a.jsrdn.com/hls/23015/bless-tv/logo_20220126_191353_68.png"  group-title="STIRR-TV",BLESS TV (US)
 https://dai.google.com/linear/hls/pb/event/AV_Y-GRfRVOQ4HZSqMI6kw/stream/0a73189f-8ba8-441c-a87b-ab9a802c38f2:SIN2/master.m3u
-
-
-
-
+#EXTINF:-1 tvg-id="HARE KRSNA" tvg-logo="https://a.jsrdn.com/hls/22994/hare-krsna/thumbh_20211123_183253.jpg"  group-title="STIRR-TV",KRSNA (IN)
+https://dai.google.com/linear/hls/pb/event/9QsqfhAjSamrM3M22e59jw/stream/9648a2cc-966c-410f-845e-54be44e9b67d:SIN2/master.m3u8
+#EXTINF:-1 tvg-id="FODE TV" tvg-logo="https://a.jsrdn.com/hls/22964/fido-tv/logo_20210622_200418_68.png"  group-title="STIRR-TV",FODE TV (US)
+https://dai.google.com/linear/hls/pb/event/qd8D8TtbQ-2fFw5-1sZiWQ/stream/8206e235-4e0f-45c0-ad3e-95c9554870d7:SIN2/master.m3u8
 
 #EXTINF:-1 tvg-id="SO YUMMY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhrCs_fI1UnQ45pdMAu36CCDDzYmcATQRECqW3xct6mhrr9pZSm1bnMVviwJE4WdYeJGAq19U9cPcNyx-AdtWUESHJ_mW2PHjP3Jp__CiaMyfjABOvHdFgVuf9HYKf-RktBCe9eFIZwqTA6kahu8fw_F_-aLruFeZDa4Ut1U09hy5V_UddLI6moCzyuZA=s200"  group-title="XUMO-TV",SO YUMMY (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
