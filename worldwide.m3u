@@ -118,13 +118,11 @@ https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 #EXTINF:-1 tvg-id="NEWSY" tvg-logo="  "  group-title="STIRR-TV",NEWSY (US)
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
-#EXTINF:-1 tvg-id="WINK TV" tvg-logo=" "  group-title="STIRR-TV",WINK TV (US)
+#EXTINF:-1 tvg-id="WINK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/WINK-TV_logo_2017.png"  group-title="STIRR-TV",WINK TV (US)
 https://dai.google.com/linear/hls/event/RDMOOz10SfKAEdQ_ovgcUA/master.m3u8
-#EXTINF:-1 tvg-id="FOX47" tvg-logo=" "  group-title="STIRR-TV",FOX47 (US)
-https://dai.google.com/linear/hls/event/F2pAtIBvQTSkZCmUKqk0Zw/master.m3u8
 #EXTINF:-1 tvg-id="SHOUT TV" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/6a/6a/d86a6ab4-42a5-997f-4deb-20ca5a2aeb1f/App_Icon_-_Small-marketing.lsr/1024x1024bb.jpg"  group-title="STIRR-TV",SHOUT FACTORY TV (US)
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
-#EXTINF:-1 tvg-id="OUTDOOR AMERICA" tvg-logo=" "  group-title="STIRR-TV",OUTDOOR AMERICA (US)
+#EXTINF:-1 tvg-id="OUTDOOR AMERICA" tvg-logo="https://image.roku.com/developer_channels/prod/e1abd2e3ea0aa5fc1d5dcccc160706e65849465b0be9de655551bdf2d2333fdc.png"  group-title="STIRR-TV",OUTDOOR AMERICA (US)
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 #EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png"  group-title="STIRR-TV",NDTV 24x7 (IN)
 http://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
