@@ -21,7 +21,7 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg"  group-title="SAMSUNG-TV",BLOOMBERG (US)
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FTF" tvg-logo=" "   group-title="SAMSUNG-TV",FTF (US)
+#EXTINF:-1 tvg-id="FTF" tvg-logo="https://snagfilms-a.akamaihd.net/0000014c-edbe-da12-a1fc-fdbe2f120000/images/93/ff/899ed7604901807d3824d4a9abca/1571847365901_ftf_transparentimages-tab.png"   group-title="SAMSUNG-TV",FTF (US)
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FAILARMY" tvg-logo="https://i.imgur.com/nbzbHum.png"  group-title="SAMSUNG-TV",FAILARMY (US)
 https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
@@ -1056,8 +1056,8 @@ http://18.191.91.130:1935/live/safetv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="FTF" tvg-logo="https://snagfilms-a.akamaihd.net/0000014c-edbe-da12-a1fc-fdbe2f120000/images/93/ff/899ed7604901807d3824d4a9abca/1571847365901_ftf_transparentimages-tab.png"  group-title="CDN-TV",FTF (US)
 https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
-
-
+#EXTINF:-1 tvg-id="LSN" tvg-logo="https://snagfilms-a.akamaihd.net/cf9c3bbc-917a-4447-90ab-55bf78b01f49/images/83/36/d90134124307b18e251dce2033ad/1566507637959_laximages-tab.png"  group-title="DIGITAL-TV",LSN (US)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 
 #EXTINF:-1 tvg-id="SMASH 7 NEWS" tvg-logo=" "  group-title="SMASH-IPTV",SMASH 7NEWS (MT)
