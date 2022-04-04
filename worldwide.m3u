@@ -112,12 +112,10 @@ https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 tvg-id="FUTURISM" tvg-logo=" "  group-title="STIRR-TV",FUTURISM (US)
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
-#EXTINF:-1 tvg-id="PEOPLE" tvg-logo=" "  group-title="STIRR-TV",PEOPLE (US)
+#EXTINF:-1 tvg-id="PEOPLE" tvg-logo="https://image.roku.com/developer_channels/prod/a4e9c44a7164ad5e06bcd026aea372fdfe6c6aa6d636e9c82c32962668d5c08d.png"  group-title="STIRR-TV",PEOPLE (US)
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 #EXTINF:-1 tvg-id="THE ASYLUM" tvg-logo="  "  group-title="STIRR-TV",THE ASYLUM (US)
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
-#EXTINF:-1 tvg-id="NEWSY" tvg-logo="  "  group-title="STIRR-TV",NEWSY (US)
-https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 #EXTINF:-1 tvg-id="WINK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/WINK-TV_logo_2017.png"  group-title="STIRR-TV",WINK TV (US)
 https://dai.google.com/linear/hls/event/RDMOOz10SfKAEdQ_ovgcUA/master.m3u8
 #EXTINF:-1 tvg-id="SHOUT TV" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/6a/6a/d86a6ab4-42a5-997f-4deb-20ca5a2aeb1f/App_Icon_-_Small-marketing.lsr/1024x1024bb.jpg"  group-title="STIRR-TV",SHOUT FACTORY TV (US)
@@ -276,7 +274,7 @@ http://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist.m3u8
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV (US)" tvg-logo=" "  group-title="ONLINE-TV",JTV (US)
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
-#EXTINF:-1 tvg-id="ABC 15 (US)" tvg-logo=" "  group-title="ONLINE-TV",ABC 15 (US)
+#EXTINF:-1 tvg-id="ABC 15 (US)" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/09/ABC15-Arizona.png"  group-title="ONLINE-TV",ABC 15 (US)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 #EXTINF:-1 tvg-id="AMAR UJALA (IN)" tvg-logo=" "  group-title="ONLINE-TV",AMAR UJALA (IN)
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
@@ -385,7 +383,7 @@ https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INSIGHT TV (US)" tvg-logo=" "  group-title="AMAGI-TV",INSIGHT TV (US)
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="YOUNG HOLLYWOOD (US)" tvg-logo=" "  group-title="AMAGI-TV",YOUNG HOLLYWOOD (US)
+#EXTINF:-1 tvg-id="YOUNG HOLLYWOOD (US)" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22823/young-hollywood/logo_20200330_221710.png"  group-title="AMAGI-TV",YOUNG HOLLYWOOD (US)
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YAHOO FINANCE (US)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh9MB1CZd991750JrUs4YG_1RmHWQGVZFHJmI_pqrtD0p4zXJElbIYt56BaJ4c1RHDw43oBD1iy1oe29nYZzRL0j6A0GAdA1XKCG8_QG7bL64aNResleD44xv_CBQD-8UWV6XN8NlyhsxUm8nP5pu_gZ6gKLco5DLSjUkUZyF49Z-qmZztsytGIo_hJ"  group-title="AMAGI-TV",YAHOO FINANCE (US)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
