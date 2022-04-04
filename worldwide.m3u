@@ -368,14 +368,14 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/News_Live.png"  group-title="SMART-STREAM",NEWS LIVE (IN)
 https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LOCAL NOW PG" tvg-logo=" "  group-title="LOCAL-NOW",LOCAL NOW PG (US)
+#EXTINF:-1 tvg-id="LOCAL NOW PG" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/Local-Now-PG-Flix.jpg"  group-title="LOCAL-NOW",LOCAL NOW PG (US)
 https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LOCAL NOW 20" tvg-logo=" "  group-title="LOCAL-NOW",LOCAL NOW 20 (US)
+#EXTINF:-1 tvg-id="LOCAL NOW 20" tvg-logo="https://www.youi.tv/wp-content/uploads/2018/07/local-now_logo-white.png"  group-title="LOCAL-NOW",LOCAL NOW 20 (US)
 https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LOCAL NOW ADRENALINE RUSH" tvg-logo=" "  group-title="LOCAL-NOW",LOCAL NOW ADRENALINE RUSH (US)
+#EXTINF:-1 tvg-id="LOCAL NOW ADRENALINE RUSH" tvg-logo="https://i.ytimg.com/vi/CSW6FaXlk-U/hqdefault.jpg"  group-title="LOCAL-NOW",LOCAL NOW ADRENALINE RUSH (US)
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="INSIGHT TV (US)" tvg-logo=" "  group-title="AMAGI-TV",INSIGHT TV (US)
+#EXTINF:-1 tvg-id="INSIGHT TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/1251164850278985733/czPfgXiI_400x400.jpg"  group-title="AMAGI-TV",INSIGHT TV (US)
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YOUNG HOLLYWOOD (US)" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22823/young-hollywood/logo_20200330_221710.png"  group-title="AMAGI-TV",YOUNG HOLLYWOOD (US)
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
