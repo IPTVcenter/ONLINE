@@ -332,17 +332,17 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-id="CITY NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/City_News_HD_Logo.png"  group-title="ONLINE-TV",CITY NEWS HD (PK)
 http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/413px-Cinemax_2016.svg.png"  group-title="ONLINE-TV",CINEMAX (TW)
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/413px-Cinemax_2016.svg.png"  group-title="IP",CINEMAX (TW)
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2018/01/hbo_logo-590x332.jpg"  group-title="ONLINE-TV",HBO (TW)
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2018/01/hbo_logo-590x332.jpg"  group-title="IP",HBO (TW)
 http://ip2121.com:8081/live/hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC NEWS" tvg-logo="https://www.brainomix.com/media/j1lniei2/bbc-news_preview.png"  group-title="ONLINE-TV",BBC NEWS (TW)
+#EXTINF:-1 tvg-id="BBC NEWS" tvg-logo="https://www.brainomix.com/media/j1lniei2/bbc-news_preview.png"  group-title="IP,BBC NEWS (TW)
 http://ip2121.com:8081/live/bbc/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png"  group-title="ONLINE-TV",CNN (TW)
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png"  group-title="IP",CNN (TW)
 http://ip2121.com:8081/live/cnn/playlist.m3u8
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://thumbs.gfycat.com/FantasticMadHorsefly-size_restricted.gif"  group-title="ONLINE-TV",ALJAZEERA (TW)
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://thumbs.gfycat.com/FantasticMadHorsefly-size_restricted.gif"  group-title="IP",ALJAZEERA (TW)
 http://ip2121.com:8081/live/aljazeera/playlist.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://pbs.twimg.com/profile_images/1483044581428056066/oohjMmO9_400x400.jpg"  group-title="ONLINE-TV",DISCOVERY (TW)
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://pbs.twimg.com/profile_images/1483044581428056066/oohjMmO9_400x400.jpg"  group-title="IP",DISCOVERY (TW)
 http://ip2121.com:8081/live/discovery/playlist.m3u8
 
 
@@ -441,13 +441,18 @@ http://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1 tvg-id="AST TV 2" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="AST-TV",AST TV 2 (CY)
 http://www.ast.tv/stream/2/cellular.m3u8
  
-#EXTINF:-1 tvg-id="AMAZING DISCOVERIES TV"   tvg-logo=" " group-title="TULIX-TV",AMAZING DISCOVERIES TV (CA)
+#EXTINF:-1 tvg-id="AMAZING DISCOVERIES TV" tvg-logo="https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png"  group-title="BOZZ-TV",AD TV (US)
+https://bozztv.com/btrn03/amazingdtv-srt/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AD TV"  tvg-logo="https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png" group-title="TULIX-TV",AD TV (CA)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="BETTER HEALTH" tvg-logo=""  group-title="TULIX-TV",BETTER HEALTH (US)
+#EXTINF:-1 tvg-id="BETTER HEALTH" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-better-health-tv-7905.jpg"  group-title="TULIX-TV",BETTER HEALTH (US)
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
-#EXTINF:-1 tvg-id="LIFE VISION" tvg-logo=" "  group-title="TULIX-TV",LIFE VISION (US)
+#EXTINF:-1 tvg-id="LIFE VISION" tvg-logo="http://www.lifevisiontv.com/shop/images/products/64fb0fbf2c9891079e0154b949ec82fb.jpg"  group-title="TULIX-TV",LIFE VISION (US)
 http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NRB TV" tvg-logo=" "  group-title="TULIX-TV",NRB TV (US)
+#EXTINF:-1 tvg-id="NRB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/NRB_blue-768x530-1.png"  group-title="TULIX-TV",NRB TV (US)
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="92 NEWS" tvg-logo="https://pbs.twimg.com/profile_images/940547058267717632/W0AAWT1v_400x400.jpg"  group-title="VISIONIP-TV",92 NEWS (UK)
@@ -504,7 +509,7 @@ http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="DISHA TV (IN)" tvg-logo="https://dishatv.com/img/logo.png"  group-title="WMNCDN-TV",DISHA TV (IN)
 http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZEE AFLAM (ME)" tvg-logo="AVvXsEh4IrEDAVKHW7vMO6a4_1chaEc3tOrVGLp7mev1WDieuMTG6cWBmaRJgY-ir5RH0LnzZO6HrwdvynZXyIjklh0i-OR-WjVbSZhiTYotuco76O6H3X6V3hTAgF8wOlDqMB-QUKYijLVfSuCQAaAureogPi5-71wbBen4gcG_I5pUU4OdVKuUH4QTgFyZSQ=s200"   group-title="AKAMAI-TV",ZEE AFLAM (ME)
+#EXTINF:-1 tvg-id="ZEE AFLAM (ME)" tvg-logo=" "   group-title="AKAMAI-TV",ZEE AFLAM (ME)
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="3 ABN KIDS (US)" tvg-logo=" "   group-title="AKAMAI-TV",3 ABN KIDS (US)
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
@@ -606,7 +611,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiDRqzzBr-e3FJd7h2e31W7I1_qvBp7RvDfDvLDDMRAQHejttAmpbTfSilKFQ0odizlLTL7-2SQj4zeerIBZZgK6nPi4mRxOUaFdUTYIPCdtIig3ErFX4DNzlCEbIknNyQiZkMXj1FUsLI6hkpa4m__esUPFV0osL6uWU17kk3S_XvdrmO7_DtZyGZYAA=s200"  group-title="NET-TV",9X JALWA (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="ZEE NEWS (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wdPs8bpF.png"   group-title="NET-TV",ZEE NEWS (IN)
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_2.m3u8
 #EXTINF:-1 tvg-id="BESTON 25 NEWS (US)" tvg-logo=" "  group-title="NET-TV",BESTON 25 NEWS (US)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live.m3u8
 #EXTINF:-1 tvg-id="BAYWATCH (US)" tvg-logo=" "  group-title="NET-TV",BAYWATCH (US)
