@@ -349,12 +349,10 @@ http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m
 http://cdn.smartstream.video/smartstream-us/tv100/tv100/chunklist.m3u8
 #EXTINF:-1 tvg-id="NEWS 11 (IN)" tvg-logo="https://jiotvweb.cdn.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News11.png"  group-title="SMART-STREAM",NEWS 11 (IN)
 http://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
-#EXTINF:-1 tvg-id="JONAK (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiwSYN08lHdd11_u8xDMsFusOZ74U8Q_X59nbzX1RRUYQySED1YYUICDGeWxT3iHcPlfRozYBIEDl_-SZoPBsE1AooUT0YiqVfpAtQSom2Un7nWY8zNHGpmTUBHrcf4S27CwzFMKxOwZo6qY3IiqZAS9f6hIWrASETQtr4A5WSQA_uuoMRncwJ_0pwxeg=s200"  group-title="SMART-STREAM",JONAK (IN)
+#EXTINF:-1 tvg-id="JONAK (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Jonack.png" group-title="SMART-STREAM",JONAK (IN)
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 tvg-id="NK TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhJv181P7DkI6zdyFxwinlpqUBhkCMXvAMUmok8kDtj6TrCPq08sjNqxBWbU8jufhVzJOrrWuLcFv_qa2p7rSS0sojhkMlqXgSCAyVYGNwHh_k_xueJQYLldsm0dH__kmPvuEU9STtunCelHrHWABiV3D5IOlfQYXUKCgpvvlIpV-swjyhPFsj-3mdkIw=s200"  group-title="SMART-STREAM",NK TV (IN)
+#EXTINF:-1 tvg-id="NK TV (IN)" tvg-logo="https://www.nktv.in/wp-content/uploads/2021/10/NKtv_Logo_200x102-removebg-preview.png"   group-title="SMART-STREAM",NK TV (IN)
 https://rtmp.smartstream.video/nktvlive/nktvlive/chunklist.m3u8
-#EXTINF:-1 tvg-id="NEWS DAILY 24 (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg5YDKbvvqm0wE_N57iT9IwhIk-tInwMwIAwpuZEk1WWZlp4MSxDzUKpRsV3ulDhG6vIGOHoIG4yfL9gHIZ08ZQvrp0EVKkfuXYFkRu3XM6XwOyzzkCa8KvPipiU8nwNfT4gBpRmVBPDcU-yBFb3CzY94TwWqMR3bREHgNoUQR63jxdhXsTHLt-r1FJ6Q=s200"  group-title="SMART-STREAM",NEWS DAILY 24 (IN)
-https://rtmp.smartstream.video/r9lives/r9lives/chunklist.m3u8
 #EXTINF:-1 tvg-id="SUDARSHAN NEWS (IN)" tvg-logo="https://jiotvweb.cdn.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png"  group-title="SMART-STREAM",SUDARSHAN NEWS (IN)
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist.m3u8
 #EXTINF:-1 tvg-id="CHANNEL WIN (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhgN4g-in8koQtVMMv1JnE9-OHajpkaqaOe6B5Y0aMtVN5NR6-3tEFz9G9rlruRs7aAhc78jLi5ZJ6Km5fDbQKBNmrhg8QLQWBhAWejMScmqS1d37UqxmikQXeEPFgWu6ht4v0D8eYJlJBUaID3G05GRaXK0L5C8yOHEhOJB7AQORTr7gEQsDUc8zVRlA=s200"  group-title="SMART-STREAM",CHANNEL WIN (IN)
