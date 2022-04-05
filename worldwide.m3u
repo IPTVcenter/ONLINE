@@ -782,6 +782,8 @@ https://nayeem-parvez.gq/zeex.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png"  group-title="ZEE5",ZEE TV HD (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeetvhd
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeecafehd
+
+
 https://nayeem-parvez.gq/zeex.php?c=0-9-317
 https://nayeem-parvez.gq/zeex.php?c=0-9-322
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeenews
@@ -790,11 +792,7 @@ https://nayeem-parvez.gq/zeex.php?c=0-9-aajtak
 https://nayeem-parvez.gq/zeex.php?c=0-9-indiatoday
 https://nayeem-parvez.gq/zeex.php?c=0-9-wion
 https://nayeem-parvez.gq/zeex.php?c=0-9-310
-
-
-
-
-
+#EXTINF:-1 tvg-id="PRAGNEWS" tvg-logo="https://pragnews.com/assets/images/logo/1648877886pragnews.gif"group-title=ZEE5",PRAGNEWS (IN)
 #EXTINF:-1 tvg-id="DISCOVERY (VN)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (VN)
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX (VN)" tvg-logo=" "  group-title="FPT-PLAY",CINEMAX (VN)
