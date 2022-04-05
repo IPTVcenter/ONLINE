@@ -441,10 +441,8 @@ http://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1 tvg-id="AST TV 2" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="AST-TV",AST TV 2 (CY)
 http://www.ast.tv/stream/2/cellular.m3u8
  
-#EXTINF:-1 tvg-id="AMAZING DISCOVERIES TV" tvg-logo="https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png"  group-title="BOZZ-TV",AD TV (US)
+#EXTINF:-1 tvg-id="AD TV" tvg-logo="https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png"  group-title="BOZZ-TV",AD TV (US)
 https://bozztv.com/btrn03/amazingdtv-srt/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="AD TV"  tvg-logo="https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png" group-title="TULIX-TV",AD TV (CA)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
@@ -457,8 +455,10 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="92 NEWS" tvg-logo="https://pbs.twimg.com/profile_images/940547058267717632/W0AAWT1v_400x400.jpg"  group-title="VISIONIP-TV",92 NEWS (UK)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
-#EXTINF:-1 tvg-id="SPOT LIGHT" tvg-logo=" "   group-title="VISIONIP-TV",SPOT LIGHT (UK)
+#EXTINF:-1 tvg-id="SPOT LIGHT" tvg-logo="http://spotlight-tv.co.uk/wp-content/uploads/2020/12/spotlight-logo-small-white.png"   group-title="VISIONIP-TV",SPOT LIGHT (UK)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPOT LIGHT" tvg-logo="http://spotlight-tv.co.uk/wp-content/uploads/2020/12/spotlight-logo-small-white.png"   group-title="VISIONIP-TV",SPOT LIGHT (UK)
+http://embeddedplayer.visionip.tv/index.php?module=playlist&type=m3u8_mb&b2b=1&broadcastid=393478&protocolid=5&datarateid=3&user=Spotlight%20TV&www=spotlight-tv.co.uk
 #EXTINF:-1 tvg-id="GOOD NEWS TV" tvg-logo=" "  group-title="VISIONIP-TV",GOOD NEWS TV (UK)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-goodnewstv-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="BRITISH MUSLIM TV" tvg-logo=" "  group-title="VISIONIP-TV",BRITISH MUSLIM TV (UK)
@@ -508,6 +508,8 @@ https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="DISHA TV (IN)" tvg-logo="https://dishatv.com/img/logo.png"  group-title="WMNCDN-TV",DISHA TV (IN)
 http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GOOF NEWS TV" tvg-logo="https://goodnewstelevision.com/wp-content/uploads/2020/08/New-Logo-300x160-1.png"  group-title="WMNCDN-TV",GOOD NEWS TV (US)
+https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZEE AFLAM (ME)" tvg-logo=" "   group-title="AKAMAI-TV",ZEE AFLAM (ME)
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
