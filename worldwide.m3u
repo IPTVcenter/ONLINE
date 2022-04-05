@@ -791,8 +791,10 @@ https://nayeem-parvez.gq/zeex.php?c=0-9-zeebusiness
 https://nayeem-parvez.gq/zeex.php?c=0-9-aajtak
 https://nayeem-parvez.gq/zeex.php?c=0-9-indiatoday
 https://nayeem-parvez.gq/zeex.php?c=0-9-wion
+#EXTINF:-1 tvg-id="PRAG NEWS" tvg-logo="https://pragnews.com/assets/images/logo/1648877886pragnews.gif"group-title=ZEE5",PRAG NEWS (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-310
-#EXTINF:-1 tvg-id="PRAGNEWS" tvg-logo="https://pragnews.com/assets/images/logo/1648877886pragnews.gif"group-title=ZEE5",PRAGNEWS (IN)
+
+
 #EXTINF:-1 tvg-id="DISCOVERY (VN)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (VN)
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX (VN)" tvg-logo=" "  group-title="FPT-PLAY",CINEMAX (VN)
