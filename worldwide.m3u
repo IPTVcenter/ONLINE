@@ -335,13 +335,20 @@ http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/413px-Cinemax_2016.svg.png"  group-title="ONLINE-TV",CINEMAX (TW)
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2018/01/hbo_logo-590x332.jpg"  group-title="ONLINE-TV",HBO (TW)
-http://ip2121.com:8081/web1/hbo/playlist.m3u8
+http://ip2121.com:8081/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC NEWS" tvg-logo="https://www.brainomix.com/media/j1lniei2/bbc-news_preview.png"  group-title="ONLINE-TV",BBC NEWS (TW)
+http://ip2121.com:8081/live/bbc/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png"  group-title="ONLINE-TV",CNN (TW)
+http://ip2121.com:8081/live/cnn/playlist.m3u8
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://thumbs.gfycat.com/FantasticMadHorsefly-size_restricted.gif"  group-title="ONLINE-TV",ALJAZEERA (TW)
+http://ip2121.com:8081/live/aljazeera/playlist.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://pbs.twimg.com/profile_images/1483044581428056066/oohjMmO9_400x400.jpg"  group-title="ONLINE-TV",DISCOVERY (TW)
+http://ip2121.com:8081/live/discovery/playlist.m3u8
 
 
- 
 #EXTINF:-1 tvg-id="DY365 (IN)" tvg-logo="https://dy365.in/images/logo.png" group-title="SMART-STREAM",DY 365 (IN)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 tvg-id="NORTH EAST LIVE (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiQvF3eUmD5tQOwYQ2C-ZSmYgFj9zC_5HFu-KGvL-ws_fUuKSAWDQne-jp8woJj3T9qCEjLymtYpc7_n_pJJEOmIro93QfNd9lXhdE73oiXrpRu8LrMYJ6E-LThEKd7oPuR0JWZyBCKOTLgohZGp_jJkkpQxDxkWM_lMfMRozpsHY97A23T4JMhqUNIzg=s200" group-title="SMART-STREAM",NORTH EAST LIVE (IN)
+#EXTINF:-1 tvg-id="NORTH EAST LIVE (IN)" tvg-logo="https://northeastlivetv.com/wp-content/uploads/2018/11/ne_live_logo_black_tag.png"   group-title="SMART-STREAM",NORTH EAST LIVE (IN)
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="A1 TV (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/A1tv-in.png"  group-title="SMART-STREAM",A1 TV (IN)
 http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m3u8
@@ -355,7 +362,7 @@ https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 https://rtmp.smartstream.video/nktvlive/nktvlive/chunklist.m3u8
 #EXTINF:-1 tvg-id="SUDARSHAN NEWS (IN)" tvg-logo="https://jiotvweb.cdn.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png"  group-title="SMART-STREAM",SUDARSHAN NEWS (IN)
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist.m3u8
-#EXTINF:-1 tvg-id="CHANNEL WIN (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhgN4g-in8koQtVMMv1JnE9-OHajpkaqaOe6B5Y0aMtVN5NR6-3tEFz9G9rlruRs7aAhc78jLi5ZJ6Km5fDbQKBNmrhg8QLQWBhAWejMScmqS1d37UqxmikQXeEPFgWu6ht4v0D8eYJlJBUaID3G05GRaXK0L5C8yOHEhOJB7AQORTr7gEQsDUc8zVRlA=s200"  group-title="SMART-STREAM",CHANNEL WIN (IN)
+#EXTINF:-1 tvg-id="CHANNEL WIN (IN)" tvg-logo="https://standwithdignity.org/wp-content/uploads/2016/09/CHANNEL-WIN-LOGO-1-1-300x182.png"   group-title="SMART-STREAM",CHANNEL WIN (IN)
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 tvg-id="MHONE SHRADHA (IN)" tvg-logo="https://shraddha.mhone.in/wp-content/uploads/2021/12/SHRADDHA-mhone-vishwas-aapka-Small.png"  group-title="SMART-STREAM",MHONE SHRADHA (IN)
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
