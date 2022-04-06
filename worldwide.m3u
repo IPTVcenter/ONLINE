@@ -535,39 +535,37 @@ https://tezlive-amd.akamaized.net/hls/live/2016145-b/tez/tezlive/tez_2/chunklist
 https://betamg-i.akamaihd.net/hls/live/513429/bettingtv/0_tklzcakd_1_2/chunklist.m3u8?Token=
 #EXTINF:-1 tvg-id="ET NOW (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/ET_Now_2017.jpg"  group-title="AKAMAI-TV",ET NOW (IN)
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:-1 tvg-id="CNBC TV 18 (IN)" tvg-logo=" "  group-title="AKAMAI-TV",CNBC TV 18 (IN)
+#EXTINF:-1 tvg-id="CNBC TV 18 (IN)" tvg-logo="https://pbs.twimg.com/profile_images/633210816485965824/0cQi0eZS.jpg"  group-title="AKAMAI-TV",CNBC TV 18 (IN)
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/master.m3u8?hdnea=st=1649239678~exp=1650079678~acl=/*~hmac=6cd8858691b138c19c6ef4a0541e60bf2a332cfa8beff7f24c821404a1ac3bdc
-#EXTINF:-1 tvg-id="CNBC TV 18 (IN)" tvg-logo=" "  group-title="AKAMAI-TV",CNBC TV 18 (IN)
+#EXTINF:-1 tvg-id="CNBC TV 18 (IN)" tvg-logo="https://pbs.twimg.com/profile_images/633210816485965824/0cQi0eZS.jpg"  group-title="AKAMAI-TV",CNBC TV 18 (IN)
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_3_av-p.m3u8
-#EXTINF:-1 tvg-id="CNBC AWAAZ (IN)" tvg-logo=" "  group-title="AKAMAI-TV",CNBC AWAAZ (IN)
+#EXTINF:-1 tvg-id="CNBC AWAAZ (IN)" tvg-logo="https://itnewsnet.com/wp-content/uploads/2020/09/CNBC-Awaaz-Live-News-TV-Channel-in-India-min.jpg"  group-title="AKAMAI-TV",CNBC AWAAZ (IN)
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_3_av-p.m3u8
-#EXTINF:-1 tvg-id="REDBULL TV (ME)" tvg-logo=" "  group-title="AKAMAI-TV",REDBULL TV (ME)
+#EXTINF:-1 tvg-id="REDBULL TV (ME)" tvg-logo="https://logodix.com/logo/656122.jpg"  group-title="AKAMAI-TV",REDBULL TV (ME)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="HSN (US)" tvg-logo=" "  group-title="AKAMAI-TV",HSN (US)
+#EXTINF:-1 tvg-id="HSN (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/HSN.png"  group-title="AKAMAI-TV",HSN (US)
 http://html5-lh.akamaihd.net/i/html5_01@182967/index_1000_av-p.m3u8?
-#EXTINF:-1 tvg-id="FATV (US)" tvg-logo=" "  group-title="AKAMAI-TV",FATV (US)
+#EXTINF:-1 tvg-id="FATV (US)" tvg-logo="https://images.squarespace-cdn.com/content/v1/58211522414fb52a34ef47c8/1491496233542-J4UANGII7FHAHECV4H8P/New_FATV_Logo_HiRes-2.png"  group-title="AKAMAI-TV",FATV (US)
 https://t04865-lh.akamaihd.net/i/t04865a_1@569562/index_3000000_av-p.m3u8
-#EXTINF:-1 tvg-id="GOD TV (US)" tvg-logo=" "  group-title="AKAMAI-TV",GOD TV (US)
+#EXTINF:-1 tvg-id="GOD TV (US)" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png"  group-title="AKAMAI-TV",GOD TV (US)
 https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
-#EXTINF:-1 tvv-id="BLOOMBERG (US)" tvg-logo=" "  group-title="AKAMAI-TV",BLOOMBERG (US)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ire
-#EXTINF:-1 tvg-id="BEK (US)" tvg-logo=" "  group-title="AKAMAI-TV",BEK (US)
+#EXTINF:-1 tvv-id="GOD TV (AU)" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png"  group-title="AKAMAI-TV",GOD TV (AU)
+https://zypelive-lh.akamaihd.net/i/default_1@745546/master.m3u8?6pLKMQ3y=pLK0uw32&F38b1dF4=624d77cb397cf0000126c1fc&dw=10800&video_id=5c35f39a5c7bfd130e0056b0&hdnts=exp%3D1649330507%7Eacl%3D%2F*%40745546%2F*%7Ehmac%3Dc0bf8300c4128a0f028aa2dcdb55840b1b032a9eb76f3e03604aebc4dc77d7c2
+#EXTINF:-1 tvg-id="BEK SPORTS (US)" tvg-logo="https://www.dakotacentral.com/wp-content/uploads/2019/09/bek_broadcasting.png"  group-title="AKAMAI-TV",BEK SPORTS (US)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS NEWS (AU)" tvg-logo=" "  group-title="AKAMAI-TV",FOX SPORTS NEWS (AU)
+#EXTINF:-1 tvg-id="NEWS NET (US)" tvg-logo="https://newsnetnational.images.worldnow.com/images/20308268_G.jpg"   group-title="AKAMAI-TV",NEWS NET (US)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS NEWS (AU)" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png"  group-title="AKAMAI-TV",FOX SPORTS NEWS (AU)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="SBN GLOBAL (US)" tvg-logo=" "  group-title="AKAMAI-TV",SBN GLOBAL (US)
-https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
-#EXTINF:-1 tvg-id="EXPO (US)" tvg-logo=" "  group-title="AKAMAI-TV",EXPO (US)
+#EXTINF:-1 tvg-id="EXPO (AU)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png"  group-title="AKAMAI-TV",EXPO (AU)
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
-#EXTINF:-1 tvg-id="ABC NEWS (US)" tvg-logo=" "  group-title="AKAMAI-TV",ABC NEWS (US)
+#EXTINF:-1 tvg-id="ABC NEWS (US)" tvg-logo="https://letsgomum.com.au/wp-content/uploads/2017/07/abc-news-logo.png"  group-title="AKAMAI-TV",ABC NEWS (US)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="NJP WORLD (JP)" tvg-logo=" "  group-title="AKAMAI-TV",NJP WORLD (JP)
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="NJP WORLD (JP)" tvg-logo=" "  group-title="AKAMAI-TV",NJP WORLD (JP)
+#EXTINF:-1 tvg-id="NJP WORLD (JP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1024px-NHK_World-Japan_TV.svg.png"  group-title="AKAMAI-TV",NJP WORLD (JP)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NEWS 18 ASSAM (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiw8FpyuCDs6PmldvnjDUBuLcL1p9VvGrO2KY1puw9v-gT41mTDNavO_4G1uBbBO8EbGnlp7RXmgESvtHSbQ3YwLfpQHTYvvSMy9I6Wwi0wg5WsaXJ-bbitp5J_N0rp5S8STc8YvFZpDhzNj9eSf-C1GydowZ5XfuMhaD5sYLCCwfF9QWNqW7FZ0suk=s200"  group-title="AKAMAI-TV",NEWS 18 ASSAM (IN)
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_3_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="M2O TV (UK)" tvg-logo=" "  group-title="AKAMAI-TV",M2O TV (UK)
+#EXTINF:-1 tvg-id="M2O TV (UK)" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/m20tv-vipotv.png"  group-title="AKAMAI-TV",M2O TV (UK)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_400_av-p.m3u8
 #EXTINF:-1 tvg-id="SKY2 (AU)" tvg-logo=" "  group-title="AKAMAI-TV",SKY2 (AU)
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
