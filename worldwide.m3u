@@ -515,24 +515,22 @@ https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="3 ABN KIDS (US)" tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png"   group-title="AKAMAI-TV",3 ABN KIDS (US)
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
-#EXTINF:-1 tvg-id="NASA TV (UK)" tvg-logo=" "   group-title="AKAMAI-TV",NASA TV (UK)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="MIRROR NOW (IN)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/mirror-now.jpg"  group-title="AKAMAI-TV",MIRROR NOW (IN)
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
-#EXTINF:-1 tvg-id="NEWS 18 INDIA (IN)" tvg-logo=" "  group-title="AKAMAI-TV",NEWS 18 INDIA (IN)
+#EXTINF:-1 tvg-id="NEWS 18 INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png"  group-title="AKAMAI-TV",NEWS 18 INDIA (IN)
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-logo=" "  group-title="AKAMAI-TV",ABP NEWS (IN)
+#EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-logo="https://www.exchange4media.com/news-photo/109657-abplogo.jpg"  group-title="AKAMAI-TV",ABP NEWS (IN)
 https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master.m3u8
-#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-logo=" "  group-title="AKAMAI-TV",INDIA TV (IN)
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
-#EXTINF:-1 tvg-id="NDTV INDIA (IN)" tvg-logo=" "  group-title="AKAMAI-TV",NDTV INDIA (IN)
+#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-logo="https://static.indiatvnews.com/ins-web/images/mobile/sitelogo.png"  group-title="AKAMAI-TV",INDIA TV (IN)
+https://pl-indiatvnews.akamaized.net/out/v1/8fe71f599a3a4092970bf21a66e770d8/index.m3u8
+#EXTINF:-1 tvg-id="NDTV INDIA (IN)" tvg-logo="https://www.dehradunanimation.com/images/gallery/ndtv.png"  group-title="AKAMAI-TV",NDTV INDIA (IN)
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1 tvg-id="NDTV 24X7 (IN)" tvg-logo=" "  group-title="AKAMAI-TV",NDTV 24X7 (IN)
+#EXTINF:-1 tvg-id="NDTV 24X7 (IN)" tvg-logo="https://i.ndtvimg.com/i/2015-03/ndtv640_640x480_61427446668.jpg"  group-title="AKAMAI-TV",NDTV 24X7 (IN)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-id="NDTV PROFIT (IN)" tvg-logo=" "  group-title="AKAMAI-TV",NDTV PROFIT (IN)
+#EXTINF:-1 tvg-id="NDTV PROFIT (IN)" tvg-logo="https://i.ndtvimg.com/i/2015-08/640kjkj_640x480_51438669552.jpg"  group-title="AKAMAI-TV",NDTV PROFIT (IN)
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
-#EXTINF:-1 tvg-id="GNT (IN)" tvg-logo=" "  group-title="AKAMAI-TV",GNT (IN)
-https://tezlive-amd.akamaized.net/hls/live/2016145-b/tez/tezlive/tez_3/chunklist.m3u8
+#EXTINF:-1 tvg-id="GNT (IN)" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2021/09/GNT-Logo1_10.jpg"  group-title="AKAMAI-TV",GNT (IN)
+https://tezlive-amd.akamaized.net/hls/live/2016145-b/tez/tezlive/tez_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG (UK)" tvg-logo=" "  group-title="AKAMAI-TV",BLOOMBERG (UK)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="NEWS MAX (US)" tvg-logo=" "  group-title="AKAMAI-TV",NEWS MAX (US)
