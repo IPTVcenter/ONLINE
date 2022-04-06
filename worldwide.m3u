@@ -531,20 +531,16 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
 #EXTINF:-1 tvg-id="GNT (IN)" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2021/09/GNT-Logo1_10.jpg"  group-title="AKAMAI-TV",GNT (IN)
 https://tezlive-amd.akamaized.net/hls/live/2016145-b/tez/tezlive/tez_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERG (UK)" tvg-logo=" "  group-title="AKAMAI-TV",BLOOMBERG (UK)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="NEWS MAX (US)" tvg-logo=" "  group-title="AKAMAI-TV",NEWS MAX (US)
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="HBTV 1 (US)" tvg-logo=" "  group-title="AKAMAI-TV",HBTV 1 (US)
+#EXTINF:-1 tvg-id="HBTV 1 (US)" tvg-logo="https://livetvboxfree.com/live/uploads/kanal/william-hill-tv_live_sitream.jpg"  group-title="AKAMAI-TV",HBTV 1 (US)
 https://betamg-i.akamaihd.net/hls/live/513429/bettingtv/0_tklzcakd_1_2/chunklist.m3u8?Token=
-#EXTINF:-1 tvg-id="STC (UK)" tvg-logo=" " group-title="AKAMAI-TV",STC (UK)
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8?Token=
-#EXTINF:-1 tvg-id="ET NOW (IN)" tvg-logo=" "  group-title="AKAMAI-TV",ET NOW (IN)
+#EXTINF:-1 tvg-id="ET NOW (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/ET_Now_2017.jpg"  group-title="AKAMAI-TV",ET NOW (IN)
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 #EXTINF:-1 tvg-id="CNBC TV 18 (IN)" tvg-logo=" "  group-title="AKAMAI-TV",CNBC TV 18 (IN)
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/master.m3u8?hdnea=st=1649239678~exp=1650079678~acl=/*~hmac=6cd8858691b138c19c6ef4a0541e60bf2a332cfa8beff7f24c821404a1ac3bdc
+#EXTINF:-1 tvg-id="CNBC TV 18 (IN)" tvg-logo=" "  group-title="AKAMAI-TV",CNBC TV 18 (IN)
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_3_av-p.m3u8
 #EXTINF:-1 tvg-id="CNBC AWAAZ (IN)" tvg-logo=" "  group-title="AKAMAI-TV",CNBC AWAAZ (IN)
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_3_av-p.m3u8
 #EXTINF:-1 tvg-id="REDBULL TV (ME)" tvg-logo=" "  group-title="AKAMAI-TV",REDBULL TV (ME)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="HSN (US)" tvg-logo=" "  group-title="AKAMAI-TV",HSN (US)
@@ -570,7 +566,7 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 #EXTINF:-1 tvg-id="NJP WORLD (JP)" tvg-logo=" "  group-title="AKAMAI-TV",NJP WORLD (JP)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NEWS 18 ASSAM (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiw8FpyuCDs6PmldvnjDUBuLcL1p9VvGrO2KY1puw9v-gT41mTDNavO_4G1uBbBO8EbGnlp7RXmgESvtHSbQ3YwLfpQHTYvvSMy9I6Wwi0wg5WsaXJ-bbitp5J_N0rp5S8STc8YvFZpDhzNj9eSf-C1GydowZ5XfuMhaD5sYLCCwfF9QWNqW7FZ0suk=s200"  group-title="AKAMAI-TV",NEWS 18 ASSAM (IN)
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_3_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 tvg-id="M2O TV (UK)" tvg-logo=" "  group-title="AKAMAI-TV",M2O TV (UK)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_400_av-p.m3u8
 #EXTINF:-1 tvg-id="SKY2 (AU)" tvg-logo=" "  group-title="AKAMAI-TV",SKY2 (AU)
@@ -795,7 +791,7 @@ https://nayeem-parvez.gq/zeex.php?c=0-9-tvhd_0
 
 
 https://nayeem-parvez.gq/zeex.php?c=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" "  group-title="ZEE5",ZEE CINEMA HD (IN)
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"  group-title="ZEE5",ZEE CINEMA HD (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png"  group-title="ZEE5",ZEE TV HD (IN)
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeetvhd
