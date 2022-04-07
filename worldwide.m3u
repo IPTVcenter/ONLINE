@@ -518,7 +518,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-id="MIRROR NOW (IN)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/mirror-now.jpg"  group-title="AKAMAI-TV",MIRROR NOW (IN)
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 #EXTINF:-1 tvg-id="NEWS 18 INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png"  group-title="AKAMAI-TV",NEWS 18 INDIA (IN)
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="ABP NEWS (IN)" tvg-logo="https://www.exchange4media.com/news-photo/109657-abplogo.jpg"  group-title="AKAMAI-TV",ABP NEWS (IN)
 https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master.m3u8
 #EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-logo="https://static.indiatvnews.com/ins-web/images/mobile/sitelogo.png"  group-title="AKAMAI-TV",INDIA TV (IN)
@@ -538,9 +538,9 @@ https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 #EXTINF:-1 tvg-id="CNBC TV 18 (IN)" tvg-logo="https://pbs.twimg.com/profile_images/633210816485965824/0cQi0eZS.jpg"  group-title="AKAMAI-TV",CNBC TV 18 (IN)
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/master.m3u8?hdnea=st=1649239678~exp=1650079678~acl=/*~hmac=6cd8858691b138c19c6ef4a0541e60bf2a332cfa8beff7f24c821404a1ac3bdc
 #EXTINF:-1 tvg-id="CNBC TV 18 (IN)" tvg-logo="https://pbs.twimg.com/profile_images/633210816485965824/0cQi0eZS.jpg"  group-title="AKAMAI-TV",CNBC TV 18 (IN)
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_3_av-p.m3u8
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="CNBC AWAAZ (IN)" tvg-logo="https://itnewsnet.com/wp-content/uploads/2020/09/CNBC-Awaaz-Live-News-TV-Channel-in-India-min.jpg"  group-title="AKAMAI-TV",CNBC AWAAZ (IN)
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_3_av-p.m3u8
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="REDBULL TV (ME)" tvg-logo="https://logodix.com/logo/656122.jpg"  group-title="AKAMAI-TV",REDBULL TV (ME)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="HSN (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/HSN.png"  group-title="AKAMAI-TV",HSN (US)
@@ -564,13 +564,11 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-id="NJP WORLD (JP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1024px-NHK_World-Japan_TV.svg.png"  group-title="AKAMAI-TV",NJP WORLD (JP)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NEWS 18 ASSAM (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiw8FpyuCDs6PmldvnjDUBuLcL1p9VvGrO2KY1puw9v-gT41mTDNavO_4G1uBbBO8EbGnlp7RXmgESvtHSbQ3YwLfpQHTYvvSMy9I6Wwi0wg5WsaXJ-bbitp5J_N0rp5S8STc8YvFZpDhzNj9eSf-C1GydowZ5XfuMhaD5sYLCCwfF9QWNqW7FZ0suk=s200"  group-title="AKAMAI-TV",NEWS 18 ASSAM (IN)
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_3_av-p.m3u8?rebase=on&sd=10
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 tvg-id="M2O TV (UK)" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/m20tv-vipotv.png"  group-title="AKAMAI-TV",M2O TV (UK)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_400_av-p.m3u8
-#EXTINF:-1 tvg-id="SKY2 (AU)" tvg-logo=" "  group-title="AKAMAI-TV",SKY2 (AU)
+#EXTINF:-1 tvg-id="SKY2 (AU)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sky2_logo_2008-2011.svg/1200px-Sky2_logo_2008-2011.svg.png"  group-title="AKAMAI-TV",SKY2 (AU)
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1 tvg-id="IND TV USA (US)" tvg-logo="http://www.indtvusa.com/wp-content/uploads/2017/01/INDTVUSA-Logo.png"  group-title="AKAMAI-TV",INDTV USA (AU)
-https://t06858-lh.akamaihd.net/i/t06858a_1@719164/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 #EXTINF:-1 tvg-id="ZOOM" tvg-logo="https://www.exchange4media.com/news-photo/1524130730_wmUPKi_zoom_take_this.jpg"  group-title="AKAMAI-TV",ZOOM (US)
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_360_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-id="9XM" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"  group-title="AKAMAI-TV",9XM (IN)
