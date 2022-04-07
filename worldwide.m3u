@@ -298,6 +298,10 @@ https://weblive.republicworld.com/httppush/ottr_republic_english/ottr/master.m3u
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/ottrb/master.m3u8?e=1651431600&h=f66a60a21c8b02a8690d98c6c5fda5bb
 #EXTINF:-1 tvg-id="REPUBLIC BHARAT (IN)" tvg-logo="https://www.examsegg.com/wp-content/uploads/2021/02/republic-bharat-logo-e1613310592185.jpg"  group-title="ONLINE-TV",REPUBLIC BHARAT (IN)
 https://ottrbintl3.republicworld.com/httppush/ottrbintl_republic_hindi/ottrbintl3/master.m3u8?e=1651410000&h=451b3f2f647081a12bb8f6792c76a49a
+#EXTINF:-1 tvg-id="GULISTAN NEWS" tvg-logo="https://gulistannews.in/wp-content/uploads/2019/08/logo.jpeg"  group-title="AMAGI-TV",GULISTAN NEWS (IN)
+https://livestream.jktvonline.com/hls/gul.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TBD" tvg-logo="https://image.roku.com/developer_channels/prod/e575623dcddc5a0a30c6a9f0ec8b129069ca25bf3bc74a6c8d44d7bc0844d7cd.png"  group-title="ONLINE-TV",TBD (US)
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
@@ -592,17 +596,17 @@ https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
 
 #EXTINF:-1 tvg-id="LOCAL NOW SPORTS (UK)" tvg-logo=" "  group-title="NET-TV",LOCAL NOW SPORTS (UK)
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AXS TV (US)" tvg-logo=" "  group-title="NET-TV",AXS TV (US)
+#EXTINF:-1 tvg-id="AXS TV (US)" tvg-logo="https://dp4uuw9dn4glv.cloudfront.net/images/channel/axs_tv.jpg"  group-title="NET-TV",AXS TV (US)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="AUSBIZ (AU)" tvg-logo=" "  group-title="NET-TV",AUSBIZ (AU)
+#EXTINF:-1 tvg-id="AUSBIZ (AU)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5e5091548bf5a551ea5d9dea/1582338795914-L4KPLRPXI13617OWE4T9/Logo%26Mark_White_Transparent%401x+%281%29.png"  group-title="NET-TV",AUSBIZ (AU)
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="POPSTAR! TV (IN)" tvg-logo="http://www.video.popstaronline.com/wp-content/uploads/2021/09/logo-new.png"   group-title="NET-TV",POPSTSR! TV (US)
 https://d3fmzhzockgffb.cloudfront.net/v1/master/ec9207ed6819582289cfdc7569d8065cc8aca126/DSP_5bc3d53d98f8159d11f1092c_li-1/playlist.m3u8?ads.us_privacy=1YNN&ads.url=https%3A%2F%2Fwww.video.popstaronline.com%2F&ads.w=280&ads.h=158&ads.cb=13352163516419940&ads.ip=2401:4900:3dc4:1509:4313:8c5e:9363:5a7c&ads.ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%208.0.0%3B%20en-US%3B%20Infinix%20X573%20Build%2FOPR1.170623.032%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4
-#EXTINF:-1 tvg-id="ARRE (IN)" tvg-logo=" "  group-title="NET-TV",ARRE (IN)
+#EXTINF:-1 tvg-id="ARRE (IN)" tvg-logo="https://cdnet.arre.co.in/wp-content/themes/arre/img/logo.png"  group-title="NET-TV",ARRE (IN)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
-#EXTINF:-1 tvg-id="INDIA AHEAD (IN)" tvg-logo=" "  group-title="NET-TV",INDIA AHEAD (IN)
+#EXTINF:-1 tvg-id="INDIA AHEAD (IN)" tvg-logo="https://indiaaheadnews.com/wp-content/uploads/2021/08/livetv.jpeg"  group-title="NET-TV",INDIA AHEAD (IN)
 https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
-#EXTINF:-1 tvg-id="CNA (ASIA)" tvg-logo=" "  group-title="NET-TV",CNA (ASIA)
+#EXTINF:-1 tvg-id="CNA (ASIA)" tvg-logo="https://uspto.report/TM/79271909/mark.png"  group-title="NET-TV",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="9XM (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgy54TCpSEzcJl7v3gTYCk9fA4Y6zWSKCcyLdlMSvdiZjVcfm0pKb2ZuIG3B-pbWaYfESHQJAn9TtF72MjUfoDtQRcO8aw4TQPsRDOsxhE3MiIYnvK6-LRNWz4qBNTzssmEoQnpU2fMNas2khPfDpQecC9C8EypYIjmFUIrkklStbqOok9IARhPSBEa6g=s200"   group-title="NET-TV",9XM (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
@@ -610,11 +614,11 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="ZEE NEWS (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wdPs8bpF.png"   group-title="NET-TV",ZEE NEWS (IN)
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_2.m3u8
-#EXTINF:-1 tvg-id="BESTON 25 NEWS (US)" tvg-logo=" "  group-title="NET-TV",BESTON 25 NEWS (US)
+#EXTINF:-1 tvg-id="BESTON 25 NEWS (US)" tvg-logo="https://www.boston25news.com/resizer/MsV-Axz0IkQdoIeHf12J3OHxbEA=/arc-anglerfish-arc2-prod-cmg/public/KFOMGBUZABAONOI4XTWJTXUHUY.png"  group-title="NET-TV",BESTON 25 NEWS (US)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="BAYWATCH (US)" tvg-logo=" "  group-title="NET-TV",BAYWATCH (US)
+#EXTINF:-1 tvg-id="BAYWATCH (US)" tvg-logo="https://i.ytimg.com/vi/V3YE977cSuU/maxresdefault.jpg"  group-title="NET-TV",BAYWATCH (US)
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="SKI TV (US)" tvg-logo=" "  group-title="NET-TV",SKI TV (US)
+#EXTINF:-1 tvg-id="SKI TV (US)" tvg-logo="https://www.skitv.tv/wp-content/uploads/2020/05/ski-tv-logo-channel.png"  group-title="NET-TV",SKI TV (US)
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-id="WION (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rtFcXqpX.png"  group-title="NET-TV",WION (IN)
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
@@ -622,7 +626,7 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="DD RETRO (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhMEo3D0Tv4_zeFVt3vYozlhifCdEOV6kLYTHphiv3Ygbip2F0NJ4WdMKrFyoYF5FKe0JCgk5B1ttdOZOyVOcFCHZCaSW-PI8o2LT3X4bWcf2fNCybOJ3K3iWl61VUi2vmaiKmhJkb6of4MyggFzdoU1APNQbGEtBFOms6kSejF9cdp_EHMY_x1iNFutw=s200"   group-title="NET-TV",DD RETRO (IN)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-id="YAHOO (UK)" tvg-logo=" "  group-title="NET-TV",YAHOO (UK)
+#EXTINF:-1 tvg-id="YAHOO (UK)" tvg-logo="https://pbs.twimg.com/media/EujRwX_UcAI6Hkr.jpg"  group-title="NET-TV",YAHOO (UK)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 
@@ -643,45 +647,43 @@ https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-id="BOX CINEMA (IN)" tvg-logo="http://boxcinemedia.com/assets/img/logo.png"  group-title="MX-TV",BOX CINEMA (IN)
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
-#EXTINF:-1 tvg-id="MANOTANJAN MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",MANORANJAN MOVIES (IN)
+#EXTINF:-1 tvg-id="MANORANJAN MOVIES (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg"  group-title="MX-TV",MANORANJAN MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1 tvg-id="MAHA MOVIE (IN)" tvg-logo=" "  group-title="MX-TV",MAHA MOVIE (IN)
+#EXTINF:-1 tvg-id="MAHA MOVIE (IN)" tvg-logo="https://dishnews.in/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-01-at-4.43.02-PM-300x169.jpeg"  group-title="MX-TV",MAHA MOVIE (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-logo=" "  group-title="MX-TV",MOVIE PLUS (IN)
+#EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Movie-Plus.png"  group-title="MX-TV",MOVIE PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
-#EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-logo=" "   group-title="MX-TV",DD NATIONAL (IN)
+#EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-250/list/1170x658withlogo_436360213.jpg"   group-title="MX-TV",DD NATIONAL (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
-#EXTINF:-1 tvg-id="MASTIII (IN)" tvg-logo=" "  group-title="MX-TV",MASTIII (IN)
+#EXTINF:-1 tvg-id="MASTIII (IN)" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png"  group-title="MX-TV",MASTIII (IN)
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
-#EXTINF:-1 tvg-id="B4U MUSIC (IN)" tvg-logo=" "  group-title="MX-TV",B4U MUSIC (IN)
+#EXTINF:-1 tvg-id="B4U MUSIC (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="MX-TV",B4U MUSIC (IN)
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-#EXTINF:-1 tvg-id="NEWS NATION (IN)" tvg-logo=" "  group-title="MX-TV",NEWS NATION (IN)
+#EXTINF:-1 tvg-id="NEWS NATION (IN)" tvg-logo="https://heartbeatsz.com/wp-content/uploads/2021/01/news12.png"  group-title="MX-TV",NEWS NATION (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
-#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-logo=" "  group-title="MX-TV",INDIA TV (IN)
+#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-logo="https://ixceed-solutions.co.uk/wp-content/uploads/2021/05/indiatv.png"  group-title="MX-TV",INDIA TV (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
-#EXTINF:-1 tvg-id="DD ASSAM (IN)" tvg-logo=" "   group-title="MX-TV",DD ASSAM (IN)
+#EXTINF:-1 tvg-id="DD ASSAM (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/DD_Assam_logo.jpeg"   group-title="MX-TV",DD ASSAM (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
-#EXTINF:-1 tvg-id="DD KASHIR (IN)" tvg-logo=" "  group-title="MX-TV",DD KASHIR (IN)
+#EXTINF:-1 tvg-id="DD KASHIR (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/DD_Kashir.jpg"  group-title="MX-TV",DD KASHIR (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8
-#EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-logo=" "  group-title="MX-TV",9X JALWA (IN)
+#EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9x-jalwa-black.png"  group-title="MX-TV",9X JALWA (IN)
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
-#EXTINF:-1 tvg-id="9XM (IN)" tvg-logo=" "   group-title="MX-TV",9XM (IN)
+#EXTINF:-1 tvg-id="9XM (IN)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"   group-title="MX-TV",9XM (IN)
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
-#EXTINF:-1 tvg-id="GULISTAN NEWS (IN)" tvg-logo=" "  group-title="MX-TV",GULISTAN NEWS (IN)
+#EXTINF:-1 tvg-id="GULISTAN NEWS (IN)" tvg-logo="https://gulistannews.in/wp-content/uploads/2019/08/logo.jpeg"  group-title="MX-TV",GULISTAN NEWS (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
-#EXTINF:-1 tvg-id="NEWS X (IN)" tvg-logo=" "  group-title="MX-TV",NEWS X (IN)
+#EXTINF:-1 tvg-id="NEWS X (IN)" tvg-logo="https://www.newsx.com/wp-content/themes/newsxlite/images/newsx.png"  group-title="MX-TV",NEWS X (IN)
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
-#EXTINF:-1 tvg-id="NEWS INDIA (IN)" tvg-logo=" "  group-title="MX-TV",NEWS INDIA (IN)
+#EXTINF:-1 tvg-id="NEWS INDIA (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/India_News.png"  group-title="MX-TV",NEWS INDIA (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
-#EXTINF:-1 tvg-id="NEWS INDIA 24X7 (IN)" tvg-logo=" "  group-title="MX-TV",NEWS INDIA 24X7 (IN)
-https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
-#EXTINF:-1 tvg-id="JANATA TV (IN)" tvg-logo=" "  group-title="MX-TV",JANATA TV (IN)
+#EXTINF:-1 tvg-id="JANATA TV (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Janta_TV.jpeg"  group-title="MX-TV",JANATA TV (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
-#EXTINF:-1 tvg-id="SAMAY (IN)" tvg-logo=" "  group-title="MX-TV",SAMAY (IN)
+#EXTINF:-1 tvg-id="SAMAY (IN)" tvg-logo="https://sites.google.com/site/livehinditvchannels/_/rsrc/1542286073409/samay-tv-live/samay%20live.jpg"  group-title="MX-TV",SAMAY (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
-#EXTINF:-1 tvg-id="A1 TV (IN)" tvg-logo=" "  group-title="MX-TV",A1 TV (IN)
+#EXTINF:-1 tvg-id="A1 TV (IN)" tvg-logo="https://www.a1live.in/images/logo.png"  group-title="MX-TV",A1 TV (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in.m3u8
-#EXTINF:-1 tvg-id="IBC 24 (IN)" tvg-logo=" "  group-title="MX-TV",IBC 24 (IN)
+#EXTINF:-1 tvg-id="IBC 24 (IN)" tvg-logo="https://www.ibc24.in/wp-content/uploads/2021/07/ibc24-logo-big-one.png"  group-title="MX-TV",IBC 24 (IN)
 https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
 #EXTINF:-1 tvg-id="CVR NEWS (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/CVR_English.jpg"  group-title="MX-TV",CVR NEWS (IN)
 https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
