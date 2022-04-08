@@ -758,21 +758,21 @@ https://m-c049-j2apps.s.llnwi.net/hls/8052.SharnamTV.in.m3u8
 https://m-c06-j2apps.s.llnwi.net/hls/8051.Sanskriti24X7.in.m3u8
 #EXTINF:-1 tvg-id="ANAADI TV (IN)" tvg-logo=" "  group-title="MX-TV",ANAADI TV (IN)
 https://m-c28-j2apps.s.llnwi.net/hls/8045.AnaadiTV.in.m3u8
-#EXTINF:-1 tvg-id="HIFF MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",HIFF MOVIES (IN)
+#EXTINF:-1 tvg-id="HIFF MOVIES (IN)" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/20298467-cd1b-4420-b7de-d42fcf7168ef.jpg"  group-title="MX-TV",HIFF MOVIES (IN)
 https://m-c28-j2apps.s.llnwi.net/hls/8044.HiffMovies.in.m3u8
-#EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-logo=" "  group-title="MX-TV",ANJAN TV (IN)
+#EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Anjan.jpg"  group-title="MX-TV",ANJAN TV (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
-#EXTINF:-1 tvg-id="PRIME TV (IN)" tvg-logo=" "  group-title="MX-TV",PRIME TV (IN)
+#EXTINF:-1 tvg-id="PRIME TV (IN)" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/a53630fc-fa32-40d7-ac7d-233c550ed0d2.jpg" group-title="MX-TV",PRIME TV (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/8040.PrimeTV.in.m3u8
 #EXTINF:-1 tvg-id="PT NEWS (IN)" tvg-logo=" "  group-title="MX-TV",PT NEWS (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/8036.PTNews.in.m3u8
-#EXTINF:-1 tvg-id="HARYANA TASHAN ENT. (IN)" tvg-logo=" "  group-title="MX-TV",HARYANA TASHAN ENT. (IN)
+#EXTINF:-1 tvg-id="HARYANA TASHAN ENT. (IN)" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8033.HaryanaTashanEnt.in/en/1x1/208x208/test_pic1615992378172.jpg"  group-title="MX-TV",HARYANA TASHAN ENT. (IN)
 https://m-c04-j2apps.s.llnwi.net/hls/8033.HaryanaTashanEnt.in.m3u8
-#EXTINF:-1 tvg-id="INSIGHT TV (IN)" tvg-logo=" "  group-title="MX-TV",INSIGHT TV (IN)
+#EXTINF:-1 tvg-id="INSIGHT TV (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1251164850278985733/czPfgXiI_400x400.jpg"  group-title="MX-TV",INSIGHT TV (IN)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-mxplayer/playlist.m3u8?app_bundle=com.innovation.mxplayer_8064.InsightTV.in&app_name=MXPlayer&app_store_url=https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&genre=GD&coppa=Kids&iab=IAB1-7
-#EXTINF:-1 tvg-id="VEDANT TV (IN)" tvg-logo=" "  group-title="MX-TV",VEDANT TV (IN)
+#EXTINF:-1 tvg-id="VEDANT TV (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Vedant_TV.jpeg"  group-title="MX-TV",VEDANT TV (IN)
 https://m-c05-j2apps.s.llnwi.net/hls/8031.VedantTV.in.m3u8
-#EXTINF:-1 tvg-id="JANTANTRA TV (IN)" tvg-logo=" "  group-title="MX-TV",JANTANTRA TV (IN)
+#EXTINF:-1 tvg-id="JANTANTRA TV (IN)" tvg-logo="https://www.jantantratv.com/wp-content/uploads/2020/11/Jantantra-TV-Logo.png"  group-title="MX-TV",JANTANTRA TV (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8028.JantantraTV.in.m3u8
 #EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-logo="https://ixceed-solutions.co.uk/wp-content/uploads/2021/05/indiatv.png"  group-title="MX-TV",INDIA TV (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
