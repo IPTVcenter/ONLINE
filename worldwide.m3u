@@ -625,8 +625,6 @@ https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-id="WION (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rtFcXqpX.png"  group-title="NET-TV",WION (IN)
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
-#EXTINF:-1 tvg-id="TNA (US)" tvg-logo=" "  group-title="NET-TV",TNA (US)
-https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="DD RETRO (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhMEo3D0Tv4_zeFVt3vYozlhifCdEOV6kLYTHphiv3Ygbip2F0NJ4WdMKrFyoYF5FKe0JCgk5B1ttdOZOyVOcFCHZCaSW-PI8o2LT3X4bWcf2fNCybOJ3K3iWl61VUi2vmaiKmhJkb6of4MyggFzdoU1APNQbGEtBFOms6kSejF9cdp_EHMY_x1iNFutw=s200"   group-title="NET-TV",DD RETRO (IN)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="YAHOO (UK)" tvg-logo="https://pbs.twimg.com/media/EujRwX_UcAI6Hkr.jpg"  group-title="NET-TV",YAHOO (UK)
@@ -702,11 +700,11 @@ https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
 https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
 #EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-logo="https://foodfood.b-cdn.net/assets/images/logo/logo.png"  group-title="MX-TV",FOOD FOOD (IN)
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
-#EXTINF:-1 tvg-id="DW (IN)" tvg-logo=" "  group-title="MX-TV",DW (IN)
+#EXTINF:-1 tvg-id="DW (IN)" tvg-logo="https://static.dw.com/image/52015610_101.png"  group-title="MX-TV",DW (IN)
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
-#EXTINF:-1 tvg-id="FRANCE 24 (ASIA)" tvg-logo=" "  group-title="MX-TV",FRANCE 24 (ASIA)
+#EXTINF:-1 tvg-id="FRANCE 24 (ASIA)" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png"  group-title="MX-TV",FRANCE 24 (ASIA)
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
-#EXTINF:-1 tvg-id="EURO NEWS (UK)" tvg-logo=" "  group-title="MX-TV",EURO NEWS (UK)
+#EXTINF:-1 tvg-id="EURO NEWS (UK)" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/logo_20201208_214101_68.png"  group-title="MX-TV",EURO NEWS (UK)
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
 #EXTINF:-1 tvg-id="SANSKAR (IN)" tvg-logo=" "  group-title="MX-TV",SANSKAR (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
