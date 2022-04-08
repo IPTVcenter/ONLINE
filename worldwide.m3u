@@ -593,6 +593,9 @@ https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
 #EXTINF:-1 tvg-id="D2D" tvg-logo="https://3abn.org/img/logos/tv/D2D.png"  group-title="AKAMAI-TV",D2D (US)
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:-1 tvg-id="DW (US)" tvg-logo="https://static.dw.com/image/52015610_101.png"  group-title="AKAMAI-TV",DW (US)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 
 #EXTINF:-1 tvg-id="LOCAL NOW SPORTS (UK)" tvg-logo=" "  group-title="NET-TV",LOCAL NOW SPORTS (UK)
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
@@ -695,9 +698,9 @@ https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
 https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
 #EXTINF:-1 tvg-id="DD INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/DD_India_logo.jpg/640px-DD_India_logo.jpg"  group-title="MX-TV",DD INDIA (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
-#EXTINF:-1 tvg-id="SURYA SAMACHAR (IN)" tvg-logo=" "  group-title="MX-TV",SURYA SAMACHAR (IN)
+#EXTINF:-1 tvg-id="SURYA SAMACHAR (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Surya_Samachar.jpeg"  group-title="MX-TV",SURYA SAMACHAR (IN)
 https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
-#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-logo=" "  group-title="MX-TV",FOOD FOOD (IN)
+#EXTINF:-1 tvg-id="FOOD FOOD (IN)" tvg-logo="https://foodfood.b-cdn.net/assets/images/logo/logo.png"  group-title="MX-TV",FOOD FOOD (IN)
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 #EXTINF:-1 tvg-id="DW (IN)" tvg-logo=" "  group-title="MX-TV",DW (IN)
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
