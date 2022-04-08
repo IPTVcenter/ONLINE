@@ -785,31 +785,6 @@ https://m-c07-j2apps.s.llnwi.net/hls/8022.VipNews.in.m3u8
 #EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
 
 
-#EXTINF:-1 tvg-id="AND EXPLORE HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-209/channel_list/1170x658withlogo358457080.png"  group-title="ZEE5",AND EXPLORE HD (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-209
-#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png"  group-title="ZEE5",AND TV HD (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-tvhd_0
-
-
-https://nayeem-parvez.gq/zeex.php?c=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"  group-title="ZEE5",ZEE CINEMA HD (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeecinemahd
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png"  group-title="ZEE5",ZEE TV HD (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeetvhd
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeecafehd
-
-
-https://nayeem-parvez.gq/zeex.php?c=0-9-317
-https://nayeem-parvez.gq/zeex.php?c=0-9-322
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeenews
-https://nayeem-parvez.gq/zeex.php?c=0-9-zeebusiness
-https://nayeem-parvez.gq/zeex.php?c=0-9-aajtak
-https://nayeem-parvez.gq/zeex.php?c=0-9-indiatoday
-https://nayeem-parvez.gq/zeex.php?c=0-9-wion
-#EXTINF:-1 tvg-id="PRAG NEWS" tvg-logo="https://pragnews.com/assets/images/logo/1648877886pragnews.gif"group-title=ZEE5",PRAG NEWS (IN)
-https://nayeem-parvez.gq/zeex.php?c=0-9-310
-
-
 #EXTINF:-1 tvg-id="DISCOVERY (VN)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (VN)
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CINEMAX (VN)" tvg-logo=" "  group-title="FPT-PLAY",CINEMAX (VN)
