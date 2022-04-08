@@ -718,11 +718,11 @@ https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8
 #EXTINF:-1 tvg-id="JAN TV (IN)" tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg"  group-title="MX-TV",JAN TV (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/7078.JanTV.in.m3u8
-#EXTINF:-1 tvg-id="ABZY MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",ABZY MOVIES (IN)
+#EXTINF:-1 tvg-id="ABZY MOVIES (IN)" tvg-logo="https://abzy.com/wp-content/uploads/2021/07/Abzy-Movies-200x90.png"  group-title="MX-TV",ABZY MOVIES (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
-#EXTINF:-1 tvg-id="ABZY DHAKAD (IN)" tvg-logo=" "  group-title="MX-TV",ABZY DHAKAD (IN)
+#EXTINF:-1 tvg-id="ABZY DHAKAD (IN)" tvg-logo="https://logos.iphawk.com/in/4239830.jpg"  group-title="MX-TV",ABZY DHAKAD (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8
-#EXTINF:-1 tvg-id="ABZY COOL (IN)" tvg-logo=" "  group-title="MX-TV",ABZY COOL (IN)
+#EXTINF:-1 tvg-id="ABZY COOL (IN)" tvg-logo="https://abzy.com/wp-content/uploads/2021/07/Abzy-Cool-200x90.png"  group-title="MX-TV",ABZY COOL (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8
 #EXTINF:-1 tvg-id="AZAAD TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Azaad_TV_Logo.png"  group-title="MX-TV",AZAAD TV (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8
