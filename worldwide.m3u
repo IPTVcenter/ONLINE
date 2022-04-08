@@ -687,13 +687,13 @@ https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in.m3u8
 https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
 #EXTINF:-1 tvg-id="CVR NEWS (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/CVR_English.jpg"  group-title="MX-TV",CVR NEWS (IN)
 https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
-#EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-logo=" "  group-title="MX-TV",SADHNA PLUS (IN)
+#EXTINF:-1 tvg-id="SADHNA PLUS (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-313/list/1170x658withlogo_142056468.jpg"  group-title="MX-TV",SADHNA PLUS (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
-#EXTINF:-1 tvg-id="K NEWS 24X7 (IN)" tvg-logo=" "  group-title="MX-TV",K NEWS 24X7 (IN)
+#EXTINF:-1 tvg-id="K NEWS 24X7 (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1114818982840655873/pwZ3lNtV_400x400.png"  group-title="MX-TV",K NEWS 24X7 (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
-#EXTINF:-1 tvg-id="HINDI KHABAR (IN)" tvg-logo=" "  group-title="MX-TV",HINDI KHABAR (IN)
+#EXTINF:-1 tvg-id="HINDI KHABAR (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1399076447763918848/4S3ugogU_400x400.jpg"  group-title="MX-TV",HINDI KHABAR (IN)
 https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
-#EXTINF:-1 tvg-id="DD INDIA (IN)" tvg-logo=" "  group-title="MX-TV",DD INDIA (IN)
+#EXTINF:-1 tvg-id="DD INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/DD_India_logo.jpg/640px-DD_India_logo.jpg"  group-title="MX-TV",DD INDIA (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
 #EXTINF:-1 tvg-id="SURYA SAMACHAR (IN)" tvg-logo=" "  group-title="MX-TV",SURYA SAMACHAR (IN)
 https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
