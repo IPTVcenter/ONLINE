@@ -165,6 +165,8 @@ https://cdn.live.shemaroome.com/nimbaktv/selnimbaktv/playlist.m3u8?hdnts=st=1638
 https://tniawaaz.shemaroo.com/hls11/tniawaaz/index.m3u8?hdnts=st=1638879593~exp=1638890393~acl=*~data=testdata~hmac=6dd71a9845f0b4aaa96be54fa502c32b81666c5c51b7aec2fde8bbd61b60bd3d
 #EXTINF:-1 tvg-id="PASHUPATINATH (IN)"  tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shree-Pashupatinath-Temple,-Mandsaur,-Madhya-Pradesh/60407220a609d245da000001/medium_16_9.jpg"   group-title="SHEMAROO-ME",PASHUPATINATH (IN)
 https://cdn.live.shemaroome.com/pashupatinath/Stream1/playlist.m3u8?hdnts=st=1638879929~exp=1638890729~acl=*~data=testdata~hmac=243bb74801253e52155e4ad0ec51e7bb7b2f76b30d52fac1d4ed48c470ae0578
+#EXTINF:-1 tvg-id="SHEMAROO TV (IN)" tvg-logo="https://1.bp.blogspot.com/-y05BCpB8VSg/XqVv_5kQoPI/AAAAAAAAs_A/QE92QkRki9A8-3qDNmmR0S73fT19WTNtgCK4BGAsYHg/w1200-h630-p-k-no-nu/shemaroo-tv-hindi-entertainment-tv-channel-on-dd-freedish-min.jpg"  group-title="SHEMAROO-ME",SHEMAROO TV (IN)
+https://cdn.live.shemaroome.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8?hdnts=st=1649402853~exp=1649413653~acl=*~data=testdata~hmac=617b475ed8f358e29bc31b36ac3b8ee8b54c900d8e802f0ce0eb81f5a996efcd
 
 #EXTINF:-1 tvg-id="TRT WORLD" tvg-logo="http://www.trtworld.com/images/share-1000x500.png"  group-title="WATCHO",TRT WORLD (ASIA)
 https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/653495/assetType/media/assetFileId/6564063/contextType/PLAYBACK/isAltUrl/False/a.m3u8?playSessionId=819b76b3-8e05-6dfb-b353-27a580b92ce3:26e63fb4-bc1e-9c0a-6583-a758a70a1a30&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL3RydHdvcmxkLzY1MzQ5NQ==&clientTag=html5:v7.42
@@ -706,15 +708,15 @@ https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
 #EXTINF:-1 tvg-id="EURO NEWS (UK)" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/logo_20201208_214101_68.png"  group-title="MX-TV",EURO NEWS (UK)
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
-#EXTINF:-1 tvg-id="SANSKAR (IN)" tvg-logo=" "  group-title="MX-TV",SANSKAR (IN)
+#EXTINF:-1 tvg-id="SANSKAR (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/sxtJb38E.png"  group-title="MX-TV",SANSKAR (IN)
 https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
-#EXTINF:-1 tvg-id="ISHWAR TV (IN)" tvg-logo=" "  group-title="MX-TV",ISHWAR TV (IN)
+#EXTINF:-1 tvg-id="ISHWAR TV (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/8dNO8Gde.png"  group-title="MX-TV",ISHWAR TV (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
-#EXTINF:-1 tvg-id="SHEMAROO TV (IN)" tvg-logo=" "  group-title="MX-TV",SHEMAROO TV (IN)
+#EXTINF:-1 tvg-id="SHEMAROO TV (IN)" tvg-logo="https://1.bp.blogspot.com/-y05BCpB8VSg/XqVv_5kQoPI/AAAAAAAAs_A/QE92QkRki9A8-3qDNmmR0S73fT19WTNtgCK4BGAsYHg/w1200-h630-p-k-no-nu/shemaroo-tv-hindi-entertainment-tv-channel-on-dd-freedish-min.jpg"  group-title="MX-TV",SHEMAROO TV (IN)
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
-#EXTINF:-1 tvg-id="CHANNEL WIN (IN)" tvg-logo=" "  group-title="MX-TV",CHANNEL WIN (IN)
+#EXTINF:-1 tvg-id="CHANNEL WIN (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jk6lvnn4.png"  group-title="MX-TV",CHANNEL WIN (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8
-#EXTINF:-1 tvg-id="JAAN TV (IN)" tvg-logo=" "  group-title="MX-TV",JAAN TV (IN)
+#EXTINF:-1 tvg-id="JAN TV (IN)" tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg"  group-title="MX-TV",JAN TV (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/7078.JanTV.in.m3u8
 #EXTINF:-1 tvg-id="ABZY MOVIES (IN)" tvg-logo=" "  group-title="MX-TV",ABZY MOVIES (IN)
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
@@ -1076,7 +1078,9 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://30a-tv.com/beachy.m3u8
 #EXTINF:-1 tvg-id="SAFE TV (US)" tvg-logo=" "  group-title="ONLINE-TV",SAFE TV (US)
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
- 
+#EXTINF:-1 tvg-id="JAN TV (IN)" tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg"  group-title="ONLINE-TV",JAN TV (IN)
+http://172.104.191.216:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FTF" tvg-logo="https://snagfilms-a.akamaihd.net/0000014c-edbe-da12-a1fc-fdbe2f120000/images/93/ff/899ed7604901807d3824d4a9abca/1571847365901_ftf_transparentimages-tab.png"  group-title="CDN-TV",FTF (US)
 https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
 #EXTINF:-1 tvg-id="LSN" tvg-logo="https://snagfilms-a.akamaihd.net/cf9c3bbc-917a-4447-90ab-55bf78b01f49/images/83/36/d90134124307b18e251dce2033ad/1566507637959_laximages-tab.png"  group-title="DIGITAL-TV",LSN (US)
