@@ -785,9 +785,9 @@ https://m-c07-j2apps.s.llnwi.net/hls/8022.VipNews.in.m3u8
 #EXTINF:-1 tvg-id=" (IN)" tvg-logo=" "  group-title="MX-TV", (IN)
 
 
-#EXTINF:-1 tvg-id="DISCOVERY (VN)" tvg-logo=" "   group-title="FPT-PLAY",DISCOVERY (VN)
+#EXTINF:-1 tvg-id="DISCOVERY (VN)" tvg-logo="https://pbs.twimg.com/profile_images/1483044581428056066/oohjMmO9_400x400.jpg"   group-title="FPT-PLAY",DISCOVERY (VN)
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="CINEMAX (VN)" tvg-logo=" "  group-title="FPT-PLAY",CINEMAX (VN)
+#EXTINF:-1 tvg-id="CINEMAX (VN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"  group-title="FPT-PLAY",CINEMAX (VN)
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO (VN)" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Symbol.jpg"  group-title="FPT-PLAY",HBO (VN)
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
@@ -795,7 +795,7 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD (VN)" tvg-logo=" "  group-title="FPT-PLAY",NAT GEO WILD (VN)
 https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="BBC CBEEBIES (VN)" tvg-logo=" "  group-title="FPT-PLAY",BBC CBEEBIES (VN)
+#EXTINF:-1 tvg-id="BBC CBEEBIES (VN)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6f/CBeebies.png"  group-title="FPT-PLAY",BBC CBEEBIES (VN)
 https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BABY FIRST (VN)" tvg-logo=" "  group-title="FPT-PLAY",BABY FIRST (VN)
 https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
