@@ -849,7 +849,10 @@ http://play.iptvxxx.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
 
 
-#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
+#EXTINF:-1 tvg-id="DW" tvg-logo="https://thumbor.prod.vid.id/iL7mLfv9zbgrjX6KWmmKTw_AcMs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-dbc808.jpg"  group-title="NONTON-TV",DW (ASIA)
+https://app-etslive-2.vidio.com/live/5075/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkNpdkIxYm90VG9ibWt2ci9XKzIybDFDRXJJRm44c1ZOdVVBSDllUERHRVgxYmtGRVhOUE93eWZBWStndFRXZVB2am9YWEpRSTN0b1ZiMitWdzVRYWJLN0ZaV2lBb1ZoSHBJWGdaRzh3VEN5ZXZ4QktPK0pKZWhvamgxOThtUzVmM1dFdUNrZTZiVVEzVFVUTG9YNFBGVEt6c2pmckVoU1BGaXc0RDNDdkhUOEsvREticG1HbUJkeUdzSENWZGo3M1RxajlaN3p4Y1VPZnVJUFRaVjFkbnd1dThNd3RoRFc4T0JNUjg1NlBGYitOdm9YTk4xaTVmUnc3eWJjL2M4b05TRGs1U2s1Y3dsUDlFNDdWMVo0a1FSME45UU5pUEpPZnNZdFV1d1JmMFFDcjJjdFI0UCt0cmJlSnk0N1NJTHFBb1cvMXJRdjJ6TDkvRVo3enQ4OUxQR2s3Undna3MxOFdkZHJBLzhGTFZrYXlHa0tFMGdkdU9lMXhlZldVMmMxY2VGWUVPejhEVkJvR1lDSWc4bkNDTWhRbFlkTHp0VWdudjVaak9NVDZva3U5Ujl4VzZISkpEZDdLS01MOVJnOUYreXlrZzU4aTEvOUZGREJoT0tFenhjVWxPbzBSb0MxYURsTWc4Nk9UT1M3aUZWU0cvbHlmTjQyTTBKeitpQVJFeHFyWUVOSGhGUm1BKzlSOTFOVmNHV0FxRGZRb3ZsYkNyTS9jemxtQytDQTJXQlBrb1QwMkZBRXArcFdtTHpBMVFLUVEvdEQxRFNnZGc1TTB6Z2ZKZ1VQSlJHeWF6clJzRmhGQU1qZ0ZxTEF5R2JzbjlMeTJkMUxaTHNpOG43YnBnT0dSU0UyeDAvcXUvTkVpL1p3YnJiTHFRbDMzSXlyTVhWV3B0TlBYc3BhMUZObDgzRHdiTUF6QldENXFzSnVoeHhtRmZUTE92akdUTWlZOFlzaTNvQT09&trace_id=91fb65006b3beb52184f9695753ea27b/9968942345089698069
+
+
 
 #EXTINF:-1 tvg-id="CHANNEL V" tvg-logo=" "  group-title="TV-FIX",CHANNEL V (CH)
 http://iptv.tvfix.org/hls/channelv.m3u8
