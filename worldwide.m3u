@@ -797,7 +797,7 @@ https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="BBC CBEEBIES (VN)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6f/CBeebies.png"  group-title="FPT-PLAY",BBC CBEEBIES (VN)
 https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BABY FIRST (VN)" tvg-logo=" "  group-title="FPT-PLAY",BABY FIRST (VN)
+#EXTINF:-1 tvg-id="BABY FIRST (VN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Bfrd2019ocb.png"  group-title="FPT-PLAY",BABY FIRST (VN)
 https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC (VN)" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png"  group-title="FPT-PLAY",TLC (VN)
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
@@ -805,7 +805,7 @@ https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda3/boomerang_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NAT GEO HD (VN)" tvg-logo=" "  group-title="FPT-PLAY",NAT GEO HD (VN)
 https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="BLUE ANT ENTERTAINMENT (VN)" tvg-logo=" "  group-title="FPT-PLAY",BLUE ANT ENTERTAINMENT (VN)
+#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT (VN)" tvg-logo="https://thumbor.prod.vid.id/RXPQRl9nqJe7KIdxbdB8u3mNVvA=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/8120/rock-entertainment-cover-7aaf6b.jpg"  group-title="FPT-PLAY",ROCK ENTERTAINMENT (VN)
 https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunk.m3u8
 #EXTINF:-1 tvg-id="OUTDOOR (VN)" tvg-logo=" "  group-title="FPT-PLAY",OUTDOOR (VN)
 http://livecdn.fptplay.net/hda1/outdoorfhd_hls.smil/chunklist.m3u8
