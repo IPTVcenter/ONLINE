@@ -806,15 +806,15 @@ https://livecdn.fptplay.net/hda3/boomerang_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ROCK ENTERTAINMENT (VN)" tvg-logo="https://thumbor.prod.vid.id/RXPQRl9nqJe7KIdxbdB8u3mNVvA=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/8120/rock-entertainment-cover-7aaf6b.jpg"  group-title="FPT-PLAY",ROCK ENTERTAINMENT (VN)
 https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunk.m3u8
-#EXTINF:-1 tvg-id="OUTDOOR (VN)" tvg-logo=" "  group-title="FPT-PLAY",OUTDOOR (VN)
+#EXTINF:-1 tvg-id="OUTDOOR (VN)" tvg-logo="https://www.outdoorsg.com/wp-content/uploads/2015/08/OC_Logo-2017_Primary_REV.png"  group-title="FPT-PLAY",OUTDOOR (VN)
 http://livecdn.fptplay.net/hda1/outdoorfhd_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DW (VN)" tvg-logo=" "  group-title="FPT-PLAY",DW (VN)
+#EXTINF:-1 tvg-id="DW (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png"  group-title="FPT-PLAY",DW (VN)
 https://livecdn.fptplay.net/hda2/dwenglish_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="BLUE ANT EXTREME (VN)" tvg-logo="https://www.kindpng.com/picc/m/329-3296936_transparent-extreme-png-blue-ant-extreme-logo-png.png"  group-title="FPT-PLAY",BLUE ANT EXTREME (VN)
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="BBC WORLD NEWS (VN)" tvg-logo=" "  group-title="FPT-PLAY",BBC WORLD NEWS (VN)
+#EXTINF:-1 tvg-id="BBC WORLD NEWS (VN)" tvg-logo="https://noomis.febraban.org.br/assets/images/logoBBC.png"  group-title="FPT-PLAY",BBC WORLD NEWS (VN)
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="BBC LIFESTYLE (VN)" tvg-logo=" "  group-title="FPT-PLAY",BBC LIFESTYLE (VN)
+#EXTINF:-1 tvg-id="BBC LIFESTYLE (VN)" tvg-logo="https://weareratchet.com/web/wp-content/uploads/2019/04/10.-BBC-Lifestyle.png"  group-title="FPT-PLAY",BBC LIFESTYLE (VN)
 https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="DAVINCI HD (VN)" tvg-logo=" "  group-title="FPT-PLAY",DAVINCI HD (VN)
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
