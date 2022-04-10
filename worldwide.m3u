@@ -875,15 +875,15 @@ http://ott3.alwaysdata.net/live/ss.php?id=18
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 
 
-#EXTINF:-1 tvg-id="CHANNEL 24" tvg-logo=" "  group-title="STREAM-ONE",CHANNEL 24 (PK)
+#EXTINF:-1 tvg-id="CHANNEL 24 HD" tvg-logo="https://www.qurbanionline.com/wp-content/uploads/2018/08/24_News.jpg"  group-title="STREAM-ONE",CHANNEL 24 HD (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo=" "  group-title="STREAM-ONE",NEO NEWS HD (PK)
+#EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg"  group-title="STREAM-ONE",NEO NEWS HD (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV" tvg-logo=" "  group-title="STREAM-ONE",ATV (PK)
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://freepikpsd.com/file/2019/10/atv_pk-logo-PNG-Images-288x300.png"  group-title="STREAM-ONE",ATV (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PLAY" tvg-logo=" "  group-title="STREAM-ONE",PLAY (PK)
+#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Play_Entertainment_logo.png"  group-title="STREAM-ONE",PLAY (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AAJ ENT." tvg-logo=" "  group-title="STREAM-ONE",AAJ WNT. (PK)
+#EXTINF:-1 tvg-id="AAJ ENT." tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png"  group-title="STREAM-ONE",AAJ WNT. (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM-ONE", (PK)
 
