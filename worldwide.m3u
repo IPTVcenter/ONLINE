@@ -837,7 +837,7 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
 
 
-#EXTINF:-1 tvg-id="GAY" tvg-logo=" "  group-title="IPTVXXX-NET",GAY (UK)
+#EXTINF:-1 tvg-id="GAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/GAY.tv.PNG"  group-title="IPTVXXX-NET",GAY TV (UK)
 http://play.iptvxxx.net/gay.m3u8
 #EXTINF:-1 tvg-id="GANGBANG" tvg-logo=" "  group-title="IPTVXXX-NET",GANGBANG (UK)
 http://play.iptvxxx.net/gangbang.m3u8
@@ -853,22 +853,26 @@ https://app-etslive-2.vidio.com/live/5075/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ
 
 
 
-#EXTINF:-1 tvg-id="CHANNEL V" tvg-logo=" "  group-title="TV-FIX",CHANNEL V (CH)
+#EXTINF:-1 tvg-id="CHANNEL V" tvg-logo="https://i1.sndcdn.com/artworks-000043908491-8qtrf2-t500x500.jpg"  group-title="TV-FIX",CHANNEL V (CH)
 http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="STAR SPORTS" tvg-logo=" "  group-title="TV-FIX",STAR SPORTS (CH)
+#EXTINF:-1 tvg-id="STAR SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png"  group-title="TV-FIX",STAR SPORTS (CH)
 http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo=" "  group-title="TV-FIX",DISCOVERY (CH)
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://pbs.twimg.com/profile_images/1483044581428056066/oohjMmO9_400x400.jpg"  group-title="TV-FIX",DISCOVERY (CH)
 http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo=" "  group-title="TV-FIX",ANIMAL PLANET (CH)
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:MzA1OWEy/image.png"  group-title="TV-FIX",ANIMAL PLANET (CH)
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
 
 
-#EXTINF:-1 tvg-id="EXTASY HD" tvg-logo=" "  group-title="ALWAYSDATA-NET",EXTASY HD (US)
+#EXTINF:-1 tvg-id="EXTASY HD" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/exstasy4klogo-1-768x175.png"  group-title="ALWAYSDATA-NET",EXTASY HD (US)
 http://ott3.alwaysdata.net/live/av.php?id=1
-#EXTINF:-1 tvg-id="PRIVATE HD" tvg-logo=" "  group-title="ALWAYSDATA-NET",PRIVATE HD (US)
-http://ott3.alwaysdata.net/live/ss.php?id=9
+#EXTINF:-1 tvg-id="EROX HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/erox_box_hd.png"  group-title="ALWAYSDATA-NET",EROX HD (US)
+http://ott3.alwaysdata.net/live/ss.php?id=17
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 
 
