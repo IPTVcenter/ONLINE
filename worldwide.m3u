@@ -868,8 +868,7 @@ http://ott3.alwaysdata.net/live/av.php?id=1
 #EXTINF:-1 tvg-id="EROX HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/erox_box_hd.png"  group-title="ALWAYSDATA-NET",EROX HD (US)
 http://ott3.alwaysdata.net/live/ss.php?id=17
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
-
-
+http://ott3.alwaysdata.net/live/ss.php?id=18
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 
 
