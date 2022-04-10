@@ -58,7 +58,7 @@ https://itvoign.multitvsolution.com/idvo/ddnortheast.m3u8
 https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-1 tvg-id="MAHA MOVIE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dgk8ZJp1.png"   group-title="MULTI-TV",MAHA MOVIE (IN)
 https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
-#EXTINF:-1 tvg-id="DANGAL 2" tvg-logo="https://static.theprint.in/wp-content/uploads/2022/04/unnamed_12022040112180620220401122710.jpg"  group-title="MULTI-TV",DANGAL 2 (IN)
+#EXTINF:-1 tvg-id="DANGAL 2" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/893ccLnZ.png" group-title="MULTI-TV",DANGAL 2 (IN)
 https://itvoign.multitvsolution.com/idvo/enterr10movies.m3u8
 #EXTINF:-1 tvg-id="DD RETRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/DD_Retro.png/220px-DD_Retro.png"  group-title="MULTI-TV",DD RETRO (IN)
 https://idvd.multitvsolution.com/idvo/ddretro.m3u8
@@ -816,22 +816,22 @@ https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="BBC LIFESTYLE (VN)" tvg-logo="https://weareratchet.com/web/wp-content/uploads/2019/04/10.-BBC-Lifestyle.png"  group-title="FPT-PLAY",BBC LIFESTYLE (VN)
 https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="DAVINCI HD (VN)" tvg-logo=" "  group-title="FPT-PLAY",DAVINCI HD (VN)
+#EXTINF:-1 tvg-id="DA VINCI KIDS (VN)" tvg-logo="https://account.davinci.tv/open-graph-image-dvm.png"  group-title="FPT-PLAY",DA VINCI KIDS (VN)
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="AAJ TAK HD" tvg-logo=" "  group-title="FEEDS-TV",AAJ TAK HD (IN)
+#EXTINF:-1 tvg-id="AAJ TAK HD" tvg-logo="https://www.sanusa.in/assets/img/content/aajatak.jpg"  group-title="FEEDS-TV",AAJ TAK HD (IN)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="INDIA TODAY" tvg-logo=" "  group-title="FEEDS-TV",INDIA TODAY (IN)
+#EXTINF:-1 tvg-id="INDIA TODAY" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GwmEMW18.png"  group-title="FEEDS-TV",INDIA TODAY (IN)
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
 
-#EXTINF:-1 tvg-id="SAHARA FLIMY" tvg-logo=" "  group-title="PLAYBOX-TV",SAHARA FLIMY (IN)
+#EXTINF:-1 tvg-id="SAHARA FLIMY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/2560px-Sahara-filmi-tv-logo.svg.png"  group-title="PLAYBOX-TV",SAHARA FLIMY (IN)
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/SaharaOne2010.png"  group-title="PLAYBOX-TV",SAHARA ONE (IN)
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaOne/playlist.m3u8
-#EXTINF:-1 tvg-id="MASTIII" tvg-logo=" "  group-title="PLAYBOX-TV",MASTIII (IN)
+#EXTINF:-1 tvg-id="MASTIII" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2G5mPUJk.png"  group-title="PLAYBOX-TV",MASTIII (IN)
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
-#EXTINF:-1 tvg-id="E24" tvg-logo=" "  group-title="PLAYBOX-TV",E24 (IN)
+#EXTINF:-1 tvg-id="E24" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_auto,q_auto/resources/0-9-207/channel_list/09207e24_list.png"  group-title="PLAYBOX-TV",E24 (IN)
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
