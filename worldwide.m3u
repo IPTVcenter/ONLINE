@@ -910,6 +910,43 @@ http://14.199.164.20:4001/play/a0o5/index.m3u8
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-id="9XM JALWA" tvg-logo=" "  group-title="PLAY",9XM JALWA (IN)
 http://14.199.164.20:4001/play/a0nc/index.m3u8
+#EXTINF:-1 tvg-id="CINEMA TV" tvg-logo=" "  group-title="PLAY",CINEMA TV (IN)
+http://14.199.164.20:4001/play/a0n4/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+
+
+
 
 #EXTINF:-1 tvg-id="AVA FAMILY" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/avafamily-vipotv-min.png"   group-title="STREAM",AVA FAMILY (IR)
 http://51.210.199.5/hls/stream.m3u8
