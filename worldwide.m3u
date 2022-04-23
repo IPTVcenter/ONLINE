@@ -893,13 +893,13 @@ https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
 http://14.199.164.20:4001/play/a0su/index.m3u8
 #EXTINF:-1 tvg-id="DISHUM TV" tvg-logo=" "  group-title="PLAY",DISHUM TV (IN)
 http://14.199.164.20:4001/play/a0pe/index.m3u8
-#EXTINF:-1 tvg-id="E24" tvg-logo=" "  group-title="PLAY",E24 (IN)
+#EXTINF:-1 tvg-id="E24" tvg-logo="http://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-48.png"  group-title="PLAY",E24 (IN)
 http://14.199.164.20:4001/play/a0pc/index.m3u8
-#EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" "  group-title="PLAY",FOOD FOOD (IN)
+#EXTINF:-1 tvg-id=FOOD FOOD" tvg-logo=" https://foodfood.b-cdn.net/assets/images/logo/logo.png"  group-title="PLAY",FOOD FOOD (IN)
 http://14.199.164.20:4001/play/a0qx/index.m3u8
-#EXTINF:-1 tvg-id="MUSIC INDIA" tvg-logo=" "  group-title="PLAY",MUSIC INDIA (IN)
+#EXTINF:-1 tvg-id="MUSIC INDIA" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png"  group-title="PLAY",MUSIC INDIA (IN)
 http://14.199.164.20:4001/play/a0mt/index.m3u8
-#EXTINF:-1 tvg-id="MASTIII" tvg-logo=" "  group-title="PLAY",MASTIII (IN)
+#EXTINF:-1 tvg-id="MASTIII" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png"  group-title="PLAY",MASTIII (IN)
 http://14.199.164.20:4001/play/a0my/index.m3u8
 #EXTINF:-1 tvg-id="TEHZEEB TV" tvg-logo=" "  group-title="PLAY",TEHZEEB TV (IN)
 http://14.199.164.20:4001/play/a0p5/index.m3u8
@@ -907,13 +907,13 @@ http://14.199.164.20:4001/play/a0p5/index.m3u8
 http://14.199.164.20:4001/play/a0sm/index.m3u8
 #EXTINF:-1 tvg-id="SARV DHARM SANGAM" tvg-logo=" "  group-title="PLAY",SARV DHARM SANGAM (IN)
 http://14.199.164.20:4001/play/a0nn/index.m3u8
-#EXTINF:-1 tvg-id="DHINCHAAK" tvg-logo=" "  group-title="PLAY",DHINCHAAK (IN)
+#EXTINF:-1 tvg-id="GOLDMINES" tvg-logo="https://pbs.twimg.com/profile_images/1509086349692858370/0iiGu-t__400x400.jpg"  group-title="PLAY",DHINCHAAK (IN)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1 tvg-id="M TUNES"  tvg-logo=" " group-title="PLAY",M TUNES (IN)
 http://14.199.164.20:4001/play/a0p2/index.m3u8
-#EXTINF:-1 tvg-id="9XM JALWA" tvg-logo=" "  group-title="PLAY",9XM JALWA (IN)
+#EXTINF:-1 tvg-id="9XM JALWA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9x-jalwa-black.png"  group-title="PLAY",9XM JALWA (IN)
 http://14.199.164.20:4001/play/a0nc/index.m3u8
-#EXTINF:-1 tvg-id="CINEMA TV" tvg-logo=" "  group-title="PLAY",CINEMA TV (IN)
+#EXTINF:-1 tvg-id="CINEMA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Cinema_TV_India.jpg"  group-title="PLAY",CINEMA TV (IN)
 http://14.199.164.20:4001/play/a0n4/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
 
