@@ -8,6 +8,27 @@ https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,q_auto:low/e_brightness:10/https://origin-staticv2.sonyliv.com/masthead_logo/SETHD1_Masthead_logo.png"  group-title="BDCABLE-TV",SONY HD (IN)
 http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"  group-title="BDCABLE-TV",COLORS HD (IN)
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/864
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png"  group-title="BDCABLE-TV",ZEE TV HD (IN)
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/865
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://media.giphy.com/avatars/ZeeCinema/jpEJFwyuhcSG.png"  group-title="BDCABLE-TV",ZEE CINEMA (IN)
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/867
+#EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/DE2tvqEA.png"  group-title="BDCABLE-TV",STAR SPORTS 1 HD (IN)
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,q_auto:low/e_brightness:10/https://origin-staticv2.sonyliv.com/masthead_logo/SETHD1_Masthead_logo.png"  group-title="BDCABLE-TV",SONY HD (IN)
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/866
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="SURYA CINEMA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png"  group-title="OUT-TV",SURYA CINEMA (IN)
 https://pull-2742.5centscdn.com/abrout/suryacinema/playlist.m3u8
