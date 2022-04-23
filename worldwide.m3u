@@ -915,7 +915,20 @@ http://14.199.164.20:4001/play/a0p2/index.m3u8
 http://14.199.164.20:4001/play/a0nc/index.m3u8
 #EXTINF:-1 tvg-id="CINEMA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Cinema_TV_India.jpg"  group-title="PLAY",CINEMA TV (IN)
 http://14.199.164.20:4001/play/a0n4/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id="ABZY COOL" tvg-logo="https://www.sgcngba.com/wp-content/uploads/2021/09/ABZY-COOL.jpg"  group-title="PLAY",ABZY COOL (IN)
+http://14.199.164.20:4001/play/a0zj/index.m3u8
+#EXTINF:-1 tvg-id="ABZY MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Abzy-Movies.jpg"  group-title="PLAY",ABZY MOVIES (IN)
+http://14.199.164.20:4001/play/a0zg/index.m3u8
+#EXTINF:-1 tvg-id="ABZY DHAKAD" tvg-logo="https://1.bp.blogspot.com/-P9V5thAdT9Y/YGVnMTu1g-I/AAAAAAAAyI4/q0kkD0M3oB47nJ2xHOV4z2r4FmBuhqLRQCLcBGAsYHQ/s340/Abzy_Dhakad-min.jpg"  group-title="PLAY",ABZY DHAKAD (IN)
+http://14.199.164.20:4001/play/a0zk/index.m3u8
+#EXTINF:-1 tvg-id="APN" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8011.APNNews.in/en/1x1/208x208/test_pic1603094458437.jpg"  group-title="PLAY",APN (IN)
+http://14.199.164.20:4001/play/a0oo/index.m3u8
+#EXTINF:-1 tvg-id="ANJAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Anjan.jpg"   group-title="PLAY",ANJAN (IN)
+http://14.199.164.20:4001/play/a0qw/index.m3u8
+#EXTINF:-1 tvg-id="B4U KADAK" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zdkmQbLP.png"  group-title="PLAY",B4U KADAK (IN)
+http://14.199.164.20:4001/play/a0nd/index.m3u8
+#EXTINF:-1 tvg-id="BFLIX MOVIES" tvg-logo=" "  group-title="PLAY",BFLIX MOVIES (IN)
+http://14.199.164.20:4001/play/a0pd/index.m3u8
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
@@ -925,12 +938,8 @@ http://14.199.164.20:4001/play/a0n4/index.m3u8
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
