@@ -939,22 +939,28 @@ http://14.199.164.20:4001/play/a0n6/index.m3u8
 http://14.199.164.20:4001/play/a0o3/index.m3u8
 #EXTINF:-1 tvg-id="DANGAL 2" tvg-logo="https://gumlet.assettype.com/afaqs/2022-04/2cf80c96-4d36-43c9-a0cc-0c90dff54e2f/Dangal_2_Final_Logo.jpg"   group-title="PLAY",DANGAL 2 (IN)
 http://14.199.164.20:4001/play/a11n/index.m3u8
-#EXTINF:-1 tvg-id="EZM" tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id="EZMALL" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Yg2Sfb62.png"  group-title="PLAY",EZMALL (IN)
 http://14.199.164.20:4001/play/a0rl/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
+#EXTINF:-1 tvg-id="SHEMROO TV" tvg-logo="https://trak.in/wp-content/uploads/2020/04/Untitled-design-2-4-1280x720.jpg"  group-title="PLAY",SHEMROO TV (IN)
+http://14.199.164.20:4001/play/a0nh/index.m3u8
+#EXTINF:-1 tvg-id="HI DOST!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Hi_dostv2.png"  group-title="PLAY",HI DOST! (IN)
+http://14.199.164.20:4001/play/a0rg/index.m3u8
+#EXTINF:-1 tvg-id="HINDI KHABAR" tvg-logo="https://hindikhabar.com/wp-content/uploads/2021/07/hindikhabar_logo.png"  group-title="PLAY", (IN)
+http://14.199.164.20:4001/play/a0mh/index.m3u8
+#EXTINF:-1 tvg-id="SHUBH" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LJHIDjNe.png"  group-title="PLAY",SHUBH (IN)
+http://14.199.164.20:4001/play/a0zi/index.m3u8
+#EXTINF:-1 tvg-id="Q" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4k9pD8nk.png"  group-title="PLAY",Q (IN)
+http://14.199.164.20:4001/play/a0nk/index.m3u8
+#EXTINF:-1 tvg-id="SATVANI" tvg-logo="https://www.santvani.in/wp-content/uploads/2020/05/santvani-logo1.png"  group-title="PLAY",SATVANI (IN)
+http://14.199.164.20:4001/play/a0p6/index.m3u8
+#EXTINF:-1 tvg-id="PRATIDIN TIME" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QYfhpkre.png"  group-title="PLAY",PRATIDIN TIME (IN)
+http://14.199.164.20:4001/play/a0q3/index.m3u8
+#EXTINF:-1 tvg-id="REPUBLIC TV" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GocT3naX.png"  group-title="PLAY",REPUBLIC TV (IN)
+http://14.199.164.20:4001/play/a0r0/index.m3u8
+#EXTINF:-1 tvg-id="I LOVE" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/12/02/iLove.jpg"  group-title="PLAY",I LOVE (IN)
+http://14.199.164.20:4001/play/a0p3/index.m3u8
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAY", (IN)
