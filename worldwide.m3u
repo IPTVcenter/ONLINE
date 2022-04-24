@@ -17,18 +17,7 @@ http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/867
 #EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/DE2tvqEA.png"  group-title="BDCABLE-TV",STAR SPORTS 1 HD (IN)
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,q_auto:low/e_brightness:10/https://origin-staticv2.sonyliv.com/masthead_logo/SETHD1_Masthead_logo.png"  group-title="BDCABLE-TV",SONY HD (IN)
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/866
-
-
-
-
-
-
-
-
-
-
-
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW
 
 #EXTINF:-1 tvg-id="SURYA CINEMA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png"  group-title="OUT-TV",SURYA CINEMA (IN)
 https://pull-2742.5centscdn.com/abrout/suryacinema/playlist.m3u8
@@ -1187,6 +1176,11 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/84
 #EXTINF:-1 tvg-id="RT" tvg-logo=" "  group-title="MY-NET",RT (US)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/56
 
+
+
+
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="PANDA-IPTV",ZEE TV HD (ME)
+http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34171?play_token=O3ewlRqRvM&token=TURYAhZYEAwSVwABXQZQWwxVBFBXWANXVFECU1AJUAQGB1RQBglUUwlGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVJaCgBQCkEZQEUPW1wRDAAFUAZeAVBXB14cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="PANDA-IPTV",ZEE TV HD (ME)
 http://45.86.190.64:25461/j8kchBYHP1/WaD46vNjW5/34171?play_token=MWpjMCCa0G&token=TURYAhZYEAwSVlAKAFAAUFZUCV8GWlYBAlIHVlFaUVUHUwVTBgYCVAhGTxBLF0AGVA9uD1IbCQUFAlMHShsTFlMUbwoBEggUAVBbAABSBUEZQEUPW1wRDAAFUA1XAFVSDlEcQRVZVhQKRlEFClYGQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFQNURNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRBlsHWxMb
 #EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" "  group-title="PANDA-IPTV",ZEE TV (APAC)
