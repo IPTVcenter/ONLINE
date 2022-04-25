@@ -1038,35 +1038,35 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STAR GOLD 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Star_gold_2_hd.jpg"  group-title="DIRECT-TV",STAR GOLD 2 (IN)
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" "  group-title="DIRECT-TV",ZEE CINEMA HD (IN)
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"  group-title="DIRECT-TV",ZEE CINEMA HD (IN)
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo=" "  group-title="DIRECT-TV",ZEE CLASSIC (IN)
+#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg"  group-title="DIRECT-TV",ZEE CLASSIC (IN)
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo=" "  group-title="DIRECT-TV",ZEE ACTION (IN)
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gZMfypMa.png"  group-title="DIRECT-TV",ZEE ACTION (IN)
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo=" "  group-title="DIRECT-TV",ZEE ANMOL CINEMA (IN)
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oRDt6fY8.png"  group-title="DIRECT-TV",ZEE ANMOL CINEMA (IN)
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo=" "  group-title="DIRECT-TV",SONY MAX 2 (IN)
+#EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oggB1WhH.png"  group-title="DIRECT-TV",SONY MAX 2 (IN)
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="DIRECT-TV",B4U MOVIES (IN)
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vanSrQll.png"  group-title="DIRECT-TV",B4U MOVIES (IN)
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="E24" tvg-logo=" "  group-title="DIRECT-TV",E24 (IN)
+#EXTINF:-1 tvg-id="E24" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-207/list/09207e24.jpg"  group-title="DIRECT-TV",E24 (IN)
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" "  group-title="DIRECT-TV",B4U MUSIC (IN)
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="DIRECT-TV",B4U MUSIC (IN)
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZOOM" tvg-logo=" "  group-title="DIRECT-TV",ZOOM (IN)
+#EXTINF:-1 tvg-id="ZOOM" tvg-logo="https://www.exchange4media.com/news-photo/1524130730_wmUPKi_zoom_take_this.jpg"  group-title="DIRECT-TV",ZOOM (IN)
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-logo=" "  group-title="DIRECT-TV",MTV (IN)
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://v3img.voot.com/v3Storage/assets/mtv-16x9-1645341574139.png"  group-title="DIRECT-TV",MTV (IN)
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MTV BEATS HD" tvg-logo=" "  group-title="DIRECT-TV",MTV BEATS HD (IN)
+#EXTINF:-1 tvg-id="MTV BEATS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QEDNq7db.png"  group-title="DIRECT-TV",MTV BEATS HD (IN)
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="DIRECT-TV",B4U MOVIES (UK)
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vanSrQll.png"  group-title="DIRECT-TV",B4U MOVIES (UK)
 http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="UTV ACTION" tvg-logo=" "  group-title="DIRECT-TV",UTV ACTION (IN)
+#EXTINF:-1 tvg-id="UTV ACTION" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jrBe2xNr.png"  group-title="DIRECT-TV",UTV ACTION (IN)
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-#EXTINF:-1 tvg-id="STAR USTAV" tvg-logo=" "  group-title="DIRECT-TV",STAR USTAV (IN)
+#EXTINF:-1 tvg-id="STAR USTAV" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-utsav-logo-300x300.jpg"  group-title="DIRECT-TV",STAR USTAV (IN)
 http://144.217.70.181:9587/hin2/STARUTSAV/index.m3u8
-#EXTINF:-1 tvg-id="POGO" tvg-logo=" "  group-title="DIRECT-TV",POGO (IN)
+#EXTINF:-1 tvg-id="POGO" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CewW8D3j.png"  group-title="DIRECT-TV",POGO (IN)
 http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
 
 
