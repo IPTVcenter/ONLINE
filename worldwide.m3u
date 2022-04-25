@@ -1014,11 +1014,11 @@ http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8#
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM", (IN)
 
 
-#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" "  group-title="DIRECT-TV",STAR PLUS HD (IN)
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BgWI5SWG.png"  group-title="DIRECT-TV",STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/R98nqztx.png"  group-title="DIRECT-TV",STAR BHARAT HD (IN)
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" "  group-title="DIRECT-TV",STAR PLUS HD (IN)
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BgWI5SWG.png"  group-title="DIRECT-TV",STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/1170x658withlogo399683415.png"  group-title="DIRECT-TV",ZEE TV (UK)
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
@@ -1032,11 +1032,11 @@ http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8 
 #EXTINF:-1 tvg-id="UTV HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/utv-hd.gif"  group-title="DIRECT-TV",UTV HD (IN)
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" "  group-title="DIRECT-TV",STAR GOLD HD (IN)
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/M93IDRjM.png"  group-title="DIRECT-TV",STAR GOLD HD (IN)
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" "  group-title="DIRECT-TV",STAR GOLD HD (IN)
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/M93IDRjM.png"  group-title="DIRECT-TV",STAR GOLD HD (IN)
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="STAR GOLD 2" tvg-logo=" "  group-title="DIRECT-TV",STAR GOLD 2 (IN)
+#EXTINF:-1 tvg-id="STAR GOLD 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Star_gold_2_hd.jpg"  group-title="DIRECT-TV",STAR GOLD 2 (IN)
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" "  group-title="DIRECT-TV",ZEE CINEMA HD (IN)
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
