@@ -1108,17 +1108,17 @@ http://221.120.204.4/LAHORE-RANG-LOCKLE/tracks-v1a1/index.m3u8
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="HORNBILL TV (IN)" tvg-logo=" "  group-title="DIGITAL-TV",HORNBILL TV (IN)
+#EXTINF:-1 tvg-id="HORNBILL TV (IN)" tvg-logo="http://www.hornbilltv.com/IMAGES/logo.png"  group-title="DIGITAL-TV",HORNBILL TV (IN)
 http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNN (US)" tvg-logo=" "  group-title="DIGITAL-TV",CNN (US)
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1 tvg-id="HD FASHION (US)" tvg-logo=" "  group-title="DIGITAL-TV",HD FASHION (US)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="ONE GOLF (PK)"  tvg-logo=" "   group-title="DIGITAL-TV",ONE GOLF (PK)
+#EXTINF:-1 tvg-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png"   group-title="DIGITAL-TV",ONE GOLF (PK)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="PEACE TV (UK)" tvg-logo=" "  group-title="DIGITAL-TV",PEACE TV (UK)
+#EXTINF:-1 tvg-id="PEACE TV (UK)" tvg-logo="https://www.globalvillagespace.com/wp-content/uploads/2019/07/Peace-TV-put-off-air-for-calling-LGBT-people-%E2%80%98worse-than-pigs%E2%80%99.jpg"  group-title="DIGITAL-TV",PEACE TV (UK)
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-id="BEACHY (UK)" tvg-logo=" "  group-title="DIGITAL-TV",BEACHY (UK)
+#EXTINF:-1 tvg-id="BEACHY (UK)" tvg-logo="https://cdn.jwplayer.com/images/I8pR59Mr.png"  group-title="DIGITAL-TV",BEACHY (UK)
 http://30a-tv.com/beachy.m3u8
 #EXTINF:-1 tvg-id="SAFE TV (US)" tvg-logo=" "  group-title="ONLINE-TV",SAFE TV (US)
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
@@ -1127,11 +1127,11 @@ http://172.104.191.216:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
 
 https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="BDIX-TV",COLORS HD (IN)
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"  group-title="BDIX-TV",COLORS HD (IN)
 http://103.55.144.46:80/hls/colore-tv-hd.m3u8
 
 
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="UDP",COLORS (IN)
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DdrIzhgL.png"  group-title="UDP",COLORS (IN)
 http://182.50.65.213:8888/udp/239.239.0.23:3001
 
 
