@@ -510,6 +510,8 @@ https://video.fjrh1-1.fna.fbcdn.net/v/t42.1790-2/263831824_1432060057208802_1299
 https://vse-as-all25.secdn.net/runway-origin/live/runway/chunklist.m3u8
 #EXTINF:-1 tvg-id="JOO MUSIC" tvg-logo="https://www.joomusic.info/assets/images/logo.png"   group-title="NET-TV",JOO MUSIC (IN)
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BEACH TV" tvg-logo="https://cdn.jwplayer.com/images/I8pR59Mr.png"  group-title="NET-TV",BEACH TV (UK)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INH 24" tvg-logo="https://www.inhnews.in/images/logos/logo.png"  group-title="WMNCDN-TV",INH 24 (IN)
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
@@ -1122,10 +1124,16 @@ http://30a-tv.com/beachy.m3u8
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1 tvg-id="JAN TV (IN)" tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg"  group-title="ONLINE-TV",JAN TV (IN)
 http://172.104.191.216:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="DIGITAL-TV",COLORS HD (IN)
+
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="BDIX-TV",COLORS HD (IN)
 http://103.55.144.46:80/hls/colore-tv-hd.m3u8
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="DIGITAL-TV",COLORS (IN)
+
+
+#EXTINF:-1 tvg-id="COLORS" tvg-logo=" "  group-title="UDP",COLORS (IN)
 http://182.50.65.213:8888/udp/239.239.0.23:3001
+
 
 
 #EXTINF:-1 tvg-id="FTF" tvg-logo="https://snagfilms-a.akamaihd.net/0000014c-edbe-da12-a1fc-fdbe2f120000/images/93/ff/899ed7604901807d3824d4a9abca/1571847365901_ftf_transparentimages-tab.png"  group-title="CDN-TV",FTF (US)
