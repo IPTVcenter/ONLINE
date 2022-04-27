@@ -884,13 +884,13 @@ http://ott3.alwaysdata.net/live/ss.php?id=18
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 
 
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="JIO-TV",COLORS HD (IN)
-
-
+#EXTINF:-1 tvg-id="GEO HD" tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png"  group-title="GEO-TV",GEO HD (PK)
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TEZ" tvg-logo="http://geotez.tv/assets/front/images/tez_logo.png"  group-title="GEO-TV",TEZ (PK)
+https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
@@ -1193,7 +1193,7 @@ http://172.104.191.216:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
 https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="COLORS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"  group-title="BDIX-TV",COLORS HD (IN)
-http://103.55.144.46:80/hls/colore-tv-hd.m3u8
+http://103.55.144.426:80/hls/colore-tv-hd.m3u8
 
 
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DdrIzhgL.png"  group-title="UDP",COLORS (IN)
