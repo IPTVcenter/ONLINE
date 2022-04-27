@@ -884,7 +884,28 @@ http://ott3.alwaysdata.net/live/ss.php?id=18
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="JIO-TV",COLORS HD (IN)
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
+
+
+
 
 
 #EXTINF:-1 tvg-id="CHANNEL 24 HD" tvg-logo="https://www.qurbanionline.com/wp-content/uploads/2018/08/24_News.jpg"  group-title="STREAM-ONE",CHANNEL 24 HD (PK)
@@ -986,6 +1007,17 @@ http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVA SERIES" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/ava-series-vipotv.png"  group-title="STREAM",AVA SERIES (IR)
 http://51.210.199.4/hls/stream.m3u8
  
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" "  group-title="TELECAST",STAR PLUS HD (IN)
+http://89.187.162.109/STARPLUSHD/index.m3u8
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="TELECAST",COLORS HD (IN)
+http://89.187.162.109/COLORSHD/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="TELECAST",ZEE TV HD (IN)
+http://89.187.162.109/ZEETVHD/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="BT SPORTS 1" tvg-logo=" "  group-title="PLAY",BT SPORTS 1 (UK)
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-id="BT SPORTS 2" tvg-logo=" "  group-title="PLAY",BT SPORTS 2 (UK)
