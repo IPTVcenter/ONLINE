@@ -1149,27 +1149,27 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gZcwSo7Q.png"  group-title="LOCKLE",SONY HD (IN)
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="GEO HD (PK)" tvg-logo=" "  group-title="LOCKLE",GEO HD (PK)
+#EXTINF:-1 tvg-id="GEO HD (PK)" tvg-logo="https://img.apkgit.com/61/com.snr.ent/3030/icon.png"  group-title="LOCKLE",GEO HD (PK)
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="HUM HD (PK)" tvg-logo=" "  group-title="LOCKLE",HUM HD (PK)
+#EXTINF:-1 tvg-id="HUM HD (PK)" tvg-logo="https://sc.dish.com/shared/images/station-logos/HUMTV.png"  group-title="LOCKLE",HUM HD (PK)
 http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
-#EXTINF:-1 tvg-id="URDU 1 (PK)" tvg-logo=" "  group-title="LOCKLE",URDU 1 (PK)
+#EXTINF:-1 tvg-id="URDU 1 (PK)" tvg-logo="https://www.urdu1.tv/themes/urdu1tvc/images/logo.png"  group-title="LOCKLE",URDU 1 (PK)
 http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="GEO SUPER (PK)" tvg-logo=" "  group-title="LOCKLE",GEO SUPER (PK)
+#EXTINF:-1 tvg-id="GEO SUPER (PK)" tvg-logo="https://iconape.com/wp-content/files/qu/320296/png/320296.png"  group-title="LOCKLE",GEO SUPER (PK)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png"   group-title="LOCKLE",ZEE TV HD (IN)
 http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"   group-title="LOCKLE",ZEE CINEMA HD (IN)
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="24 NEW HD (PK)" tvg-logo=" "  group-title="LOCKLE",24 NEWS HD (PK)
+#EXTINF:-1 tvg-id="24 NEW HD (PK)" tvg-logo="https://www.qurbanionline.com/wp-content/uploads/2018/08/24_News.jpg"  group-title="LOCKLE",24 NEWS HD (PK)
 http://221.120.204.4/24-NEWS-LOCKLE/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="HUM NEWS (PK)" tvg-logo=" "  group-title="LOCKLE",HUM NEWS (PK)
+#EXTINF:-1 tvg-id="HUM NEWS (PK)" tvg-logo="https://www.pak24tv.com/images/humnews.jpg"  group-title="LOCKLE",HUM NEWS (PK)
 http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="GTV NEWS (PK)" tvg-logo=" "  group-title="LOCKLE",GTV NEWS (PK)
+#EXTINF:-1 tvg-id="GTV NEWS (PK)" tvg-logo="https://i.ytimg.com/vi/UPEd-9OYZfA/maxresdefault.jpg"  group-title="LOCKLE",GTV NEWS (PK)
 http://221.120.204.4/GTV-NEWS-LOCKLE/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="LAHORE RANG (PK)" tvg-logo=" "  group-title="LOCKLE",LAHORE RANG (PK)
+#EXTINF:-1 tvg-id="LAHORE RANG (PK)" tvg-logo="https://en.neonetwork.pk/digital_images/extra-large/2018-03-30/nai-baat-media-network-launches-lahore-rang-hd-1522417496-4620.jpg"  group-title="LOCKLE",LAHORE RANG (PK)
 http://221.120.204.4/LAHORE-RANG-LOCKLE/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="PTV SPORTS (PK)" tvg-logo=" "  group-title="LOCKLE",PTV SPORTS (PK)
+#EXTINF:-1 tvg-id="PTV SPORTS (PK)" tvg-logo="https://gifincric.com/images/2019/12/PTV_Sports.png"  group-title="LOCKLE",PTV SPORTS (PK)
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 
