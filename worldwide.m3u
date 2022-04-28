@@ -1029,22 +1029,58 @@ http://89.187.162.109/SONYWAH/mono.m3u8
 http://89.187.162.109/BOXCINEMA/mono.m3u8
 #EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo=" "  group-title="TELECAST",SAHARA ONE (IN)
 http://89.187.162.109/SAHARAONE/mono.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="TELECAST", (IN)
-
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="TELECAST",AND TV HD (IN)
+http://89.187.162.109/ANDTVHD/mono.m3u8
+#EXTINF:-1 tvg-id="SEMAROO TV" tvg-logo=" "  group-title="TELECAST",SEMAROO TV (IN)
+http://89.187.162.109/FUNTV/mono.m3u8
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" "  group-title="TELECAST",STAR BHARAT HD (IN)
+http://89.187.162.109/STARBHARATHD/mono.m3u8
+#EXTINF:-1 tvg-id="STAR USTAV" tvg-logo=" "  group-title="TELECAST",STAR USTAV (IN)
+http://89.187.162.109/STARUTSAV/mono.m3u8
+#EXTINF:-1 tvg-id="WOW CINEMA" tvg-logo=" "  group-title="TELECAST",WOW CINEMA (IN)
+http://89.187.162.109/WOWCINEMA/mono.m3u8
+#EXTINF:-1 tvg-id="CHANNEL WIN" tvg-logo=" "  group-title="TELECAST",CHANNEL WIN (IN)
+http://89.187.162.109/CHANNELWIN/mono.m3u8
+#EXTINF:-1 tvg-id="NEWS18INDIA" tvg-logo=" "  group-title="TELECAST",NEWS18INDIA (IN)
+http://89.187.162.109/NEWS18INDIA/mono.m3u8
+#EXTINF:-1 tvg-id="NEWS11" tvg-logo=" "  group-title="TELECAST",NEWS11 (IN)
+http://89.187.162.109/NEWS11BHARAT/mono.m3u8
+#EXTINF:-1 tvg-id="SUPER HUNGMA" tvg-logo=" "  group-title="TELECAST",SUPER HUNGMA (IN)
+http://89.187.162.109/MARVEL/mono.m3u8
+#EXTINF:-1 tvg-id="MANORANJAN TV" tvg-logo=" "  group-title="TELECAST",MANORANJAN TV (IN)
+http://89.187.162.109/MANORANJANTV/mono.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo=" "  group-title="TELECAST",AXN (ASIA)
+http://89.187.162.109/axn/mono.m3u8
+#EXTINF:-1 tvg-id="APN NEWS" tvg-logo=" "  group-title="TELECAST",APN NEWS (IN)
+http://89.187.162.109/APNNEWS/mono.m3u8
+#EXTINF:-1 tvg-id="AALAM SAHARA" tvg-logo=" "  group-title="TELECAST",AALAM SAHARA (IN)
+http://89.187.162.109/AALAMISAHARA/mono.m3u8
+#EXTINF:-1 tvg-id="HINDI KHABAR" tvg-logo=" "  group-title="TELECAST",HINDI KHABAR (IN)
+http://89.187.162.109/HINDIKHABAR/mono.m3u8
+#EXTINF:-1 tvg-id="MUSIC INDIA" tvg-logo=" "  group-title="TELECAST",MUSIC INDIA (IN)
+http://89.187.162.109/MUSICINDIA/mono.m3u8
+#EXTINF:-1 tvg-id="MASTII" tvg-logo=" "  group-title="TELECAST",MASTII (IN)
+http://89.187.162.109/MASTII/mono.m3u8
+#EXTINF:-1 tvg-id="9X JALWA" tvg-logo=" "  group-title="TELECAST",9X JALWA (IN)
+http://89.187.162.109/9XJALWA/mono.m3u8
+#EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" "  group-title="TELECAST",FOOD FOOD (IN)
+http://89.187.162.109/FOODFOODHD/mono.m3u8
+#EXTINF:-1 tvg-id="DANGAL" tvg-logo=" "  group-title="TELECAST",DANGAL (IN)
+http://89.187.162.109/DANGAL/mono.m3u8
+#EXTINF:-1 tvg-id="DD INDIA" tvg-logo=" "  group-title="TELECAST",DD INDIA (IN)
+http://89.187.162.109/DDINDIA/mono.m3u8
+#EXTINF:-1 tvg-id="ZING" tvg-logo=" "  group-title="TELECAST",ZING (IN)
+http://89.187.162.109/ZING/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo=" "  group-title="TELECAST",ZEE ANMOL CINEMA (IN)
+http://89.187.162.109/ZEEANMOLCINEMA/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE ANMOL" tvg-logo=" "  group-title="TELECAST",ZEE ANMOL (IN)
+http://89.187.162.109/ZEEANMOL/mono.m3u8
+#EXTINF:-1 tvg-id="CINEMA TV" tvg-logo=" "  group-title="TELECAST",CINEMA TV (IN)
+http://89.187.162.109/CINEMATV/mono.m3u8
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="TELECAST",B4U MOVIES (IN)
+http://89.187.162.109/B4UMOVIES/mono.m3u8
+#EXTINF:-1 tvg-id="B4U KADAK" tvg-logo=" "  group-title="TELECAST",B4U KADAK (IN)
+http://89.187.162.109/B4UKADAK/mono.m3u8
 
 
 
