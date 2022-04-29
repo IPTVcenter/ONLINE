@@ -1007,15 +1007,15 @@ http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVA SERIES" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/ava-series-vipotv.png"  group-title="STREAM",AVA SERIES (IR)
 http://51.210.199.4/hls/stream.m3u8
  
-#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" "  group-title="TELECAST",STAR PLUS HD (IN)
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="TELECAST",STAR PLUS HD (IN)
 http://89.187.162.109/STARPLUSHD/index.m3u8
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" "  group-title="TELECAST",COLORS HD (IN)
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"  group-title="TELECAST",COLORS HD (IN)
 http://89.187.162.109/COLORSHD/mono.m3u8
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" "  group-title="TELECAST",ZEE TV HD (IN)
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png"  group-title="TELECAST",ZEE TV HD (IN)
 http://89.187.162.109/ZEETVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="FILMY" tvg-logo=" "  group-title="TELECAST",FILMY (IN)
+#EXTINF:-1 tvg-id="FILMY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/1200px-Sahara-filmi-tv-logo.svg.png"  group-title="TELECAST",FILMY (IN)
 http://89.187.162.109/SAHARAFILMY/mono.m3u8
-#EXTINF:-1 tvg-id="COLORS CINEPLEX SUPERHITS" tvg-logo=" "  group-title="TELECAST",COLORS CINEPLEX SUPERHITS (IN)
+#EXTINF:-1 tvg-id="COLORS CINEPLEX SUPERHITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Colors_Cineplex_Superhits_logo.jpg/640px-Colors_Cineplex_Superhits_logo.jpg"  group-title="TELECAST",COLORS CINEPLEX SUPERHITS (IN)
 http://89.187.162.109/CINEPLEXHD/mono.m3u8
 #EXTINF:-1 tvg-id="MOVIES PLUS" tvg-logo=" "  group-title="TELECAST",MOVIES PLUS (IN)
 http://89.187.162.109/MOVIESPLUS/mono.m3u8
