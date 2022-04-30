@@ -1043,48 +1043,44 @@ http://89.187.162.109/WOWCINEMA/mono.m3u8
 http://89.187.162.109/CHANNELWIN/mono.m3u8
 #EXTINF:-1 tvg-id="NEWS18 INDIA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hqclXeVK.png"  group-title="TELECAST",NEWS18 INDIA (IN)
 http://89.187.162.109/NEWS18INDIA/mono.m3u8
-#EXTINF:-1 tvg-id="NEWS11" tvg-logo=" "  group-title="TELECAST",NEWS11 (IN)
+#EXTINF:-1 tvg-id="NEWS11 BHARAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Logo_news11.png"  group-title="TELECAST",NEWS11 BHARAT (IN)
 http://89.187.162.109/NEWS11BHARAT/mono.m3u8
-#EXTINF:-1 tvg-id="SUPER HUNGMA" tvg-logo=" "  group-title="TELECAST",SUPER HUNGMA (IN)
+#EXTINF:-1 tvg-id="SUPER HUNGMA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OduYnoQQ.png"  group-title="TELECAST",SUPER HUNGMA (IN)
 http://89.187.162.109/MARVEL/mono.m3u8
-#EXTINF:-1 tvg-id="MANORANJAN TV" tvg-logo=" "  group-title="TELECAST",MANORANJAN TV (IN)
+#EXTINF:-1 tvg-id="MANORANJAN TV" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Tt3HO3dS.png"  group-title="TELECAST",MANORANJAN TV (IN)
 http://89.187.162.109/MANORANJANTV/mono.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-logo=" "  group-title="TELECAST",AXN (ASIA)
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.ibb.co/hyTf5tp/2016-AXN-logo-1.png"  group-title="TELECAST",AXN (ASIA)
 http://89.187.162.109/axn/mono.m3u8
-#EXTINF:-1 tvg-id="APN NEWS" tvg-logo=" "  group-title="TELECAST",APN NEWS (IN)
+#EXTINF:-1 tvg-id="APN NEWS" tvg-logo="http://d2r2ijn7njrktv.cloudfront.net/apnlive/uploads/2018/03/APN-Logo_new.png"  group-title="TELECAST",APN NEWS (IN)
 http://89.187.162.109/APNNEWS/mono.m3u8
-#EXTINF:-1 tvg-id="AALAM SAHARA" tvg-logo=" "  group-title="TELECAST",AALAM SAHARA (IN)
+#EXTINF:-1 tvg-id="AALAMI SAHARA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Aalami_Samay.jpeg"  group-title="TELECAST",AALAMI SAHARA (IN)
 http://89.187.162.109/AALAMISAHARA/mono.m3u8
-#EXTINF:-1 tvg-id="HINDI KHABAR" tvg-logo=" "  group-title="TELECAST",HINDI KHABAR (IN)
+#EXTINF:-1 tvg-id="HINDI KHABAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Hindi_khabar.jpeg"  group-title="TELECAST",HINDI KHABAR (IN)
 http://89.187.162.109/HINDIKHABAR/mono.m3u8
-#EXTINF:-1 tvg-id="MUSIC INDIA" tvg-logo=" "  group-title="TELECAST",MUSIC INDIA (IN)
+#EXTINF:-1 tvg-id="MUSIC INDIA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DgohqQfU.png"  group-title="TELECAST",MUSIC INDIA (IN)
 http://89.187.162.109/MUSICINDIA/mono.m3u8
-#EXTINF:-1 tvg-id="MASTII" tvg-logo=" "  group-title="TELECAST",MASTII (IN)
+#EXTINF:-1 tvg-id="MASTII" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2G5mPUJk.png"  group-title="TELECAST",MASTII (IN)
 http://89.187.162.109/MASTII/mono.m3u8
-#EXTINF:-1 tvg-id="9X JALWA" tvg-logo=" "  group-title="TELECAST",9X JALWA (IN)
+#EXTINF:-1 tvg-id="9X JALWA" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png"  group-title="TELECAST",9X JALWA (IN)
 http://89.187.162.109/9XJALWA/mono.m3u8
-#EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" "  group-title="TELECAST",FOOD FOOD (IN)
+#EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo="https://foodfood.b-cdn.net/assets/images/logo/logo.png"  group-title="TELECAST",FOOD FOOD (IN)
 http://89.187.162.109/FOODFOODHD/mono.m3u8
-#EXTINF:-1 tvg-id="DANGAL" tvg-logo=" "  group-title="TELECAST",DANGAL (IN)
+#EXTINF:-1 tvg-id="DANGAL" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4h8mqrkI.png"  group-title="TELECAST",DANGAL (IN)
 http://89.187.162.109/DANGAL/mono.m3u8
-#EXTINF:-1 tvg-id="DD INDIA" tvg-logo=" "  group-title="TELECAST",DD INDIA (IN)
+#EXTINF:-1 tvg-id="DD INDIA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gj3PdoLx.png"  group-title="TELECAST",DD INDIA (IN)
 http://89.187.162.109/DDINDIA/mono.m3u8
-#EXTINF:-1 tvg-id="ZING" tvg-logo=" "  group-title="TELECAST",ZING (IN)
+#EXTINF:-1 tvg-id="ZING" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1x8qAt8z.png"  group-title="TELECAST",ZING (IN)
 http://89.187.162.109/ZING/mono.m3u8
-#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo=" "  group-title="TELECAST",ZEE ANMOL CINEMA (IN)
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oRDt6fY8.png"  group-title="TELECAST",ZEE ANMOL CINEMA (IN)
 http://89.187.162.109/ZEEANMOLCINEMA/mono.m3u8
-#EXTINF:-1 tvg-id="ZEE ANMOL" tvg-logo=" "  group-title="TELECAST",ZEE ANMOL (IN)
+#EXTINF:-1 tvg-id="ZEE ANMOL" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png"  group-title="TELECAST",ZEE ANMOL (IN)
 http://89.187.162.109/ZEEANMOL/mono.m3u8
-#EXTINF:-1 tvg-id="CINEMA TV" tvg-logo=" "  group-title="TELECAST",CINEMA TV (IN)
+#EXTINF:-1 tvg-id="CINEMA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Cinema_TV_India.jpg"  group-title="TELECAST",CINEMA TV (IN)
 http://89.187.162.109/CINEMATV/mono.m3u8
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" "  group-title="TELECAST",B4U MOVIES (IN)
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vanSrQll.png"  group-title="TELECAST",B4U MOVIES (IN)
 http://89.187.162.109/B4UMOVIES/mono.m3u8
-#EXTINF:-1 tvg-id="B4U KADAK" tvg-logo=" "  group-title="TELECAST",B4U KADAK (IN)
+#EXTINF:-1 tvg-id="B4U KADAK" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="TELECAST",B4U KADAK (IN)
 http://89.187.162.109/B4UKADAK/mono.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="BT SPORTS 1" tvg-logo=" "  group-title="PLAY",BT SPORTS 1 (UK)
