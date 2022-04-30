@@ -1017,31 +1017,31 @@ http://89.187.162.109/ZEETVHD/playlist.m3u8
 http://89.187.162.109/SAHARAFILMY/mono.m3u8
 #EXTINF:-1 tvg-id="COLORS CINEPLEX SUPERHITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Colors_Cineplex_Superhits_logo.jpg/640px-Colors_Cineplex_Superhits_logo.jpg"  group-title="TELECAST",COLORS CINEPLEX SUPERHITS (IN)
 http://89.187.162.109/CINEPLEXHD/mono.m3u8
-#EXTINF:-1 tvg-id="MOVIES PLUS" tvg-logo=" "  group-title="TELECAST",MOVIES PLUS (IN)
+#EXTINF:-1 tvg-id="MOVIES PLUS" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fejwVejl.png"  group-title="TELECAST",MOVIES PLUS (IN)
 http://89.187.162.109/MOVIESPLUS/mono.m3u8
-#EXTINF:-1 tvg-id="SONY HD" tvg-logo=" "  group-title="TELECAST",SONY HD (IN)
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gZcwSo7Q.png"  group-title="TELECAST",SONY HD (IN)
 http://89.187.162.109/SONYHD/mono.m3u8
-#EXTINF:-1 tvg-id="SONY PAL" tvg-logo=" "  group-title="TELECAST",SONY PAL (IN)
+#EXTINF:-1 tvg-id="SONY PAL" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/kGIdiAaO.png"  group-title="TELECAST",SONY PAL (IN)
 http://89.187.162.109/SONYPAL/mono.m3u8
-#EXTINF:-1 tvg-id="SONY WAH" tvg-logo=" "  group-title="TELECAST",SONY WAH (IN)
+#EXTINF:-1 tvg-id="SONY WAH" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2zPS8kkZ.png"  group-title="TELECAST",SONY WAH (IN)
 http://89.187.162.109/SONYWAH/mono.m3u8
-#EXTINF:-1 tvg-id="BOX CINEMA" tvg-logo=" "  group-title="TELECAST",BOX CINEMA (IN)
+#EXTINF:-1 tvg-id="BOX CINEMA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pv6f1sak.png"  group-title="TELECAST",BOX CINEMA (IN)
 http://89.187.162.109/BOXCINEMA/mono.m3u8
-#EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo=" "  group-title="TELECAST",SAHARA ONE (IN)
+#EXTINF:-1 tvg-id="SAHARA ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/SaharaOne2010.png"  group-title="TELECAST",SAHARA ONE (IN)
 http://89.187.162.109/SAHARAONE/mono.m3u8
-#EXTINF:-1 tvg-id="AND TV HD" tvg-logo=" "  group-title="TELECAST",AND TV HD (IN)
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1ZpahMbB.png"  group-title="TELECAST",AND TV HD (IN)
 http://89.187.162.109/ANDTVHD/mono.m3u8
-#EXTINF:-1 tvg-id="SEMAROO TV" tvg-logo=" "  group-title="TELECAST",SEMAROO TV (IN)
+#EXTINF:-1 tvg-id="SHEMAROO TV" tvg-logo="https://trak.in/wp-content/uploads/2020/04/Untitled-design-2-4-768x357.jpg"  group-title="TELECAST",SHEMAROO TV (IN)
 http://89.187.162.109/FUNTV/mono.m3u8
-#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" "  group-title="TELECAST",STAR BHARAT HD (IN)
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://tvwish.com/img/channel/48.jpg"  group-title="TELECAST",STAR BHARAT HD (IN)
 http://89.187.162.109/STARBHARATHD/mono.m3u8
-#EXTINF:-1 tvg-id="STAR USTAV" tvg-logo=" "  group-title="TELECAST",STAR USTAV (IN)
+#EXTINF:-1 tvg-id="STAR USTAV" tvg-logo="http://www.mxmindia.com/wp-content/uploads/2015/01/Star-Utsav-300x300.jpg"  group-title="TELECAST",STAR USTAV (IN)
 http://89.187.162.109/STARUTSAV/mono.m3u8
-#EXTINF:-1 tvg-id="WOW CINEMA" tvg-logo=" "  group-title="TELECAST",WOW CINEMA (IN)
+#EXTINF:-1 tvg-id="WOW CINEMA ONE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cC7fnk8i.png"  group-title="TELECAST",WOW CINEMA ONE (IN)
 http://89.187.162.109/WOWCINEMA/mono.m3u8
-#EXTINF:-1 tvg-id="CHANNEL WIN" tvg-logo=" "  group-title="TELECAST",CHANNEL WIN (IN)
+#EXTINF:-1 tvg-id="CHANNEL WIN" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jk6lvnn4.png"  group-title="TELECAST",CHANNEL WIN (IN)
 http://89.187.162.109/CHANNELWIN/mono.m3u8
-#EXTINF:-1 tvg-id="NEWS18INDIA" tvg-logo=" "  group-title="TELECAST",NEWS18INDIA (IN)
+#EXTINF:-1 tvg-id="NEWS18 INDIA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hqclXeVK.png"  group-title="TELECAST",NEWS18 INDIA (IN)
 http://89.187.162.109/NEWS18INDIA/mono.m3u8
 #EXTINF:-1 tvg-id="NEWS11" tvg-logo=" "  group-title="TELECAST",NEWS11 (IN)
 http://89.187.162.109/NEWS11BHARAT/mono.m3u8
