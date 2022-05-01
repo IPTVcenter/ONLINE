@@ -881,7 +881,10 @@ http://ott3.alwaysdata.net/live/av.php?id=1
 http://ott3.alwaysdata.net/live/ss.php?id=17
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
 http://ott3.alwaysdata.net/live/ss.php?id=18
+#EXTINF:-1 tvg-id="WTFPASS" tvg-logo=" "  group-title="ALWAYSDATA-NET",WTFPASS (US)
+http://ott3.alwaysdata.net/live/lv.php?id=03
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="ALWAYSDATA-NET", (US)
+
 
 
 #EXTINF:-1 tvg-id="GEO HD" tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png"  group-title="GEO-TV",GEO HD (PK)
