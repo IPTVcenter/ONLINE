@@ -1283,9 +1283,9 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/72
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/82
 #EXTINF:-1 tvg-id="ZING" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1x8qAt8z.png"  group-title="MY-NET",ZING (IN)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
-#EXTINF:-1 tvg-id="TRT WORLD" tvg-logo=" "  group-title="MY-NET",TRT WORLD (ASIA)
+#EXTINF:-1 tvg-id="TRT WORLD" tvg-logo="http://www.trtworld.com/images/share-1000x500.png"  group-title="MY-NET",TRT WORLD (ASIA)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/84
-#EXTINF:-1 tvg-id="RT" tvg-logo=" "  group-title="MY-NET",RT (US)
+#EXTINF:-1 tvg-id="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png"  group-title="MY-NET",RT (US)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/56
 
 
