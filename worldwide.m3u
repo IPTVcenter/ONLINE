@@ -891,16 +891,24 @@ http://ott3.alwaysdata.net/live/lv.php?id=03
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TEZ" tvg-logo="http://geotez.tv/assets/front/images/tez_logo.png"  group-title="GEO-TV",TEZ (PK)
 https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"  group-title="JIO-TV",COLORS HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="TRAVEL XP HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/NeJIsLUN.png"  group-title="JIO-TV",TRAVEL XP HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Travel_XP&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="EPIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MljTkYku.png"  group-title="JIO-TV",EPIC (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Epic_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png"  group-title="JIO-TV",SONY BBC EARTH HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_BBC_Earth_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="HISTORY TV 18 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IiqVFncI.png"  group-title="JIO-TV",HISTORY TV 18 HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=History_18_Hindi&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="RANG" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/i4xBn6Zm.png"  group-title="JIO-TV",RANG (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Rang&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/WA4yObkv.png"  group-title="JIO-TV",NEWS LIVE (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Newslive&q=400&e=junk.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="JIO-TV", (IN)
